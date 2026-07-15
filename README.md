@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
