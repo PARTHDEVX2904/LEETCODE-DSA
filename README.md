@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0001-two-sum/) | Easy |
 | [0162-find-peak-element](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,4 +26,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
