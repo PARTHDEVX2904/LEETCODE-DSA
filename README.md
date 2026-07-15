@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0015-3sum/) | Medium |
 | [0162-find-peak-element](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Hash Table
@@ -42,4 +43,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
