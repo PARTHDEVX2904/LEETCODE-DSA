@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0015-3sum/) | Medium |
 | [0162-find-peak-element](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,10 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,8 +50,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0015-3sum/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0015-3sum/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
