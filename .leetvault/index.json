@@ -1,0 +1,16 @@
+{
+  "problems": {
+    "0169-majority-element": {
+      "frontendId": "169",
+      "slug": "majority-element",
+      "title": "Majority Element",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0169-majority-element",
+      "updatedAt": 1784363559813
+    }
+  }
+}
