@@ -11,6 +11,18 @@
       ],
       "folder": "0169-majority-element",
       "updatedAt": 1784363559813
+    },
+    "0054-spiral-matrix": {
+      "frontendId": "54",
+      "slug": "spiral-matrix",
+      "title": "Spiral Matrix",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0054-spiral-matrix",
+      "updatedAt": 1784364845832
     }
   }
 }
