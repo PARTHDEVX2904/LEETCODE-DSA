@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/PARTHDEVX2904/LEETCODE-DSA/tree/main/0162-find-peak-element/) | Medium |
 ## Math
 | Problem Name | Difficulty |
