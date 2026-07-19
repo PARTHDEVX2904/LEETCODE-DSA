@@ -23,6 +23,18 @@
       ],
       "folder": "0054-spiral-matrix",
       "updatedAt": 1784373763579
+    },
+    "3996-even-number-of-knight-moves": {
+      "frontendId": "3996",
+      "slug": "even-number-of-knight-moves",
+      "title": "Even Number of Knight Moves",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3996-even-number-of-knight-moves",
+      "updatedAt": 1784449705529
     }
   }
 }
