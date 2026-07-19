@@ -47,6 +47,18 @@
       ],
       "folder": "0102-binary-tree-level-order-traversal",
       "updatedAt": 1784457046958
+    },
+    "0094-binary-tree-inorder-traversal": {
+      "frontendId": "94",
+      "slug": "binary-tree-inorder-traversal",
+      "title": "Binary Tree Inorder Traversal",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0094-binary-tree-inorder-traversal",
+      "updatedAt": 1784457477470
     }
   }
 }
