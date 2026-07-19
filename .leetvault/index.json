@@ -35,6 +35,18 @@
       ],
       "folder": "3996-even-number-of-knight-moves",
       "updatedAt": 1784449705529
+    },
+    "0102-binary-tree-level-order-traversal": {
+      "frontendId": "102",
+      "slug": "binary-tree-level-order-traversal",
+      "title": "Binary Tree Level Order Traversal",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0102-binary-tree-level-order-traversal",
+      "updatedAt": 1784457046958
     }
   }
 }
