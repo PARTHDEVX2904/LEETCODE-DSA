@@ -71,6 +71,18 @@
       ],
       "folder": "0107-binary-tree-level-order-traversal-ii",
       "updatedAt": 1784458483775
+    },
+    "0100-same-tree": {
+      "frontendId": "100",
+      "slug": "same-tree",
+      "title": "Same Tree",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0100-same-tree",
+      "updatedAt": 1784460715249
     }
   }
 }
