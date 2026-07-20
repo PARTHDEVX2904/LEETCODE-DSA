@@ -83,6 +83,18 @@
       ],
       "folder": "0100-same-tree",
       "updatedAt": 1784460715249
+    },
+    "1260-shift-2d-grid": {
+      "frontendId": "1260",
+      "slug": "shift-2d-grid",
+      "title": "Shift 2D Grid",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1260-shift-2d-grid",
+      "updatedAt": 1784548970754
     }
   }
 }
