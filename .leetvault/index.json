@@ -95,6 +95,18 @@
       ],
       "folder": "1260-shift-2d-grid",
       "updatedAt": 1784548970754
+    },
+    "0104-maximum-depth-of-binary-tree": {
+      "frontendId": "104",
+      "slug": "maximum-depth-of-binary-tree",
+      "title": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0104-maximum-depth-of-binary-tree",
+      "updatedAt": 1784556037349
     }
   }
 }
