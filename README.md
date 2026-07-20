@@ -2,13 +2,14 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**9 problems solved.**
+**10 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium |  | C++ |
 | 94 | [Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal/) | Easy |  | C++ |
 | 100 | [Same Tree](0100-same-tree/) | Easy |  | C++ |
+| 101 | [Symmetric Tree](0101-symmetric-tree/) | Easy |  | C++ |
 | 102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/) | Medium |  | C++ |
 | 104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/) | Easy |  | C++ |
 | 107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/) | Medium |  | C++ |
