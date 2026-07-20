@@ -119,6 +119,18 @@
       ],
       "folder": "0101-symmetric-tree",
       "updatedAt": 1784569922233
+    },
+    "0114-flatten-binary-tree-to-linked-list": {
+      "frontendId": "114",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "title": "Flatten Binary Tree to Linked List",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0114-flatten-binary-tree-to-linked-list",
+      "updatedAt": 1784581217092
     }
   }
 }
