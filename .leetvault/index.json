@@ -107,6 +107,18 @@
       ],
       "folder": "0104-maximum-depth-of-binary-tree",
       "updatedAt": 1784556037349
+    },
+    "0101-symmetric-tree": {
+      "frontendId": "101",
+      "slug": "symmetric-tree",
+      "title": "Symmetric Tree",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0101-symmetric-tree",
+      "updatedAt": 1784569922233
     }
   }
 }
