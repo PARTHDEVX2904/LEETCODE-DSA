@@ -167,6 +167,18 @@
       ],
       "folder": "0110-balanced-binary-tree",
       "updatedAt": 1784616425255
+    },
+    "0112-path-sum": {
+      "frontendId": "112",
+      "slug": "path-sum",
+      "title": "Path Sum",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0112-path-sum",
+      "updatedAt": 1784617587791
     }
   }
 }
