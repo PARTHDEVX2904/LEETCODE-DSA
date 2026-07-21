@@ -131,6 +131,18 @@
       ],
       "folder": "0114-flatten-binary-tree-to-linked-list",
       "updatedAt": 1784581217092
+    },
+    "0103-binary-tree-zigzag-level-order-traversal": {
+      "frontendId": "103",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0103-binary-tree-zigzag-level-order-traversal",
+      "updatedAt": 1784607965910
     }
   }
 }
