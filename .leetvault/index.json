@@ -155,6 +155,18 @@
       ],
       "folder": "0111-minimum-depth-of-binary-tree",
       "updatedAt": 1784610350804
+    },
+    "0110-balanced-binary-tree": {
+      "frontendId": "110",
+      "slug": "balanced-binary-tree",
+      "title": "Balanced Binary Tree",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0110-balanced-binary-tree",
+      "updatedAt": 1784616425255
     }
   }
 }
