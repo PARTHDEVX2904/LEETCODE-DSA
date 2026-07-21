@@ -143,6 +143,18 @@
       ],
       "folder": "0103-binary-tree-zigzag-level-order-traversal",
       "updatedAt": 1784607965910
+    },
+    "0111-minimum-depth-of-binary-tree": {
+      "frontendId": "111",
+      "slug": "minimum-depth-of-binary-tree",
+      "title": "Minimum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0111-minimum-depth-of-binary-tree",
+      "updatedAt": 1784610350804
     }
   }
 }
