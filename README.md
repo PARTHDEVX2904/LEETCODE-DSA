@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**11 problems solved.**
+**12 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -11,6 +11,7 @@
 | 100 | [Same Tree](0100-same-tree/) | Easy |  | C++ |
 | 101 | [Symmetric Tree](0101-symmetric-tree/) | Easy |  | C++ |
 | 102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/) | Medium |  | C++ |
+| 103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/) | Medium |  | C++ |
 | 104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/) | Easy |  | C++ |
 | 107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/) | Medium |  | C++ |
 | 114 | [Flatten Binary Tree to Linked List](0114-flatten-binary-tree-to-linked-list/) | Medium |  | C++ |
