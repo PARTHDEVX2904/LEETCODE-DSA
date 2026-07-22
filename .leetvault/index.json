@@ -191,6 +191,18 @@
       ],
       "folder": "0703-kth-largest-element-in-a-stream",
       "updatedAt": 1784723780057
+    },
+    "0215-kth-largest-element-in-an-array": {
+      "frontendId": "215",
+      "slug": "kth-largest-element-in-an-array",
+      "title": "Kth Largest Element in an Array",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0215-kth-largest-element-in-an-array",
+      "updatedAt": 1784744298669
     }
   }
 }
