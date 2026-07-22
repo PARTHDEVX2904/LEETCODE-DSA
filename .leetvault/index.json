@@ -179,6 +179,18 @@
       ],
       "folder": "0112-path-sum",
       "updatedAt": 1784617587791
+    },
+    "0703-kth-largest-element-in-a-stream": {
+      "frontendId": "703",
+      "slug": "kth-largest-element-in-a-stream",
+      "title": "Kth Largest Element in a Stream",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0703-kth-largest-element-in-a-stream",
+      "updatedAt": 1784723780057
     }
   }
 }
