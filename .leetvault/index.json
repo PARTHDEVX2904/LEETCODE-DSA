@@ -203,6 +203,18 @@
       ],
       "folder": "0215-kth-largest-element-in-an-array",
       "updatedAt": 1784744298669
+    },
+    "0295-find-median-from-data-stream": {
+      "frontendId": "295",
+      "slug": "find-median-from-data-stream",
+      "title": "Find Median from Data Stream",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0295-find-median-from-data-stream",
+      "updatedAt": 1784793055255
     }
   }
 }
