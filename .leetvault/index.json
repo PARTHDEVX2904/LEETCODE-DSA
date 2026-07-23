@@ -215,6 +215,18 @@
       ],
       "folder": "0295-find-median-from-data-stream",
       "updatedAt": 1784793055255
+    },
+    "3513-number-of-unique-xor-triplets-i": {
+      "frontendId": "3513",
+      "slug": "number-of-unique-xor-triplets-i",
+      "title": "Number of Unique XOR Triplets I",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3513-number-of-unique-xor-triplets-i",
+      "updatedAt": 1784798555903
     }
   }
 }
