@@ -239,6 +239,18 @@
       ],
       "folder": "0023-merge-k-sorted-lists",
       "updatedAt": 1784900204914
+    },
+    "0006-zigzag-conversion": {
+      "frontendId": "6",
+      "slug": "zigzag-conversion",
+      "title": "Zigzag Conversion",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0006-zigzag-conversion",
+      "updatedAt": 1784918207918
     }
   }
 }
