@@ -2,12 +2,13 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**21 problems solved.**
+**22 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
 | 6 | [Zigzag Conversion](0006-zigzag-conversion/) | Medium |  | C++ |
 | 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists/) | Hard |  | C++ |
+| 37 | [Sudoku Solver](0037-sudoku-solver/) | Hard |  | C++ |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium |  | C++ |
 | 94 | [Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal/) | Easy |  | C++ |
 | 100 | [Same Tree](0100-same-tree/) | Easy |  | C++ |
