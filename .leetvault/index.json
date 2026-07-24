@@ -227,6 +227,18 @@
       ],
       "folder": "3513-number-of-unique-xor-triplets-i",
       "updatedAt": 1784798555903
+    },
+    "0023-merge-k-sorted-lists": {
+      "frontendId": "23",
+      "slug": "merge-k-sorted-lists",
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0023-merge-k-sorted-lists",
+      "updatedAt": 1784900204914
     }
   }
 }
