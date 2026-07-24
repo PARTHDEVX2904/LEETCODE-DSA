@@ -263,6 +263,18 @@
       ],
       "folder": "0037-sudoku-solver",
       "updatedAt": 1784924196303
+    },
+    "0003-longest-substring-without-repeating-characters": {
+      "frontendId": "3",
+      "slug": "longest-substring-without-repeating-characters",
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "Java"
+      ],
+      "folder": "0003-longest-substring-without-repeating-characters",
+      "updatedAt": 1784926129804
     }
   }
 }
