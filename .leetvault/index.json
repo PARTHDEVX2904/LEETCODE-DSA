@@ -251,6 +251,18 @@
       ],
       "folder": "0006-zigzag-conversion",
       "updatedAt": 1784918207918
+    },
+    "0037-sudoku-solver": {
+      "frontendId": "37",
+      "slug": "sudoku-solver",
+      "title": "Sudoku Solver",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0037-sudoku-solver",
+      "updatedAt": 1784924196303
     }
   }
 }
