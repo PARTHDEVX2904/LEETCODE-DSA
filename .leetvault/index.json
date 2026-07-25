@@ -275,6 +275,18 @@
       ],
       "folder": "0003-longest-substring-without-repeating-characters",
       "updatedAt": 1784926129804
+    },
+    "3536-maximum-product-of-two-digits": {
+      "frontendId": "3536",
+      "slug": "maximum-product-of-two-digits",
+      "title": "Maximum Product of Two Digits",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3536-maximum-product-of-two-digits",
+      "updatedAt": 1784961779695
     }
   }
 }
