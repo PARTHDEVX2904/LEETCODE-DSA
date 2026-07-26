@@ -347,6 +347,18 @@
       ],
       "folder": "0275-h-index-ii",
       "updatedAt": 1785066827808
+    },
+    "0207-course-schedule": {
+      "frontendId": "207",
+      "slug": "course-schedule",
+      "title": "Course Schedule",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0207-course-schedule",
+      "updatedAt": 1785093934346
     }
   }
 }
