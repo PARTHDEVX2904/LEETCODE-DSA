@@ -299,6 +299,18 @@
       ],
       "folder": "101114-largest-integer-with-given-digit-sum",
       "updatedAt": 1785034615449
+    },
+    "101099-aggregate-two-time-series": {
+      "frontendId": "101099",
+      "slug": "aggregate-two-time-series",
+      "title": "Aggregate Two Time Series",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "101099-aggregate-two-time-series",
+      "updatedAt": 1785036565872
     }
   }
 }
