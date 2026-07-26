@@ -359,6 +359,18 @@
       ],
       "folder": "0207-course-schedule",
       "updatedAt": 1785093934346
+    },
+    "0108-convert-sorted-array-to-binary-search-tree": {
+      "frontendId": "108",
+      "slug": "convert-sorted-array-to-binary-search-tree",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0108-convert-sorted-array-to-binary-search-tree",
+      "updatedAt": 1785095807116
     }
   }
 }
