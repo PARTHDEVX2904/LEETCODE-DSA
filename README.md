@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**31 problems solved.**
+**32 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -12,6 +12,7 @@
 | 37 | [Sudoku Solver](0037-sudoku-solver/) | Hard |  | C++ |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium |  | C++ |
 | 94 | [Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal/) | Easy |  | C++ |
+| 98 | [Validate Binary Search Tree](0098-validate-binary-search-tree/) | Medium |  | C++ |
 | 100 | [Same Tree](0100-same-tree/) | Easy |  | C++ |
 | 101 | [Symmetric Tree](0101-symmetric-tree/) | Easy |  | C++ |
 | 102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/) | Medium |  | C++ |
