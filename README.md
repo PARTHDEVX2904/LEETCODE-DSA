@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**27 problems solved.**
+**28 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -30,6 +30,7 @@
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid/) | Easy |  | C++ |
 | 3513 | [Number of Unique XOR Triplets I](3513-number-of-unique-xor-triplets-i/) | Medium |  | C++ |
 | 3536 | [Maximum Product of Two Digits](3536-maximum-product-of-two-digits/) | Easy |  | C++ |
+| 3994 | [Minimum Adjacent Swaps to Partition Array](3994-minimum-adjacent-swaps-to-partition-array/) | Medium |  | C++ |
 | 3996 | [Even Number of Knight Moves](3996-even-number-of-knight-moves/) | Easy |  | C++ |
 | 101099 | [Aggregate Two Time Series](101099-aggregate-two-time-series/) | Medium |  | C++ |
 | 101114 | [Largest Integer With Given Digit Sum](101114-largest-integer-with-given-digit-sum/) | Easy |  | C++ |
