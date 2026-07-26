@@ -323,6 +323,18 @@
       ],
       "folder": "0628-maximum-product-of-three-numbers",
       "updatedAt": 1785049228116
+    },
+    "3994-minimum-adjacent-swaps-to-partition-array": {
+      "frontendId": "3994",
+      "slug": "minimum-adjacent-swaps-to-partition-array",
+      "title": "Minimum Adjacent Swaps to Partition Array",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3994-minimum-adjacent-swaps-to-partition-array",
+      "updatedAt": 1785062752992
     }
   }
 }
