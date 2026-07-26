@@ -287,6 +287,18 @@
       ],
       "folder": "3536-maximum-product-of-two-digits",
       "updatedAt": 1784961779695
+    },
+    "101114-largest-integer-with-given-digit-sum": {
+      "frontendId": "101114",
+      "slug": "largest-integer-with-given-digit-sum",
+      "title": "Largest Integer With Given Digit Sum",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "101114-largest-integer-with-given-digit-sum",
+      "updatedAt": 1785034615449
     }
   }
 }
