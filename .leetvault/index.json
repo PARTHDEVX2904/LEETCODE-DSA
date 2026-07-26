@@ -311,6 +311,18 @@
       ],
       "folder": "101099-aggregate-two-time-series",
       "updatedAt": 1785036565872
+    },
+    "0628-maximum-product-of-three-numbers": {
+      "frontendId": "628",
+      "slug": "maximum-product-of-three-numbers",
+      "title": "Maximum Product of Three Numbers",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0628-maximum-product-of-three-numbers",
+      "updatedAt": 1785049228116
     }
   }
 }
