@@ -371,6 +371,18 @@
       ],
       "folder": "0108-convert-sorted-array-to-binary-search-tree",
       "updatedAt": 1785095807116
+    },
+    "0098-validate-binary-search-tree": {
+      "frontendId": "98",
+      "slug": "validate-binary-search-tree",
+      "title": "Validate Binary Search Tree",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0098-validate-binary-search-tree",
+      "updatedAt": 1785101161634
     }
   }
 }
