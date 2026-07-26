@@ -335,6 +335,18 @@
       ],
       "folder": "3994-minimum-adjacent-swaps-to-partition-array",
       "updatedAt": 1785062752992
+    },
+    "0275-h-index-ii": {
+      "frontendId": "275",
+      "slug": "h-index-ii",
+      "title": "H-Index II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0275-h-index-ii",
+      "updatedAt": 1785066827808
     }
   }
 }
