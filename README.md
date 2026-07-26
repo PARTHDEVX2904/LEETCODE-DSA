@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**30 problems solved.**
+**31 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -18,6 +18,7 @@
 | 103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/) | Medium |  | C++ |
 | 104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/) | Easy |  | C++ |
 | 107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/) | Medium |  | C++ |
+| 108 | [Convert Sorted Array to Binary Search Tree](0108-convert-sorted-array-to-binary-search-tree/) | Easy |  | C++ |
 | 110 | [Balanced Binary Tree](0110-balanced-binary-tree/) | Easy |  | C++ |
 | 111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/) | Easy |  | C++ |
 | 112 | [Path Sum](0112-path-sum/) | Easy |  | C++ |
