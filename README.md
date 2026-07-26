@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**29 problems solved.**
+**30 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -23,6 +23,7 @@
 | 112 | [Path Sum](0112-path-sum/) | Easy |  | C++ |
 | 114 | [Flatten Binary Tree to Linked List](0114-flatten-binary-tree-to-linked-list/) | Medium |  | C++ |
 | 169 | [Majority Element](0169-majority-element/) | Easy |  | C++ |
+| 207 | [Course Schedule](0207-course-schedule/) | Medium |  | C++ |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium |  | C++ |
 | 275 | [H-Index II](0275-h-index-ii/) | Medium |  | C++ |
 | 295 | [Find Median from Data Stream](0295-find-median-from-data-stream/) | Hard |  | C++ |
