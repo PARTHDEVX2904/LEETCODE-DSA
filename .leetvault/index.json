@@ -383,6 +383,18 @@
       ],
       "folder": "0098-validate-binary-search-tree",
       "updatedAt": 1785101161634
+    },
+    "1464-maximum-product-of-two-elements-in-an-array": {
+      "frontendId": "1464",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "title": "Maximum Product of Two Elements in an Array",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1464-maximum-product-of-two-elements-in-an-array",
+      "updatedAt": 1785146129153
     }
   }
 }
