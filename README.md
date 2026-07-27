@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**32 problems solved.**
+**33 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -32,6 +32,7 @@
 | 628 | [Maximum Product of Three Numbers](0628-maximum-product-of-three-numbers/) | Easy |  | C++ |
 | 703 | [Kth Largest Element in a Stream](0703-kth-largest-element-in-a-stream/) | Easy |  | C++ |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid/) | Easy |  | C++ |
+| 1464 | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array/) | Easy |  | C++ |
 | 3513 | [Number of Unique XOR Triplets I](3513-number-of-unique-xor-triplets-i/) | Medium |  | C++ |
 | 3536 | [Maximum Product of Two Digits](3536-maximum-product-of-two-digits/) | Easy |  | C++ |
 | 3994 | [Minimum Adjacent Swaps to Partition Array](3994-minimum-adjacent-swaps-to-partition-array/) | Medium |  | C++ |
