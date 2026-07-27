@@ -395,6 +395,18 @@
       ],
       "folder": "1464-maximum-product-of-two-elements-in-an-array",
       "updatedAt": 1785146129153
+    },
+    "0994-rotting-oranges": {
+      "frontendId": "994",
+      "slug": "rotting-oranges",
+      "title": "Rotting Oranges",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0994-rotting-oranges",
+      "updatedAt": 1785184233315
     }
   }
 }
