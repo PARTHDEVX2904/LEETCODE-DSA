@@ -479,6 +479,18 @@
       ],
       "folder": "0109-convert-sorted-list-to-binary-search-tree",
       "updatedAt": 1785237437187
+    },
+    "0938-range-sum-of-bst": {
+      "frontendId": "938",
+      "slug": "range-sum-of-bst",
+      "title": "Range Sum of BST",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0938-range-sum-of-bst",
+      "updatedAt": 1785237729262
     }
   }
 }
