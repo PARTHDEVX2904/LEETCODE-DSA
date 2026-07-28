@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**42 problems solved.**
+**43 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -27,6 +27,7 @@
 | 110 | [Balanced Binary Tree](0110-balanced-binary-tree/) | Easy |  | C++ |
 | 111 | [Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/) | Easy |  | C++ |
 | 112 | [Path Sum](0112-path-sum/) | Easy |  | C++ |
+| 113 | [Path Sum II](0113-path-sum-ii/) | Medium |  | C++ |
 | 114 | [Flatten Binary Tree to Linked List](0114-flatten-binary-tree-to-linked-list/) | Medium |  | C++ |
 | 169 | [Majority Element](0169-majority-element/) | Easy |  | C++ |
 | 207 | [Course Schedule](0207-course-schedule/) | Medium |  | C++ |
