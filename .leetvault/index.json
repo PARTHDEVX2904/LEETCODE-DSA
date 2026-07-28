@@ -503,6 +503,18 @@
       ],
       "folder": "0404-sum-of-left-leaves",
       "updatedAt": 1785237987006
+    },
+    "0113-path-sum-ii": {
+      "frontendId": "113",
+      "slug": "path-sum-ii",
+      "title": "Path Sum II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0113-path-sum-ii",
+      "updatedAt": 1785238369338
     }
   }
 }
