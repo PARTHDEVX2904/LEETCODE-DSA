@@ -407,6 +407,18 @@
       ],
       "folder": "0994-rotting-oranges",
       "updatedAt": 1785184233315
+    },
+    "3517-smallest-palindromic-rearrangement-i": {
+      "frontendId": "3517",
+      "slug": "smallest-palindromic-rearrangement-i",
+      "title": "Smallest Palindromic Rearrangement I",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3517-smallest-palindromic-rearrangement-i",
+      "updatedAt": 1785229055105
     }
   }
 }
