@@ -431,6 +431,18 @@
       ],
       "folder": "0210-course-schedule-ii",
       "updatedAt": 1785233044334
+    },
+    "0004-median-of-two-sorted-arrays": {
+      "frontendId": "4",
+      "slug": "median-of-two-sorted-arrays",
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0004-median-of-two-sorted-arrays",
+      "updatedAt": 1785234078067
     }
   }
 }
