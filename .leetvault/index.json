@@ -443,6 +443,18 @@
       ],
       "folder": "0004-median-of-two-sorted-arrays",
       "updatedAt": 1785234078067
+    },
+    "0105-construct-binary-tree-from-preorder-and-inorder-traversal": {
+      "frontendId": "105",
+      "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0105-construct-binary-tree-from-preorder-and-inorder-traversal",
+      "updatedAt": 1785236417766
     }
   }
 }
