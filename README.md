@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**41 problems solved.**
+**42 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -34,6 +34,7 @@
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium |  | C++ |
 | 275 | [H-Index II](0275-h-index-ii/) | Medium |  | C++ |
 | 295 | [Find Median from Data Stream](0295-find-median-from-data-stream/) | Hard |  | C++ |
+| 404 | [Sum of Left Leaves](0404-sum-of-left-leaves/) | Easy |  | C++ |
 | 628 | [Maximum Product of Three Numbers](0628-maximum-product-of-three-numbers/) | Easy |  | C++ |
 | 703 | [Kth Largest Element in a Stream](0703-kth-largest-element-in-a-stream/) | Easy |  | C++ |
 | 938 | [Range Sum of BST](0938-range-sum-of-bst/) | Easy |  | C++ |
