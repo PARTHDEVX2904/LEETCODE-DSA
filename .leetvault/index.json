@@ -515,6 +515,18 @@
       ],
       "folder": "0113-path-sum-ii",
       "updatedAt": 1785238369338
+    },
+    "0230-kth-smallest-element-in-a-bst": {
+      "frontendId": "230",
+      "slug": "kth-smallest-element-in-a-bst",
+      "title": "Kth Smallest Element in a BST",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0230-kth-smallest-element-in-a-bst",
+      "updatedAt": 1785238951136
     }
   }
 }
