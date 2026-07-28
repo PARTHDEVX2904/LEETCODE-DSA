@@ -419,6 +419,18 @@
       ],
       "folder": "3517-smallest-palindromic-rearrangement-i",
       "updatedAt": 1785229055105
+    },
+    "0210-course-schedule-ii": {
+      "frontendId": "210",
+      "slug": "course-schedule-ii",
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0210-course-schedule-ii",
+      "updatedAt": 1785233044334
     }
   }
 }
