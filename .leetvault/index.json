@@ -491,6 +491,18 @@
       ],
       "folder": "0938-range-sum-of-bst",
       "updatedAt": 1785237729262
+    },
+    "0404-sum-of-left-leaves": {
+      "frontendId": "404",
+      "slug": "sum-of-left-leaves",
+      "title": "Sum of Left Leaves",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0404-sum-of-left-leaves",
+      "updatedAt": 1785237987006
     }
   }
 }
