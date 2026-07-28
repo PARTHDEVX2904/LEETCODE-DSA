@@ -467,6 +467,18 @@
       ],
       "folder": "0106-construct-binary-tree-from-inorder-and-postorder-traversal",
       "updatedAt": 1785236622469
+    },
+    "0109-convert-sorted-list-to-binary-search-tree": {
+      "frontendId": "109",
+      "slug": "convert-sorted-list-to-binary-search-tree",
+      "title": "Convert Sorted List to Binary Search Tree",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0109-convert-sorted-list-to-binary-search-tree",
+      "updatedAt": 1785237437187
     }
   }
 }
