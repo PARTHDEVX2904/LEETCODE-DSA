@@ -551,6 +551,18 @@
       ],
       "folder": "0117-populating-next-right-pointers-in-each-node-ii",
       "updatedAt": 1785343802124
+    },
+    "0199-binary-tree-right-side-view": {
+      "frontendId": "199",
+      "slug": "binary-tree-right-side-view",
+      "title": "Binary Tree Right Side View",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0199-binary-tree-right-side-view",
+      "updatedAt": 1785344941614
     }
   }
 }
