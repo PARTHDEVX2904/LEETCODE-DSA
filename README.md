@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**46 problems solved.**
+**47 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -32,6 +32,7 @@
 | 116 | [Populating Next Right Pointers in Each Node](0116-populating-next-right-pointers-in-each-node/) | Medium |  | C++ |
 | 117 | [Populating Next Right Pointers in Each Node II](0117-populating-next-right-pointers-in-each-node-ii/) | Medium |  | C++ |
 | 169 | [Majority Element](0169-majority-element/) | Easy |  | C++ |
+| 199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/) | Medium |  | C++ |
 | 207 | [Course Schedule](0207-course-schedule/) | Medium |  | C++ |
 | 210 | [Course Schedule II](0210-course-schedule-ii/) | Medium |  | C++ |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium |  | C++ |
