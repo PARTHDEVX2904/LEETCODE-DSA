@@ -563,6 +563,18 @@
       ],
       "folder": "0199-binary-tree-right-side-view",
       "updatedAt": 1785344941614
+    },
+    "0175-combine-two-tables": {
+      "frontendId": "175",
+      "slug": "combine-two-tables",
+      "title": "Combine Two Tables",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "0175-combine-two-tables",
+      "updatedAt": 1785345207251
     }
   }
 }
