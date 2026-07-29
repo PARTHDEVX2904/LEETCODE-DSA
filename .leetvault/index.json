@@ -527,6 +527,18 @@
       ],
       "folder": "0230-kth-smallest-element-in-a-bst",
       "updatedAt": 1785238951136
+    },
+    "0116-populating-next-right-pointers-in-each-node": {
+      "frontendId": "116",
+      "slug": "populating-next-right-pointers-in-each-node",
+      "title": "Populating Next Right Pointers in Each Node",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0116-populating-next-right-pointers-in-each-node",
+      "updatedAt": 1785343459209
     }
   }
 }
