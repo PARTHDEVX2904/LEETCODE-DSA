@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**45 problems solved.**
+**46 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -30,6 +30,7 @@
 | 113 | [Path Sum II](0113-path-sum-ii/) | Medium |  | C++ |
 | 114 | [Flatten Binary Tree to Linked List](0114-flatten-binary-tree-to-linked-list/) | Medium |  | C++ |
 | 116 | [Populating Next Right Pointers in Each Node](0116-populating-next-right-pointers-in-each-node/) | Medium |  | C++ |
+| 117 | [Populating Next Right Pointers in Each Node II](0117-populating-next-right-pointers-in-each-node-ii/) | Medium |  | C++ |
 | 169 | [Majority Element](0169-majority-element/) | Easy |  | C++ |
 | 207 | [Course Schedule](0207-course-schedule/) | Medium |  | C++ |
 | 210 | [Course Schedule II](0210-course-schedule-ii/) | Medium |  | C++ |
