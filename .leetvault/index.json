@@ -539,6 +539,18 @@
       ],
       "folder": "0116-populating-next-right-pointers-in-each-node",
       "updatedAt": 1785343459209
+    },
+    "0117-populating-next-right-pointers-in-each-node-ii": {
+      "frontendId": "117",
+      "slug": "populating-next-right-pointers-in-each-node-ii",
+      "title": "Populating Next Right Pointers in Each Node II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0117-populating-next-right-pointers-in-each-node-ii",
+      "updatedAt": 1785343802124
     }
   }
 }
