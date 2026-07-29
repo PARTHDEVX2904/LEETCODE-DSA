@@ -575,6 +575,18 @@
       ],
       "folder": "0175-combine-two-tables",
       "updatedAt": 1785345207251
+    },
+    "0183-customers-who-never-order": {
+      "frontendId": "183",
+      "slug": "customers-who-never-order",
+      "title": "Customers Who Never Order",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "0183-customers-who-never-order",
+      "updatedAt": 1785345496247
     }
   }
 }
