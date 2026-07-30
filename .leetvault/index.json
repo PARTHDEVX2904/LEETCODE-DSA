@@ -587,6 +587,18 @@
       ],
       "folder": "0183-customers-who-never-order",
       "updatedAt": 1785345496247
+    },
+    "3014-minimum-number-of-pushes-to-type-word-i": {
+      "frontendId": "3014",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3014-minimum-number-of-pushes-to-type-word-i",
+      "updatedAt": 1785386511860
     }
   }
 }
