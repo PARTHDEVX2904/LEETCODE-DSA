@@ -599,6 +599,18 @@
       ],
       "folder": "3014-minimum-number-of-pushes-to-type-word-i",
       "updatedAt": 1785386511860
+    },
+    "3016-minimum-number-of-pushes-to-type-word-ii": {
+      "frontendId": "3016",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "updatedAt": 1785471318974
     }
   }
 }
