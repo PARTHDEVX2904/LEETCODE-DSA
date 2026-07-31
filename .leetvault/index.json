@@ -611,6 +611,18 @@
       ],
       "folder": "3016-minimum-number-of-pushes-to-type-word-ii",
       "updatedAt": 1785471318974
+    },
+    "1091-shortest-path-in-binary-matrix": {
+      "frontendId": "1091",
+      "slug": "shortest-path-in-binary-matrix",
+      "title": "Shortest Path in Binary Matrix",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1091-shortest-path-in-binary-matrix",
+      "updatedAt": 1785472673832
     }
   }
 }
