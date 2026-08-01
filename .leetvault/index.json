@@ -635,6 +635,18 @@
       ],
       "folder": "0129-sum-root-to-leaf-numbers",
       "updatedAt": 1785567815275
+    },
+    "0145-binary-tree-postorder-traversal": {
+      "frontendId": "145",
+      "slug": "binary-tree-postorder-traversal",
+      "title": "Binary Tree Postorder Traversal",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0145-binary-tree-postorder-traversal",
+      "updatedAt": 1785567900904
     }
   }
 }
