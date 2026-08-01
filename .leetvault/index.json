@@ -623,6 +623,18 @@
       ],
       "folder": "1091-shortest-path-in-binary-matrix",
       "updatedAt": 1785472673832
+    },
+    "0129-sum-root-to-leaf-numbers": {
+      "frontendId": "129",
+      "slug": "sum-root-to-leaf-numbers",
+      "title": "Sum Root to Leaf Numbers",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0129-sum-root-to-leaf-numbers",
+      "updatedAt": 1785567815275
     }
   }
 }
