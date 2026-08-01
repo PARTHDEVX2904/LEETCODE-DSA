@@ -647,6 +647,18 @@
       ],
       "folder": "0145-binary-tree-postorder-traversal",
       "updatedAt": 1785567900904
+    },
+    "0257-binary-tree-paths": {
+      "frontendId": "257",
+      "slug": "binary-tree-paths",
+      "title": "Binary Tree Paths",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0257-binary-tree-paths",
+      "updatedAt": 1785568191557
     }
   }
 }
