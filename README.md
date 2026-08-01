@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**53 problems solved.**
+**54 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -32,6 +32,7 @@
 | 116 | [Populating Next Right Pointers in Each Node](0116-populating-next-right-pointers-in-each-node/) | Medium |  | C++ |
 | 117 | [Populating Next Right Pointers in Each Node II](0117-populating-next-right-pointers-in-each-node-ii/) | Medium |  | C++ |
 | 129 | [Sum Root to Leaf Numbers](0129-sum-root-to-leaf-numbers/) | Medium |  | C++ |
+| 145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/) | Easy |  | C++ |
 | 169 | [Majority Element](0169-majority-element/) | Easy |  | C++ |
 | 175 | [Combine Two Tables](0175-combine-two-tables/) | Easy |  | mysql |
 | 183 | [Customers Who Never Order](0183-customers-who-never-order/) | Easy |  | mysql |
