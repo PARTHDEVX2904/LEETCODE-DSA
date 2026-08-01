@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**54 problems solved.**
+**55 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -41,6 +41,7 @@
 | 210 | [Course Schedule II](0210-course-schedule-ii/) | Medium |  | C++ |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium |  | C++ |
 | 230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/) | Medium |  | C++ |
+| 257 | [Binary Tree Paths](0257-binary-tree-paths/) | Easy |  | C++ |
 | 275 | [H-Index II](0275-h-index-ii/) | Medium |  | C++ |
 | 295 | [Find Median from Data Stream](0295-find-median-from-data-stream/) | Hard |  | C++ |
 | 404 | [Sum of Left Leaves](0404-sum-of-left-leaves/) | Easy |  | C++ |
