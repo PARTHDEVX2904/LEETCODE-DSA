@@ -707,6 +707,18 @@
       ],
       "folder": "4010-maximize-pair-strength-using-gcd",
       "updatedAt": 1785694843614
+    },
+    "4011-count-subarrays-with-even-odd-ratio-i": {
+      "frontendId": "4011",
+      "slug": "count-subarrays-with-even-odd-ratio-i",
+      "title": "Count Subarrays With Even Odd Ratio I",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4011-count-subarrays-with-even-odd-ratio-i",
+      "updatedAt": 1785701955826
     }
   }
 }
