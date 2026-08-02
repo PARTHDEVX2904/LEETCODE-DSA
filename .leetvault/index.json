@@ -695,6 +695,18 @@
       ],
       "folder": "0236-lowest-common-ancestor-of-a-binary-tree",
       "updatedAt": 1785692464241
+    },
+    "4010-maximize-pair-strength-using-gcd": {
+      "frontendId": "4010",
+      "slug": "maximize-pair-strength-using-gcd",
+      "title": "Maximize Pair Strength Using GCD",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4010-maximize-pair-strength-using-gcd",
+      "updatedAt": 1785694843614
     }
   }
 }
