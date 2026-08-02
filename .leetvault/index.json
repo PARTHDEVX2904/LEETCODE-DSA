@@ -683,6 +683,18 @@
       ],
       "folder": "0746-min-cost-climbing-stairs",
       "updatedAt": 1785680718672
+    },
+    "0236-lowest-common-ancestor-of-a-binary-tree": {
+      "frontendId": "236",
+      "slug": "lowest-common-ancestor-of-a-binary-tree",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0236-lowest-common-ancestor-of-a-binary-tree",
+      "updatedAt": 1785692464241
     }
   }
 }
