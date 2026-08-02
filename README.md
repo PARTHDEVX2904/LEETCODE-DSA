@@ -2,13 +2,14 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**55 problems solved.**
+**56 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
 | 3 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/) | Medium |  | Java |
 | 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard |  | C++ |
 | 6 | [Zigzag Conversion](0006-zigzag-conversion/) | Medium |  | C++ |
+| 12 | [Integer to Roman](0012-integer-to-roman/) | Medium |  | C++ |
 | 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists/) | Hard |  | C++ |
 | 37 | [Sudoku Solver](0037-sudoku-solver/) | Hard |  | C++ |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium |  | C++ |
