@@ -671,6 +671,18 @@
       ],
       "folder": "0012-integer-to-roman",
       "updatedAt": 1785674882318
+    },
+    "0746-min-cost-climbing-stairs": {
+      "frontendId": "746",
+      "slug": "min-cost-climbing-stairs",
+      "title": "Min Cost Climbing Stairs",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0746-min-cost-climbing-stairs",
+      "updatedAt": 1785680718672
     }
   }
 }
