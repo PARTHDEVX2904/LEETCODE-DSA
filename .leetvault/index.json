@@ -659,6 +659,18 @@
       ],
       "folder": "0257-binary-tree-paths",
       "updatedAt": 1785568191557
+    },
+    "0012-integer-to-roman": {
+      "frontendId": "12",
+      "slug": "integer-to-roman",
+      "title": "Integer to Roman",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0012-integer-to-roman",
+      "updatedAt": 1785674882318
     }
   }
 }
