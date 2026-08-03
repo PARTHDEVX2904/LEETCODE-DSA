@@ -767,6 +767,18 @@
       ],
       "folder": "0322-coin-change",
       "updatedAt": 1785750853731
+    },
+    "0055-jump-game": {
+      "frontendId": "55",
+      "slug": "jump-game",
+      "title": "Jump Game",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0055-jump-game",
+      "updatedAt": 1785761377637
     }
   }
 }
