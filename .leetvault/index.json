@@ -731,6 +731,18 @@
       ],
       "folder": "0070-climbing-stairs",
       "updatedAt": 1785739120963
+    },
+    "2620-counter": {
+      "frontendId": "2620",
+      "slug": "counter",
+      "title": "Counter",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "JavaScript"
+      ],
+      "folder": "2620-counter",
+      "updatedAt": 1785739528358
     }
   }
 }
