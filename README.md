@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**60 problems solved.**
+**61 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -13,6 +13,7 @@
 | 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists/) | Hard |  | C++ |
 | 37 | [Sudoku Solver](0037-sudoku-solver/) | Hard |  | C++ |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium |  | C++ |
+| 70 | [Climbing Stairs](0070-climbing-stairs/) | Easy |  | C++ |
 | 94 | [Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal/) | Easy |  | C++ |
 | 98 | [Validate Binary Search Tree](0098-validate-binary-search-tree/) | Medium |  | C++ |
 | 100 | [Same Tree](0100-same-tree/) | Easy |  | C++ |
