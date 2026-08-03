@@ -719,6 +719,18 @@
       ],
       "folder": "4011-count-subarrays-with-even-odd-ratio-i",
       "updatedAt": 1785701955826
+    },
+    "0070-climbing-stairs": {
+      "frontendId": "70",
+      "slug": "climbing-stairs",
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0070-climbing-stairs",
+      "updatedAt": 1785739034750
     }
   }
 }
