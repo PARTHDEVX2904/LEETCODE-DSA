@@ -11,14 +11,14 @@
 
 | Metric  | Value   | Beats |
 |---------|---------|-------|
-| Runtime | 2 ms | `█░░░░░░░░░` **5.1%** |
-| Memory  | 8.5 MB | `████░░░░░░` **38.7%** |
+| Runtime | 0 ms | `██████████` **100.0%** |
+| Memory  | 8.6 MB | `██░░░░░░░░` **20.7%** |
 
 ## Complexity
 
 | | Complexity | Why |
 |---|---|---|
-| ⏱️ Time  | **O(n)** | recursive traversal, each element visited once |
+| ⏱️ Time  | **O(n)** | a single pass over the input |
 | 💾 Space | **O(n)** | stores input-dependent data in an auxiliary structure |
 
 > ⚠️ _Complexity is **estimated** by static analysis of the code (loop nesting, sorting, recursion) — verify before relying on it._
