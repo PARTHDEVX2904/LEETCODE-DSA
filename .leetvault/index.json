@@ -743,6 +743,18 @@
       ],
       "folder": "2620-counter",
       "updatedAt": 1785739528358
+    },
+    "2618-check-if-object-instance-of-class": {
+      "frontendId": "2618",
+      "slug": "check-if-object-instance-of-class",
+      "title": "Check if Object Instance of Class",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "JavaScript"
+      ],
+      "folder": "2618-check-if-object-instance-of-class",
+      "updatedAt": 1785740041817
     }
   }
 }
