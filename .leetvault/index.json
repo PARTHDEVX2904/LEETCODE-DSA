@@ -755,6 +755,18 @@
       ],
       "folder": "2618-check-if-object-instance-of-class",
       "updatedAt": 1785740041817
+    },
+    "0322-coin-change": {
+      "frontendId": "322",
+      "slug": "coin-change",
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0322-coin-change",
+      "updatedAt": 1785750853731
     }
   }
 }
