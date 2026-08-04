@@ -779,6 +779,18 @@
       ],
       "folder": "0055-jump-game",
       "updatedAt": 1785761377637
+    },
+    "3731-find-missing-elements": {
+      "frontendId": "3731",
+      "slug": "find-missing-elements",
+      "title": "Find Missing Elements",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3731-find-missing-elements",
+      "updatedAt": 1785805137927
     }
   }
 }
