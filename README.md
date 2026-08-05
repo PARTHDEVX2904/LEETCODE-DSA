@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**73 problems solved.**
+**74 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -53,6 +53,7 @@
 | 295 | [Find Median from Data Stream](0295-find-median-from-data-stream/) | Hard |  | C++ |
 | 322 | [Coin Change](0322-coin-change/) | Medium |  | C++ |
 | 404 | [Sum of Left Leaves](0404-sum-of-left-leaves/) | Easy |  | C++ |
+| 450 | [Delete Node in a BST](0450-delete-node-in-a-bst/) | Medium |  | C++ |
 | 543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/) | Easy |  | C++ |
 | 572 | [Subtree of Another Tree](0572-subtree-of-another-tree/) | Easy |  | C++ |
 | 628 | [Maximum Product of Three Numbers](0628-maximum-product-of-three-numbers/) | Easy |  | C++ |
