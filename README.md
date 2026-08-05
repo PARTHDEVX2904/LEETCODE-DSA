@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**72 problems solved.**
+**73 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -56,6 +56,7 @@
 | 543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/) | Easy |  | C++ |
 | 572 | [Subtree of Another Tree](0572-subtree-of-another-tree/) | Easy |  | C++ |
 | 628 | [Maximum Product of Three Numbers](0628-maximum-product-of-three-numbers/) | Easy |  | C++ |
+| 701 | [Insert into a Binary Search Tree](0701-insert-into-a-binary-search-tree/) | Medium |  | C++ |
 | 703 | [Kth Largest Element in a Stream](0703-kth-largest-element-in-a-stream/) | Easy |  | C++ |
 | 746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/) | Easy |  | C++ |
 | 938 | [Range Sum of BST](0938-range-sum-of-bst/) | Easy |  | C++ |
