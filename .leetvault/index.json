@@ -791,6 +791,18 @@
       ],
       "folder": "3731-find-missing-elements",
       "updatedAt": 1785805137927
+    },
+    "0056-merge-intervals": {
+      "frontendId": "56",
+      "slug": "merge-intervals",
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0056-merge-intervals",
+      "updatedAt": 1785909722689
     }
   }
 }
