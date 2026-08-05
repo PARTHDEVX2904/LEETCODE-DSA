@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**69 problems solved.**
+**70 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -65,6 +65,7 @@
 | 2620 | [Counter](2620-counter/) | Easy |  | JavaScript |
 | 3014 | [Minimum Number of Pushes to Type Word I](3014-minimum-number-of-pushes-to-type-word-i/) | Easy |  | C++ |
 | 3016 | [Minimum Number of Pushes to Type Word II](3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |  | C++ |
+| 3310 | [Remove Methods From Project](3310-remove-methods-from-project/) | Medium |  | C++ |
 | 3513 | [Number of Unique XOR Triplets I](3513-number-of-unique-xor-triplets-i/) | Medium |  | C++ |
 | 3517 | [Smallest Palindromic Rearrangement I](3517-smallest-palindromic-rearrangement-i/) | Medium |  | C++ |
 | 3536 | [Maximum Product of Two Digits](3536-maximum-product-of-two-digits/) | Easy |  | C++ |
