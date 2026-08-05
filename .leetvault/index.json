@@ -899,6 +899,18 @@
       ],
       "folder": "1448-count-good-nodes-in-binary-tree",
       "updatedAt": 1785958966948
+    },
+    "1325-delete-leaves-with-a-given-value": {
+      "frontendId": "1325",
+      "slug": "delete-leaves-with-a-given-value",
+      "title": "Delete Leaves With a Given Value",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1325-delete-leaves-with-a-given-value",
+      "updatedAt": 1785959680306
     }
   }
 }
