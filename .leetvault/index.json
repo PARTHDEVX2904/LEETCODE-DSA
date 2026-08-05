@@ -815,6 +815,18 @@
       ],
       "folder": "0226-invert-binary-tree",
       "updatedAt": 1785917065509
+    },
+    "0543-diameter-of-binary-tree": {
+      "frontendId": "543",
+      "slug": "diameter-of-binary-tree",
+      "title": "Diameter of Binary Tree",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0543-diameter-of-binary-tree",
+      "updatedAt": 1785919065869
     }
   }
 }
