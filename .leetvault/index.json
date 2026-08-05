@@ -887,6 +887,18 @@
       ],
       "folder": "0450-delete-node-in-a-bst",
       "updatedAt": 1785928945022
+    },
+    "1448-count-good-nodes-in-binary-tree": {
+      "frontendId": "1448",
+      "slug": "count-good-nodes-in-binary-tree",
+      "title": "Count Good Nodes in Binary Tree",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1448-count-good-nodes-in-binary-tree",
+      "updatedAt": 1785958966948
     }
   }
 }
