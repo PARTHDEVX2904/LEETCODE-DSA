@@ -911,6 +911,18 @@
       ],
       "folder": "1325-delete-leaves-with-a-given-value",
       "updatedAt": 1785959680306
+    },
+    "0124-binary-tree-maximum-path-sum": {
+      "frontendId": "124",
+      "slug": "binary-tree-maximum-path-sum",
+      "title": "Binary Tree Maximum Path Sum",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0124-binary-tree-maximum-path-sum",
+      "updatedAt": 1785960965922
     }
   }
 }
