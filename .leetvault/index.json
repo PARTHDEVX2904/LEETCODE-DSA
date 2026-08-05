@@ -803,6 +803,18 @@
       ],
       "folder": "0056-merge-intervals",
       "updatedAt": 1785909722689
+    },
+    "0226-invert-binary-tree": {
+      "frontendId": "226",
+      "slug": "invert-binary-tree",
+      "title": "Invert Binary Tree",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0226-invert-binary-tree",
+      "updatedAt": 1785916903949
     }
   }
 }
