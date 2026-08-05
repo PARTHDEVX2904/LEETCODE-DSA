@@ -863,6 +863,18 @@
       ],
       "folder": "0572-subtree-of-another-tree",
       "updatedAt": 1785926459659
+    },
+    "0701-insert-into-a-binary-search-tree": {
+      "frontendId": "701",
+      "slug": "insert-into-a-binary-search-tree",
+      "title": "Insert into a Binary Search Tree",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0701-insert-into-a-binary-search-tree",
+      "updatedAt": 1785928237487
     }
   }
 }
