@@ -11,26 +11,20 @@
  */
 class Solution {
 public:
-    int isBalancedFast(TreeNode* root){
-        if(root==NULL){
-            return 0;
-        }
-        if(!root->left && !root->right) return 1;
-        int left = isBalancedFast(root->left);
-        if (left == -1) return -1;
-
-        int right = isBalancedFast(root->right);
-        if (right == -1) return -1;
-        bool cond = abs(left-right) <= 1;
-        
-
-        if(cond) return 1+max(left,right);
-        else{
-            return -1;
+    vector<int> dfs(TreeNode* root){
+        if(!root){
+            return {1,0};
         }
 
+        vector<int> left = dfs(root->left);
+        vector<int> right = dfs(root->right);
+
+        int balanced = (left[0] == 1 && right[0]==1) && (abs(left[1]-right[1])<=1);
+        int height = 1 + max(left[1],right[1]);
+
+        return {balanced ? 1:0, height};
     }
     bool isBalanced(TreeNode* root) {
-        return isBalancedFast(root)!=-1;
+     return dfs(root)[0]== 1;   
     }
 };
