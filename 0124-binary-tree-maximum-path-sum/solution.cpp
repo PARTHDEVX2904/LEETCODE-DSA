@@ -11,30 +11,41 @@
  */
 class Solution {
 public:
-    int res = INT_MIN;
-    int getMax(TreeNode* root){
+    //int res = INT_MIN;
+    // int getMax(TreeNode* root){
+    //     if(!root) return 0;
+
+    //     int left = getMax(root->left);
+    //     int right = getMax(root->right);
+    //     int path = root->val + max(right,left);
+    //     //negative value won't be accepted 
+    //     return max(path,0);
+    // }
+    int dfs(TreeNode* root, int& res){
+        // if(!root) return;
+        // int left = getMax(root->left);
+        // int right = getMax(root->right);
+
+        // res = max(res, root->val+left+right);
+
+        // //recursive calls
+        // dfs(root->left);
+        // dfs(root->right);
         if(!root) return 0;
 
-        int left = getMax(root->left);
-        int right = getMax(root->right);
-        int path = root->val + max(right,left);
-        //negative value won't be accepted 
-        return max(path,0);
-    }
-    void dfs(TreeNode* root){
-        if(!root) return;
-        int left = getMax(root->left);
-        int right = getMax(root->right);
+        int leftMax = max(dfs(root->left,res),0);
+        int rightMax = max(dfs(root->right,res),0);
 
-        res = max(res, root->val+left+right);
+        res = max(res, root->val + leftMax + rightMax);
 
-        //recursive calls
-        dfs(root->left);
-        dfs(root->right);
+        return root->val + max(leftMax,rightMax);
 
     }
     int maxPathSum(TreeNode* root) {
-        dfs(root);
+        // dfs(root);
+        // return res;
+        int res = root->val;
+        dfs(root, res);
         return res;
     }
 };
