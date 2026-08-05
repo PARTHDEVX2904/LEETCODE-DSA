@@ -827,6 +827,18 @@
       ],
       "folder": "0543-diameter-of-binary-tree",
       "updatedAt": 1785919588378
+    },
+    "3310-remove-methods-from-project": {
+      "frontendId": "3310",
+      "slug": "remove-methods-from-project",
+      "title": "Remove Methods From Project",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3310-remove-methods-from-project",
+      "updatedAt": 1785923857078
     }
   }
 }
