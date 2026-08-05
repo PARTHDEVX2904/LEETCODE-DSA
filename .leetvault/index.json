@@ -851,6 +851,18 @@
       ],
       "folder": "0235-lowest-common-ancestor-of-a-binary-search-tree",
       "updatedAt": 1785924318842
+    },
+    "0572-subtree-of-another-tree": {
+      "frontendId": "572",
+      "slug": "subtree-of-another-tree",
+      "title": "Subtree of Another Tree",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0572-subtree-of-another-tree",
+      "updatedAt": 1785926459659
     }
   }
 }
