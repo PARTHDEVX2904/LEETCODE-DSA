@@ -839,6 +839,18 @@
       ],
       "folder": "3310-remove-methods-from-project",
       "updatedAt": 1785923857078
+    },
+    "0235-lowest-common-ancestor-of-a-binary-search-tree": {
+      "frontendId": "235",
+      "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0235-lowest-common-ancestor-of-a-binary-search-tree",
+      "updatedAt": 1785924318842
     }
   }
 }
