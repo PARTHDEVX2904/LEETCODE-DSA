@@ -875,6 +875,18 @@
       ],
       "folder": "0701-insert-into-a-binary-search-tree",
       "updatedAt": 1785928237487
+    },
+    "0450-delete-node-in-a-bst": {
+      "frontendId": "450",
+      "slug": "delete-node-in-a-bst",
+      "title": "Delete Node in a BST",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0450-delete-node-in-a-bst",
+      "updatedAt": 1785928945022
     }
   }
 }
