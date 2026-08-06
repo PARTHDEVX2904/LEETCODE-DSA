@@ -995,6 +995,18 @@
       ],
       "folder": "0973-k-closest-points-to-origin",
       "updatedAt": 1786032463402
+    },
+    "0053-maximum-subarray": {
+      "frontendId": "53",
+      "slug": "maximum-subarray",
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0053-maximum-subarray",
+      "updatedAt": 1786033066003
     }
   }
 }
