@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**81 problems solved.**
+**82 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -52,6 +52,7 @@
 | 257 | [Binary Tree Paths](0257-binary-tree-paths/) | Easy |  | C++ |
 | 275 | [H-Index II](0275-h-index-ii/) | Medium |  | C++ |
 | 295 | [Find Median from Data Stream](0295-find-median-from-data-stream/) | Hard |  | C++ |
+| 297 | [Serialize and Deserialize Binary Tree](0297-serialize-and-deserialize-binary-tree/) | Hard |  | C++ |
 | 322 | [Coin Change](0322-coin-change/) | Medium |  | C++ |
 | 337 | [House Robber III](0337-house-robber-iii/) | Medium |  | C++ |
 | 386 | [Lexicographical Numbers](0386-lexicographical-numbers/) | Medium |  | C++ |
