@@ -959,6 +959,18 @@
       ],
       "folder": "0987-vertical-order-traversal-of-a-binary-tree",
       "updatedAt": 1785988752078
+    },
+    "0337-house-robber-iii": {
+      "frontendId": "337",
+      "slug": "house-robber-iii",
+      "title": "House Robber III",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0337-house-robber-iii",
+      "updatedAt": 1785998264220
     }
   }
 }
