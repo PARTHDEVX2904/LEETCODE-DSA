@@ -983,6 +983,18 @@
       ],
       "folder": "0297-serialize-and-deserialize-binary-tree",
       "updatedAt": 1786005692532
+    },
+    "0973-k-closest-points-to-origin": {
+      "frontendId": "973",
+      "slug": "k-closest-points-to-origin",
+      "title": "K Closest Points to Origin",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0973-k-closest-points-to-origin",
+      "updatedAt": 1786032463402
     }
   }
 }
