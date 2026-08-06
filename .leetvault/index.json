@@ -923,6 +923,18 @@
       ],
       "folder": "0124-binary-tree-maximum-path-sum",
       "updatedAt": 1785961678942
+    },
+    "3345-smallest-divisible-digit-product-i": {
+      "frontendId": "3345",
+      "slug": "smallest-divisible-digit-product-i",
+      "title": "Smallest Divisible Digit Product I",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3345-smallest-divisible-digit-product-i",
+      "updatedAt": 1785981348148
     }
   }
 }
