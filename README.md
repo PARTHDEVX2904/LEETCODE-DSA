@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**83 problems solved.**
+**84 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -12,6 +12,7 @@
 | 12 | [Integer to Roman](0012-integer-to-roman/) | Medium |  | C++ |
 | 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists/) | Hard |  | C++ |
 | 37 | [Sudoku Solver](0037-sudoku-solver/) | Hard |  | C++ |
+| 53 | [Maximum Subarray](0053-maximum-subarray/) | Medium |  | C++ |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium |  | C++ |
 | 55 | [Jump Game](0055-jump-game/) | Medium |  | C++ |
 | 56 | [Merge Intervals](0056-merge-intervals/) | Medium |  | C++ |
