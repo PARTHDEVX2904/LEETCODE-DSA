@@ -935,6 +935,18 @@
       ],
       "folder": "3345-smallest-divisible-digit-product-i",
       "updatedAt": 1785981348148
+    },
+    "0386-lexicographical-numbers": {
+      "frontendId": "386",
+      "slug": "lexicographical-numbers",
+      "title": "Lexicographical Numbers",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0386-lexicographical-numbers",
+      "updatedAt": 1785983028940
     }
   }
 }
