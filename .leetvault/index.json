@@ -971,6 +971,18 @@
       ],
       "folder": "0337-house-robber-iii",
       "updatedAt": 1785998264220
+    },
+    "0297-serialize-and-deserialize-binary-tree": {
+      "frontendId": "297",
+      "slug": "serialize-and-deserialize-binary-tree",
+      "title": "Serialize and Deserialize Binary Tree",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0297-serialize-and-deserialize-binary-tree",
+      "updatedAt": 1786005692532
     }
   }
 }
