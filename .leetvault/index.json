@@ -947,6 +947,18 @@
       ],
       "folder": "0386-lexicographical-numbers",
       "updatedAt": 1785983028940
+    },
+    "0987-vertical-order-traversal-of-a-binary-tree": {
+      "frontendId": "987",
+      "slug": "vertical-order-traversal-of-a-binary-tree",
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0987-vertical-order-traversal-of-a-binary-tree",
+      "updatedAt": 1785988752078
     }
   }
 }
