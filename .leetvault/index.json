@@ -1007,6 +1007,18 @@
       ],
       "folder": "0053-maximum-subarray",
       "updatedAt": 1786033281615
+    },
+    "0451-sort-characters-by-frequency": {
+      "frontendId": "451",
+      "slug": "sort-characters-by-frequency",
+      "title": "Sort Characters By Frequency",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0451-sort-characters-by-frequency",
+      "updatedAt": 1786082943962
     }
   }
 }
