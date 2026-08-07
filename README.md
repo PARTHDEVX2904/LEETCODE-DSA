@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**85 problems solved.**
+**86 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -10,6 +10,7 @@
 | 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard |  | C++ |
 | 6 | [Zigzag Conversion](0006-zigzag-conversion/) | Medium |  | C++ |
 | 12 | [Integer to Roman](0012-integer-to-roman/) | Medium |  | C++ |
+| 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy |  | C++ |
 | 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists/) | Hard |  | C++ |
 | 37 | [Sudoku Solver](0037-sudoku-solver/) | Hard |  | C++ |
 | 53 | [Maximum Subarray](0053-maximum-subarray/) | Medium |  | C++ |
