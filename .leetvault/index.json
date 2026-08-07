@@ -1019,6 +1019,18 @@
       ],
       "folder": "0451-sort-characters-by-frequency",
       "updatedAt": 1786082943962
+    },
+    "0014-longest-common-prefix": {
+      "frontendId": "14",
+      "slug": "longest-common-prefix",
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0014-longest-common-prefix",
+      "updatedAt": 1786133241600
     }
   }
 }
