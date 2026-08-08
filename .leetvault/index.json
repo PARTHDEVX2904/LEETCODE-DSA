@@ -1091,6 +1091,18 @@
       ],
       "folder": "0392-is-subsequence",
       "updatedAt": 1786206397167
+    },
+    "0118-pascals-triangle": {
+      "frontendId": "118",
+      "slug": "pascals-triangle",
+      "title": "Pascal's Triangle",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0118-pascals-triangle",
+      "updatedAt": 1786210096729
     }
   }
 }
