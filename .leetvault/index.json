@@ -1115,6 +1115,18 @@
       ],
       "folder": "0119-pascals-triangle-ii",
       "updatedAt": 1786210595879
+    },
+    "0121-best-time-to-buy-and-sell-stock": {
+      "frontendId": "121",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0121-best-time-to-buy-and-sell-stock",
+      "updatedAt": 1786215493783
     }
   }
 }
