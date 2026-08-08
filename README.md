@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**88 problems solved.**
+**89 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -48,6 +48,7 @@
 | 199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/) | Medium |  | C++ |
 | 207 | [Course Schedule](0207-course-schedule/) | Medium |  | C++ |
 | 210 | [Course Schedule II](0210-course-schedule-ii/) | Medium |  | C++ |
+| 213 | [House Robber II](0213-house-robber-ii/) | Medium |  | C++ |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium |  | C++ |
 | 226 | [Invert Binary Tree](0226-invert-binary-tree/) | Easy |  | C++ |
 | 230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/) | Medium |  | C++ |
