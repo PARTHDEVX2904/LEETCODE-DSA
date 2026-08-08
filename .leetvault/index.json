@@ -1103,6 +1103,18 @@
       ],
       "folder": "0118-pascals-triangle",
       "updatedAt": 1786210096729
+    },
+    "0119-pascals-triangle-ii": {
+      "frontendId": "119",
+      "slug": "pascals-triangle-ii",
+      "title": "Pascal's Triangle II",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0119-pascals-triangle-ii",
+      "updatedAt": 1786210595879
     }
   }
 }
