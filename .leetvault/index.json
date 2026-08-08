@@ -1067,6 +1067,18 @@
       ],
       "folder": "0213-house-robber-ii",
       "updatedAt": 1786190946977
+    },
+    "0032-longest-valid-parentheses": {
+      "frontendId": "32",
+      "slug": "longest-valid-parentheses",
+      "title": "Longest Valid Parentheses",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0032-longest-valid-parentheses",
+      "updatedAt": 1786195218660
     }
   }
 }
