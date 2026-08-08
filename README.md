@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**91 problems solved.**
+**92 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -39,6 +39,7 @@
 | 114 | [Flatten Binary Tree to Linked List](0114-flatten-binary-tree-to-linked-list/) | Medium |  | C++ |
 | 116 | [Populating Next Right Pointers in Each Node](0116-populating-next-right-pointers-in-each-node/) | Medium |  | C++ |
 | 117 | [Populating Next Right Pointers in Each Node II](0117-populating-next-right-pointers-in-each-node-ii/) | Medium |  | C++ |
+| 118 | [Pascal's Triangle](0118-pascals-triangle/) | Easy |  | C++ |
 | 124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/) | Hard |  | C++ |
 | 129 | [Sum Root to Leaf Numbers](0129-sum-root-to-leaf-numbers/) | Medium |  | C++ |
 | 145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/) | Easy |  | C++ |
