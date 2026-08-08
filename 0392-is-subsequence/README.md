@@ -11,15 +11,15 @@
 
 | Metric  | Value   | Beats |
 |---------|---------|-------|
-| Runtime | 119 ms | `░░░░░░░░░░` **1.9%** |
-| Memory  | 283.1 MB | `█░░░░░░░░░` **5.2%** |
+| Runtime | 4 ms | `░░░░░░░░░░` **2.2%** |
+| Memory  | 11.1 MB | `█░░░░░░░░░` **5.2%** |
 
 ## Complexity
 
 | | Complexity | Why |
 |---|---|---|
 | ⏱️ Time  | **O(n)** | recursive traversal, each element visited once |
-| 💾 Space | **O(n)** | recursion stack grows with the input |
+| 💾 Space | **O(n)** | stores input-dependent data in an auxiliary structure |
 
 > ⚠️ _Complexity is **estimated** by static analysis of the code (loop nesting, sorting, recursion) — verify before relying on it._
 
