@@ -1079,6 +1079,18 @@
       ],
       "folder": "0032-longest-valid-parentheses",
       "updatedAt": 1786202256509
+    },
+    "0392-is-subsequence": {
+      "frontendId": "392",
+      "slug": "is-subsequence",
+      "title": "Is Subsequence",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0392-is-subsequence",
+      "updatedAt": 1786205995321
     }
   }
 }
