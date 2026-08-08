@@ -2,7 +2,7 @@
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red)
 ![Time](https://img.shields.io/badge/Time-O%28n%29-blue)
-![Space](https://img.shields.io/badge/Space-O%281%29-blueviolet)
+![Space](https://img.shields.io/badge/Space-O%28n%29-blueviolet)
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 
 [Problem on LeetCode](https://leetcode.com/problems/longest-valid-parentheses/)
@@ -11,15 +11,15 @@
 
 | Metric  | Value   | Beats |
 |---------|---------|-------|
-| Runtime | 2 ms | `█████░░░░░` **47.6%** |
-| Memory  | 11.8 MB | `██░░░░░░░░` **24.0%** |
+| Runtime | 0 ms | `██████████` **100.0%** |
+| Memory  | 11.7 MB | `█████░░░░░` **51.8%** |
 
 ## Complexity
 
 | | Complexity | Why |
 |---|---|---|
 | ⏱️ Time  | **O(n)** | a single pass over the input |
-| 💾 Space | **O(1)** | only a constant number of variables |
+| 💾 Space | **O(n)** | stores input-dependent data in an auxiliary structure |
 
 > ⚠️ _Complexity is **estimated** by static analysis of the code (loop nesting, sorting, recursion) — verify before relying on it._
 
@@ -40,19 +40,19 @@ xychart-beta
 |---|---|---|---|---|
 | **operations** | 10 | 100 | 500 | 1,000 |
 
-**💾 Space — `O(1)`**
+**💾 Space — `O(n)`**
 
 ```mermaid
 xychart-beta
-    title "Space growth — O(1)"
+    title "Space growth — O(n)"
     x-axis "Input size (n)" [10, 100, 500, 1000]
     y-axis "Auxiliary space"
-    line [1, 1, 1, 1]
+    line [10, 100, 500, 1000]
 ```
 
 | n | 10 | 100 | 500 | 1000 |
 |---|---|---|---|---|
-| **space units** | 1 | 1 | 1 | 1 |
+| **space units** | 10 | 100 | 500 | 1,000 |
 
 </details>
 
