@@ -1127,6 +1127,18 @@
       ],
       "folder": "0121-best-time-to-buy-and-sell-stock",
       "updatedAt": 1786215493783
+    },
+    "0122-best-time-to-buy-and-sell-stock-ii": {
+      "frontendId": "122",
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "title": "Best Time to Buy and Sell Stock II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0122-best-time-to-buy-and-sell-stock-ii",
+      "updatedAt": 1786218110107
     }
   }
 }
