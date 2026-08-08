@@ -1031,6 +1031,18 @@
       ],
       "folder": "0014-longest-common-prefix",
       "updatedAt": 1786133241600
+    },
+    "0022-generate-parentheses": {
+      "frontendId": "22",
+      "slug": "generate-parentheses",
+      "title": "Generate Parentheses",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0022-generate-parentheses",
+      "updatedAt": 1786182322738
     }
   }
 }
