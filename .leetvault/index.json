@@ -1055,6 +1055,18 @@
       ],
       "folder": "0198-house-robber",
       "updatedAt": 1786188770046
+    },
+    "0213-house-robber-ii": {
+      "frontendId": "213",
+      "slug": "house-robber-ii",
+      "title": "House Robber II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0213-house-robber-ii",
+      "updatedAt": 1786190946977
     }
   }
 }
