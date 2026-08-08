@@ -1043,6 +1043,18 @@
       ],
       "folder": "0022-generate-parentheses",
       "updatedAt": 1786182322738
+    },
+    "0198-house-robber": {
+      "frontendId": "198",
+      "slug": "house-robber",
+      "title": "House Robber",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0198-house-robber",
+      "updatedAt": 1786188770046
     }
   }
 }
