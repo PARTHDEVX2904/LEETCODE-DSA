@@ -1235,6 +1235,18 @@
       ],
       "folder": "0042-trapping-rain-water",
       "updatedAt": 1786275831293
+    },
+    "0410-split-array-largest-sum": {
+      "frontendId": "410",
+      "slug": "split-array-largest-sum",
+      "title": "Split Array Largest Sum",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0410-split-array-largest-sum",
+      "updatedAt": 1786285035379
     }
   }
 }
