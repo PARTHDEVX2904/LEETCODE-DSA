@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**102 problems solved.**
+**103 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -16,6 +16,7 @@
 | 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists/) | Hard |  | C++ |
 | 32 | [Longest Valid Parentheses](0032-longest-valid-parentheses/) | Hard |  | C++ |
 | 37 | [Sudoku Solver](0037-sudoku-solver/) | Hard |  | C++ |
+| 42 | [Trapping Rain Water](0042-trapping-rain-water/) | Hard |  | C++ |
 | 49 | [Group Anagrams](0049-group-anagrams/) | Medium |  | C++ |
 | 50 | [Pow(x, n)](0050-powx-n/) | Medium |  | C++ |
 | 53 | [Maximum Subarray](0053-maximum-subarray/) | Medium |  | C++ |
