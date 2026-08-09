@@ -1139,6 +1139,18 @@
       ],
       "folder": "0122-best-time-to-buy-and-sell-stock-ii",
       "updatedAt": 1786218110107
+    },
+    "0049-group-anagrams": {
+      "frontendId": "49",
+      "slug": "group-anagrams",
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0049-group-anagrams",
+      "updatedAt": 1786240056261
     }
   }
 }
