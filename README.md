@@ -2,13 +2,14 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**96 problems solved.**
+**97 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
 | 3 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/) | Medium |  | Java |
 | 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard |  | C++ |
 | 6 | [Zigzag Conversion](0006-zigzag-conversion/) | Medium |  | C++ |
+| 8 | [String to Integer (atoi)](0008-string-to-integer-atoi/) | Medium |  | C++ |
 | 12 | [Integer to Roman](0012-integer-to-roman/) | Medium |  | C++ |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy |  | C++ |
 | 22 | [Generate Parentheses](0022-generate-parentheses/) | Medium |  | C++ |
