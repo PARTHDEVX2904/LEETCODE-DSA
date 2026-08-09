@@ -10,7 +10,7 @@ public:
         // }
         // return maxP;
         int buy = prices[0];
-        int maxP = 0;
+        int maxP = INT_MIN;
         for(int i=1;i<prices.size();i++){
             if(prices[i] >= buy){
                 maxP = max(maxP,prices[i]-buy);
@@ -19,6 +19,6 @@ public:
                 buy = min(buy,prices[i]);
             }
         }
-        return maxP;
+        return maxP<0 ? 0 : maxP ;
     }
 };
