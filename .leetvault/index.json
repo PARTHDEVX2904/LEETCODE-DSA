@@ -1175,6 +1175,18 @@
       ],
       "folder": "0050-powx-n",
       "updatedAt": 1786257630305
+    },
+    "1922-count-good-numbers": {
+      "frontendId": "1922",
+      "slug": "count-good-numbers",
+      "title": "Count Good Numbers",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1922-count-good-numbers",
+      "updatedAt": 1786259354213
     }
   }
 }
