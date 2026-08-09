@@ -1223,6 +1223,18 @@
       ],
       "folder": "0078-subsets",
       "updatedAt": 1786272222210
+    },
+    "0042-trapping-rain-water": {
+      "frontendId": "42",
+      "slug": "trapping-rain-water",
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0042-trapping-rain-water",
+      "updatedAt": 1786275831293
     }
   }
 }
