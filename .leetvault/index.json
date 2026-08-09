@@ -1163,6 +1163,18 @@
       ],
       "folder": "0008-string-to-integer-atoi",
       "updatedAt": 1786255644197
+    },
+    "0050-powx-n": {
+      "frontendId": "50",
+      "slug": "powx-n",
+      "title": "Pow(x, n)",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0050-powx-n",
+      "updatedAt": 1786257630305
     }
   }
 }
