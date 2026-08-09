@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**103 problems solved.**
+**104 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -74,6 +74,7 @@
 | 386 | [Lexicographical Numbers](0386-lexicographical-numbers/) | Medium |  | C++ |
 | 392 | [Is Subsequence](0392-is-subsequence/) | Easy |  | C++ |
 | 404 | [Sum of Left Leaves](0404-sum-of-left-leaves/) | Easy |  | C++ |
+| 410 | [Split Array Largest Sum](0410-split-array-largest-sum/) | Hard |  | C++ |
 | 450 | [Delete Node in a BST](0450-delete-node-in-a-bst/) | Medium |  | C++ |
 | 451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/) | Medium |  | C++ |
 | 543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/) | Easy |  | C++ |
