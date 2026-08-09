@@ -1211,6 +1211,18 @@
       ],
       "folder": "0090-subsets-ii",
       "updatedAt": 1786270980750
+    },
+    "0078-subsets": {
+      "frontendId": "78",
+      "slug": "subsets",
+      "title": "Subsets",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0078-subsets",
+      "updatedAt": 1786272222210
     }
   }
 }
