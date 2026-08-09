@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**97 problems solved.**
+**98 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -17,6 +17,7 @@
 | 32 | [Longest Valid Parentheses](0032-longest-valid-parentheses/) | Hard |  | C++ |
 | 37 | [Sudoku Solver](0037-sudoku-solver/) | Hard |  | C++ |
 | 49 | [Group Anagrams](0049-group-anagrams/) | Medium |  | C++ |
+| 50 | [Pow(x, n)](0050-powx-n/) | Medium |  | C++ |
 | 53 | [Maximum Subarray](0053-maximum-subarray/) | Medium |  | C++ |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium |  | C++ |
 | 55 | [Jump Game](0055-jump-game/) | Medium |  | C++ |
