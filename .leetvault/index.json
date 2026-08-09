@@ -1151,6 +1151,18 @@
       ],
       "folder": "0049-group-anagrams",
       "updatedAt": 1786240056261
+    },
+    "0008-string-to-integer-atoi": {
+      "frontendId": "8",
+      "slug": "string-to-integer-atoi",
+      "title": "String to Integer (atoi)",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0008-string-to-integer-atoi",
+      "updatedAt": 1786255644197
     }
   }
 }
