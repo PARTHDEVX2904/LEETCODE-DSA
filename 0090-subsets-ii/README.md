@@ -1,7 +1,7 @@
 # 90. Subsets II
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
-![Time](https://img.shields.io/badge/Time-O%28n%29-blue)
+![Time](https://img.shields.io/badge/Time-O%28n²%29-blue)
 ![Space](https://img.shields.io/badge/Space-O%28n%29-blueviolet)
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 
@@ -11,14 +11,14 @@
 
 | Metric  | Value   | Beats |
 |---------|---------|-------|
-| Runtime | 10 ms | `█░░░░░░░░░` **6.0%** |
-| Memory  | 18.6 MB | `█░░░░░░░░░` **5.2%** |
+| Runtime | 3 ms | `███░░░░░░░` **31.4%** |
+| Memory  | 11.2 MB | `██░░░░░░░░` **20.4%** |
 
 ## Complexity
 
 | | Complexity | Why |
 |---|---|---|
-| ⏱️ Time  | **O(n)** | a single pass over the input |
+| ⏱️ Time  | **O(n²)** | two nested loops over the input |
 | 💾 Space | **O(n)** | stores input-dependent data in an auxiliary structure |
 
 > ⚠️ _Complexity is **estimated** by static analysis of the code (loop nesting, sorting, recursion) — verify before relying on it._
@@ -26,19 +26,19 @@
 <details open>
 <summary>📈 How this scales</summary>
 
-**⏱️ Time — `O(n)`**
+**⏱️ Time — `O(n²)`**
 
 ```mermaid
 xychart-beta
-    title "Time growth — O(n)"
+    title "Time growth — O(n²)"
     x-axis "Input size (n)" [10, 100, 500, 1000]
     y-axis "Operations"
-    line [10, 100, 500, 1000]
+    line [100, 10000, 250000, 1000000]
 ```
 
 | n | 10 | 100 | 500 | 1000 |
 |---|---|---|---|---|
-| **operations** | 10 | 100 | 500 | 1,000 |
+| **operations** | 100 | 10,000 | 250,000 | 1,000,000 |
 
 **💾 Space — `O(n)`**
 
