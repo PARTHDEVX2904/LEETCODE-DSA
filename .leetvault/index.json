@@ -1271,6 +1271,18 @@
       ],
       "folder": "0743-network-delay-time",
       "updatedAt": 1786341233120
+    },
+    "1462-course-schedule-iv": {
+      "frontendId": "1462",
+      "slug": "course-schedule-iv",
+      "title": "Course Schedule IV",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1462-course-schedule-iv",
+      "updatedAt": 1786392623196
     }
   }
 }
