@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**104 problems solved.**
+**105 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -51,6 +51,7 @@
 | 122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/) | Medium |  | C++ |
 | 124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/) | Hard |  | C++ |
 | 129 | [Sum Root to Leaf Numbers](0129-sum-root-to-leaf-numbers/) | Medium |  | C++ |
+| 133 | [Clone Graph](0133-clone-graph/) | Medium |  | C++ |
 | 145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/) | Easy |  | C++ |
 | 169 | [Majority Element](0169-majority-element/) | Easy |  | C++ |
 | 175 | [Combine Two Tables](0175-combine-two-tables/) | Easy |  | mysql |
