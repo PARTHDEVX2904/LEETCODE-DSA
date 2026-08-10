@@ -1247,6 +1247,18 @@
       ],
       "folder": "0410-split-array-largest-sum",
       "updatedAt": 1786285035379
+    },
+    "0133-clone-graph": {
+      "frontendId": "133",
+      "slug": "clone-graph",
+      "title": "Clone Graph",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0133-clone-graph",
+      "updatedAt": 1786339734249
     }
   }
 }
