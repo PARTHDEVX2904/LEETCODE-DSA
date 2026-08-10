@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**106 problems solved.**
+**107 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -93,6 +93,7 @@
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid/) | Easy |  | C++ |
 | 1325 | [Delete Leaves With a Given Value](1325-delete-leaves-with-a-given-value/) | Medium |  | C++ |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium |  | C++ |
+| 1462 | [Course Schedule IV](1462-course-schedule-iv/) | Medium |  | C++ |
 | 1464 | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array/) | Easy |  | C++ |
 | 1922 | [Count Good Numbers](1922-count-good-numbers/) | Medium |  | C++ |
 | 2618 | [Check if Object Instance of Class](2618-check-if-object-instance-of-class/) | Medium |  | JavaScript |
