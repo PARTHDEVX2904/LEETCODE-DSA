@@ -1259,6 +1259,18 @@
       ],
       "folder": "0133-clone-graph",
       "updatedAt": 1786339734249
+    },
+    "0743-network-delay-time": {
+      "frontendId": "743",
+      "slug": "network-delay-time",
+      "title": "Network Delay Time",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0743-network-delay-time",
+      "updatedAt": 1786341233120
     }
   }
 }
