@@ -1295,6 +1295,18 @@
       ],
       "folder": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum",
       "updatedAt": 1786434576648
+    },
+    "0162-find-peak-element": {
+      "frontendId": "162",
+      "slug": "find-peak-element",
+      "title": "Find Peak Element",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0162-find-peak-element",
+      "updatedAt": 1786477396691
     }
   }
 }
