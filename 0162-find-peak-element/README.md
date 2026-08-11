@@ -1,31 +1,79 @@
-<h2><a href="https://leetcode.com/problems/find-peak-element">162. Find Peak Element</a></h2><h3>Medium</h3><hr><p>A peak element is an element that is strictly greater than its neighbors.</p>
+# 162. Find Peak Element
 
-<p>Given a <strong>0-indexed</strong> integer array <code>nums</code>, find a peak element, and return its index. If the array contains multiple peaks, return the index to <strong>any of the peaks</strong>.</p>
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Time](https://img.shields.io/badge/Time-O%28n%29-blue)
+![Space](https://img.shields.io/badge/Space-O%28n%29-blueviolet)
+![Language](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 
-<p>You may imagine that <code>nums[-1] = nums[n] = -&infin;</code>. In other words, an element is always considered to be strictly greater than a neighbor that is outside the array.</p>
+[Problem on LeetCode](https://leetcode.com/problems/find-peak-element/)
 
-<p>You must write an algorithm that runs in <code>O(log n)</code> time.</p>
+## Performance
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+| Metric  | Value   | Beats |
+|---------|---------|-------|
+| Runtime | 0 ms | `██████████` **100.0%** |
+| Memory  | 12.7 MB | `████░░░░░░` **42.1%** |
 
-<pre>
-<strong>Input:</strong> nums = [1,2,3,1]
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> 3 is a peak element and your function should return the index number 2.</pre>
+## Complexity
 
-<p><strong class="example">Example 2:</strong></p>
+| | Complexity | Why |
+|---|---|---|
+| ⏱️ Time  | **O(n)** | a single pass over the input |
+| 💾 Space | **O(n)** | stores input-dependent data in an auxiliary structure |
 
-<pre>
-<strong>Input:</strong> nums = [1,2,1,3,5,6,4]
-<strong>Output:</strong> 5
-<strong>Explanation:</strong> Your function can return either index number 1 where the peak element is 2, or index number 5 where the peak element is 6.</pre>
+> ⚠️ _Complexity is **estimated** by static analysis of the code (loop nesting, sorting, recursion) — verify before relying on it._
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+<details open>
+<summary>📈 How this scales</summary>
 
-<ul>
-	<li><code>1 &lt;= nums.length &lt;= 1000</code></li>
-	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
-	<li><code>nums[i] != nums[i + 1]</code> for all valid <code>i</code>.</li>
-</ul>
+**⏱️ Time — `O(n)`**
+
+```mermaid
+xychart-beta
+    title "Time growth — O(n)"
+    x-axis "Input size (n)" [10, 100, 500, 1000]
+    y-axis "Operations"
+    line [10, 100, 500, 1000]
+```
+
+| n | 10 | 100 | 500 | 1000 |
+|---|---|---|---|---|
+| **operations** | 10 | 100 | 500 | 1,000 |
+
+**💾 Space — `O(n)`**
+
+```mermaid
+xychart-beta
+    title "Space growth — O(n)"
+    x-axis "Input size (n)" [10, 100, 500, 1000]
+    y-axis "Auxiliary space"
+    line [10, 100, 500, 1000]
+```
+
+| n | 10 | 100 | 500 | 1000 |
+|---|---|---|---|---|
+| **space units** | 10 | 100 | 500 | 1,000 |
+
+</details>
+
+## Constraints
+
+- `1 <= nums.length <= 1000`
+- `-2^31 <= nums[i] <= 2^31 - 1`
+- `nums[i] != nums[i + 1] for all valid i.`
+
+## Approach
+
+_pending_
+
+<details>
+<summary>💡 Top community solutions</summary>
+
+See how others approached this problem:
+
+[Browse the highest-voted solutions on LeetCode ↗](https://leetcode.com/problems/find-peak-element/solutions/?orderBy=most_votes)
+
+</details>
+
+---
+*Synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA) · 2026-08-11*
