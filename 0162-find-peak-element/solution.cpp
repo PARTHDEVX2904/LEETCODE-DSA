@@ -13,7 +13,7 @@ public:
             else{
                 
                 e = mid;
-                ans = mid;
+                ans = e;
             }
             mid = s+(e-s)/2;
         }
