@@ -1283,6 +1283,18 @@
       ],
       "folder": "1462-course-schedule-iv",
       "updatedAt": 1786392623196
+    },
+    "2996-smallest-missing-integer-greater-than-sequential-prefix-sum": {
+      "frontendId": "2996",
+      "slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "updatedAt": 1786432969751
     }
   }
 }
