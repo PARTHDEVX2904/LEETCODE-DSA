@@ -1307,6 +1307,18 @@
       ],
       "folder": "0162-find-peak-element",
       "updatedAt": 1786477465717
+    },
+    "0733-flood-fill": {
+      "frontendId": "733",
+      "slug": "flood-fill",
+      "title": "Flood Fill",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0733-flood-fill",
+      "updatedAt": 1786481194184
     }
   }
 }
