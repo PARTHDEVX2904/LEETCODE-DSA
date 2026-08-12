@@ -1355,6 +1355,18 @@
       ],
       "folder": "0209-minimum-size-subarray-sum",
       "updatedAt": 1786518454069
+    },
+    "0523-continuous-subarray-sum": {
+      "frontendId": "523",
+      "slug": "continuous-subarray-sum",
+      "title": "Continuous Subarray Sum",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0523-continuous-subarray-sum",
+      "updatedAt": 1786522481017
     }
   }
 }
