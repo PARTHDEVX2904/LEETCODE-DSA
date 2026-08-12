@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**110 problems solved.**
+**111 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -100,6 +100,7 @@
 | 1922 | [Count Good Numbers](1922-count-good-numbers/) | Medium |  | C++ |
 | 2618 | [Check if Object Instance of Class](2618-check-if-object-instance-of-class/) | Medium |  | JavaScript |
 | 2620 | [Counter](2620-counter/) | Easy |  | JavaScript |
+| 2958 | [Length of Longest Subarray With at Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |  | C++ |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |  | C++ |
 | 3014 | [Minimum Number of Pushes to Type Word I](3014-minimum-number-of-pushes-to-type-word-i/) | Easy |  | C++ |
 | 3016 | [Minimum Number of Pushes to Type Word II](3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |  | C++ |
