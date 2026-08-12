@@ -1319,6 +1319,18 @@
       ],
       "folder": "0733-flood-fill",
       "updatedAt": 1786481194184
+    },
+    "2958-length-of-longest-subarray-with-at-most-k-frequency": {
+      "frontendId": "2958",
+      "slug": "length-of-longest-subarray-with-at-most-k-frequency",
+      "title": "Length of Longest Subarray With at Most K Frequency",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2958-length-of-longest-subarray-with-at-most-k-frequency",
+      "updatedAt": 1786511963430
     }
   }
 }
