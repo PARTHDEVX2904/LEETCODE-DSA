@@ -1343,6 +1343,18 @@
       ],
       "folder": "0036-valid-sudoku",
       "updatedAt": 1786513326208
+    },
+    "0209-minimum-size-subarray-sum": {
+      "frontendId": "209",
+      "slug": "minimum-size-subarray-sum",
+      "title": "Minimum Size Subarray Sum",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0209-minimum-size-subarray-sum",
+      "updatedAt": 1786518454069
     }
   }
 }
