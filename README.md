@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**114 problems solved.**
+**115 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -53,6 +53,7 @@
 | 124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/) | Hard |  | C++ |
 | 129 | [Sum Root to Leaf Numbers](0129-sum-root-to-leaf-numbers/) | Medium |  | C++ |
 | 133 | [Clone Graph](0133-clone-graph/) | Medium |  | C++ |
+| 134 | [Gas Station](0134-gas-station/) | Medium |  | C++ |
 | 145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/) | Easy |  | C++ |
 | 162 | [Find Peak Element](0162-find-peak-element/) | Medium |  | C++ |
 | 169 | [Majority Element](0169-majority-element/) | Easy |  | C++ |
