@@ -1367,6 +1367,18 @@
       ],
       "folder": "0523-continuous-subarray-sum",
       "updatedAt": 1786522481017
+    },
+    "0134-gas-station": {
+      "frontendId": "134",
+      "slug": "gas-station",
+      "title": "Gas Station",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0134-gas-station",
+      "updatedAt": 1786652231228
     }
   }
 }
