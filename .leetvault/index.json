@@ -1463,6 +1463,18 @@
       ],
       "folder": "0881-boats-to-save-people",
       "updatedAt": 1786729907846
+    },
+    "2870-minimum-number-of-operations-to-make-array-empty": {
+      "frontendId": "2870",
+      "slug": "minimum-number-of-operations-to-make-array-empty",
+      "title": "Minimum Number of Operations to Make Array Empty",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2870-minimum-number-of-operations-to-make-array-empty",
+      "updatedAt": 1786730425185
     }
   }
 }
