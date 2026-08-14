@@ -1427,6 +1427,18 @@
       ],
       "folder": "2486-append-characters-to-string-to-make-subsequence",
       "updatedAt": 1786720331686
+    },
+    "0179-largest-number": {
+      "frontendId": "179",
+      "slug": "largest-number",
+      "title": "Largest Number",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0179-largest-number",
+      "updatedAt": 1786727013184
     }
   }
 }
