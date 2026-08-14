@@ -1403,6 +1403,18 @@
       ],
       "folder": "0011-container-with-most-water",
       "updatedAt": 1786715235676
+    },
+    "0409-longest-palindrome": {
+      "frontendId": "409",
+      "slug": "longest-palindrome",
+      "title": "Longest Palindrome",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0409-longest-palindrome",
+      "updatedAt": 1786716915790
     }
   }
 }
