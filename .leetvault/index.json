@@ -1379,6 +1379,18 @@
       ],
       "folder": "0134-gas-station",
       "updatedAt": 1786652231228
+    },
+    "3090-maximum-length-substring-with-two-occurrences": {
+      "frontendId": "3090",
+      "slug": "maximum-length-substring-with-two-occurrences",
+      "title": "Maximum Length Substring With Two Occurrences",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3090-maximum-length-substring-with-two-occurrences",
+      "updatedAt": 1786709843025
     }
   }
 }
