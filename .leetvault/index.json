@@ -1391,6 +1391,18 @@
       ],
       "folder": "3090-maximum-length-substring-with-two-occurrences",
       "updatedAt": 1786709843025
+    },
+    "0011-container-with-most-water": {
+      "frontendId": "11",
+      "slug": "container-with-most-water",
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0011-container-with-most-water",
+      "updatedAt": 1786715235676
     }
   }
 }
