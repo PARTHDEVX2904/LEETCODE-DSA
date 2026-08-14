@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**121 problems solved.**
+**122 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -95,6 +95,7 @@
 | 733 | [Flood Fill](0733-flood-fill/) | Easy |  | C++ |
 | 743 | [Network Delay Time](0743-network-delay-time/) | Medium |  | C++ |
 | 746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/) | Easy |  | C++ |
+| 881 | [Boats to Save People](0881-boats-to-save-people/) | Medium |  | C++ |
 | 938 | [Range Sum of BST](0938-range-sum-of-bst/) | Easy |  | C++ |
 | 973 | [K Closest Points to Origin](0973-k-closest-points-to-origin/) | Medium |  | C++ |
 | 987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/) | Hard |  | C++ |
