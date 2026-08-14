@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**119 problems solved.**
+**120 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -59,6 +59,7 @@
 | 162 | [Find Peak Element](0162-find-peak-element/) | Medium |  | C++ |
 | 169 | [Majority Element](0169-majority-element/) | Easy |  | C++ |
 | 175 | [Combine Two Tables](0175-combine-two-tables/) | Easy |  | mysql |
+| 179 | [Largest Number](0179-largest-number/) | Medium |  | C++ |
 | 183 | [Customers Who Never Order](0183-customers-who-never-order/) | Easy |  | mysql |
 | 198 | [House Robber](0198-house-robber/) | Medium |  | C++ |
 | 199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/) | Medium |  | C++ |
