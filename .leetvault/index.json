@@ -1439,6 +1439,18 @@
       ],
       "folder": "0179-largest-number",
       "updatedAt": 1786727013184
+    },
+    "0624-maximum-distance-in-arrays": {
+      "frontendId": "624",
+      "slug": "maximum-distance-in-arrays",
+      "title": "Maximum Distance in Arrays",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0624-maximum-distance-in-arrays",
+      "updatedAt": 1786729134524
     }
   }
 }
