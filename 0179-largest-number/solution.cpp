@@ -11,7 +11,7 @@ public:
         });
 
         string res;
-        for (string& num : arr) {
+        for (string num : arr) {
             res += num;
         }
 
