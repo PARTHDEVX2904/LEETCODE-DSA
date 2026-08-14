@@ -1415,6 +1415,18 @@
       ],
       "folder": "0409-longest-palindrome",
       "updatedAt": 1786716915790
+    },
+    "2486-append-characters-to-string-to-make-subsequence": {
+      "frontendId": "2486",
+      "slug": "append-characters-to-string-to-make-subsequence",
+      "title": "Append Characters to String to Make Subsequence",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2486-append-characters-to-string-to-make-subsequence",
+      "updatedAt": 1786720331686
     }
   }
 }
