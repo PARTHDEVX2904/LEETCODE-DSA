@@ -1451,6 +1451,18 @@
       ],
       "folder": "0624-maximum-distance-in-arrays",
       "updatedAt": 1786729134524
+    },
+    "0881-boats-to-save-people": {
+      "frontendId": "881",
+      "slug": "boats-to-save-people",
+      "title": "Boats to Save People",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0881-boats-to-save-people",
+      "updatedAt": 1786729907846
     }
   }
 }
