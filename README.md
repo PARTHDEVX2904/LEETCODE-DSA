@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**118 problems solved.**
+**119 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -104,6 +104,7 @@
 | 1462 | [Course Schedule IV](1462-course-schedule-iv/) | Medium |  | C++ |
 | 1464 | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array/) | Easy |  | C++ |
 | 1922 | [Count Good Numbers](1922-count-good-numbers/) | Medium |  | C++ |
+| 2486 | [Append Characters to String to Make Subsequence](2486-append-characters-to-string-to-make-subsequence/) | Medium |  | C++ |
 | 2618 | [Check if Object Instance of Class](2618-check-if-object-instance-of-class/) | Medium |  | JavaScript |
 | 2620 | [Counter](2620-counter/) | Easy |  | JavaScript |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |  | C++ |
