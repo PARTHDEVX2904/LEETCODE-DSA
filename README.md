@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**132 problems solved.**
+**133 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -108,6 +108,7 @@
 | 1148 | [Article Views I](1148-article-views-i/) | Easy |  | mysql |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid/) | Easy |  | C++ |
 | 1325 | [Delete Leaves With a Given Value](1325-delete-leaves-with-a-given-value/) | Medium |  | C++ |
+| 1378 | [Replace Employee ID With The Unique Identifier](1378-replace-employee-id-with-the-unique-identifier/) | Easy |  | mysql |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium |  | C++ |
 | 1462 | [Course Schedule IV](1462-course-schedule-iv/) | Medium |  | C++ |
 | 1464 | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array/) | Easy |  | C++ |
