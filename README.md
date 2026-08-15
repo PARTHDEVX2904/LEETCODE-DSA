@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**124 problems solved.**
+**125 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -125,6 +125,7 @@
 | 3731 | [Find Missing Elements](3731-find-missing-elements/) | Easy |  | C++ |
 | 3994 | [Minimum Adjacent Swaps to Partition Array](3994-minimum-adjacent-swaps-to-partition-array/) | Medium |  | C++ |
 | 3996 | [Even Number of Knight Moves](3996-even-number-of-knight-moves/) | Easy |  | C++ |
+| 4006 | [Count Valid Prefixes](4006-count-valid-prefixes/) | Easy |  | C++ |
 | 4010 | [Maximize Pair Strength Using GCD](4010-maximize-pair-strength-using-gcd/) | Easy |  | C++ |
 | 4011 | [Count Subarrays With Even Odd Ratio I](4011-count-subarrays-with-even-odd-ratio-i/) | Medium |  | C++ |
 | 4014 | [Minimum Total Price After Applying Discounts](4014-minimum-total-price-after-applying-discounts/) | Medium |  | C++ |
