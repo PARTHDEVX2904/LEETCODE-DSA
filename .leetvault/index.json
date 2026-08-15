@@ -1547,6 +1547,18 @@
       ],
       "folder": "0584-find-customer-referee",
       "updatedAt": 1786793144287
+    },
+    "0595-big-countries": {
+      "frontendId": "595",
+      "slug": "big-countries",
+      "title": "Big Countries",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "0595-big-countries",
+      "updatedAt": 1786800510512
     }
   }
 }
