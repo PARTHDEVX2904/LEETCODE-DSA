@@ -1559,6 +1559,18 @@
       ],
       "folder": "0595-big-countries",
       "updatedAt": 1786800510512
+    },
+    "1148-article-views-i": {
+      "frontendId": "1148",
+      "slug": "article-views-i",
+      "title": "Article Views I",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "1148-article-views-i",
+      "updatedAt": 1786800674528
     }
   }
 }
