@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**126 problems solved.**
+**127 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -14,6 +14,7 @@
 | 11 | [Container With Most Water](0011-container-with-most-water/) | Medium |  | C++ |
 | 12 | [Integer to Roman](0012-integer-to-roman/) | Medium |  | C++ |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy |  | C++ |
+| 19 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/) | Medium |  | C++ |
 | 22 | [Generate Parentheses](0022-generate-parentheses/) | Medium |  | C++ |
 | 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists/) | Hard |  | C++ |
 | 32 | [Longest Valid Parentheses](0032-longest-valid-parentheses/) | Hard |  | C++ |
