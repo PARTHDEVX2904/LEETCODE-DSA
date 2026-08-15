@@ -1535,6 +1535,18 @@
       ],
       "folder": "1757-recyclable-and-low-fat-products",
       "updatedAt": 1786792879315
+    },
+    "0584-find-customer-referee": {
+      "frontendId": "584",
+      "slug": "find-customer-referee",
+      "title": "Find Customer Referee",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "0584-find-customer-referee",
+      "updatedAt": 1786793144287
     }
   }
 }
