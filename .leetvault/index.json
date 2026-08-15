@@ -1583,6 +1583,18 @@
       ],
       "folder": "1683-invalid-tweets",
       "updatedAt": 1786800901411
+    },
+    "1378-replace-employee-id-with-the-unique-identifier": {
+      "frontendId": "1378",
+      "slug": "replace-employee-id-with-the-unique-identifier",
+      "title": "Replace Employee ID With The Unique Identifier",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "1378-replace-employee-id-with-the-unique-identifier",
+      "updatedAt": 1786802820783
     }
   }
 }
