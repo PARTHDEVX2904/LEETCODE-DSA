@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**130 problems solved.**
+**131 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -105,6 +105,7 @@
 | 987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/) | Hard |  | C++ |
 | 994 | [Rotting Oranges](0994-rotting-oranges/) | Medium |  | C++ |
 | 1091 | [Shortest Path in Binary Matrix](1091-shortest-path-in-binary-matrix/) | Medium |  | C++ |
+| 1148 | [Article Views I](1148-article-views-i/) | Easy |  | mysql |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid/) | Easy |  | C++ |
 | 1325 | [Delete Leaves With a Given Value](1325-delete-leaves-with-a-given-value/) | Medium |  | C++ |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium |  | C++ |
