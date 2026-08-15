@@ -1511,6 +1511,18 @@
       ],
       "folder": "0005-longest-palindromic-substring",
       "updatedAt": 1786780265136
+    },
+    "0019-remove-nth-node-from-end-of-list": {
+      "frontendId": "19",
+      "slug": "remove-nth-node-from-end-of-list",
+      "title": "Remove Nth Node From End of List",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0019-remove-nth-node-from-end-of-list",
+      "updatedAt": 1786789092050
     }
   }
 }
