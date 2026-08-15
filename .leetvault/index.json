@@ -1487,6 +1487,18 @@
       ],
       "folder": "3702-longest-subsequence-with-non-zero-bitwise-xor",
       "updatedAt": 1786772514327
+    },
+    "4006-count-valid-prefixes": {
+      "frontendId": "4006",
+      "slug": "count-valid-prefixes",
+      "title": "Count Valid Prefixes",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4006-count-valid-prefixes",
+      "updatedAt": 1786773945359
     }
   }
 }
