@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**127 problems solved.**
+**128 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -108,6 +108,7 @@
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium |  | C++ |
 | 1462 | [Course Schedule IV](1462-course-schedule-iv/) | Medium |  | C++ |
 | 1464 | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array/) | Easy |  | C++ |
+| 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy |  | mysql |
 | 1922 | [Count Good Numbers](1922-count-good-numbers/) | Medium |  | C++ |
 | 2486 | [Append Characters to String to Make Subsequence](2486-append-characters-to-string-to-make-subsequence/) | Medium |  | C++ |
 | 2618 | [Check if Object Instance of Class](2618-check-if-object-instance-of-class/) | Medium |  | JavaScript |
