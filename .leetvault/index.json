@@ -1571,6 +1571,18 @@
       ],
       "folder": "1148-article-views-i",
       "updatedAt": 1786800674528
+    },
+    "1683-invalid-tweets": {
+      "frontendId": "1683",
+      "slug": "invalid-tweets",
+      "title": "Invalid Tweets",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "1683-invalid-tweets",
+      "updatedAt": 1786800901411
     }
   }
 }
