@@ -1475,6 +1475,18 @@
       ],
       "folder": "2870-minimum-number-of-operations-to-make-array-empty",
       "updatedAt": 1786730425185
+    },
+    "3702-longest-subsequence-with-non-zero-bitwise-xor": {
+      "frontendId": "3702",
+      "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+      "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3702-longest-subsequence-with-non-zero-bitwise-xor",
+      "updatedAt": 1786772514327
     }
   }
 }
