@@ -1499,6 +1499,18 @@
       ],
       "folder": "4006-count-valid-prefixes",
       "updatedAt": 1786773945359
+    },
+    "0005-longest-palindromic-substring": {
+      "frontendId": "5",
+      "slug": "longest-palindromic-substring",
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0005-longest-palindromic-substring",
+      "updatedAt": 1786780265136
     }
   }
 }
