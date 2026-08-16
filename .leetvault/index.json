@@ -1595,6 +1595,18 @@
       ],
       "folder": "1378-replace-employee-id-with-the-unique-identifier",
       "updatedAt": 1786802820783
+    },
+    "4024-nearest-available-drone": {
+      "frontendId": "4024",
+      "slug": "nearest-available-drone",
+      "title": "Nearest Available Drone",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4024-nearest-available-drone",
+      "updatedAt": 1786860693497
     }
   }
 }
