@@ -1619,6 +1619,18 @@
       ],
       "folder": "4020-elevator-requests-i",
       "updatedAt": 1786863901218
+    },
+    "4021-minimum-operations-to-make-a-rotated-palindrome-i": {
+      "frontendId": "4021",
+      "slug": "minimum-operations-to-make-a-rotated-palindrome-i",
+      "title": "Minimum Operations to Make a Rotated Palindrome I",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4021-minimum-operations-to-make-a-rotated-palindrome-i",
+      "updatedAt": 1786867036752
     }
   }
 }
