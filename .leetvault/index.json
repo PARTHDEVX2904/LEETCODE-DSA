@@ -1607,6 +1607,18 @@
       ],
       "folder": "4024-nearest-available-drone",
       "updatedAt": 1786860693497
+    },
+    "4020-elevator-requests-i": {
+      "frontendId": "4020",
+      "slug": "elevator-requests-i",
+      "title": "Elevator Requests I",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4020-elevator-requests-i",
+      "updatedAt": 1786863901218
     }
   }
 }
