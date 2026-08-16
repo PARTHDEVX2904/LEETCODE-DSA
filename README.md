@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**137 problems solved.**
+**138 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -27,6 +27,7 @@
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium |  | C++ |
 | 55 | [Jump Game](0055-jump-game/) | Medium |  | C++ |
 | 56 | [Merge Intervals](0056-merge-intervals/) | Medium |  | C++ |
+| 62 | [Unique Paths](0062-unique-paths/) | Medium |  | C++ |
 | 70 | [Climbing Stairs](0070-climbing-stairs/) | Easy |  | C++ |
 | 78 | [Subsets](0078-subsets/) | Medium |  | C++ |
 | 90 | [Subsets II](0090-subsets-ii/) | Medium |  | C++ |
