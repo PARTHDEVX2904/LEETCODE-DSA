@@ -1643,6 +1643,18 @@
       ],
       "folder": "0397-integer-replacement",
       "updatedAt": 1786877104358
+    },
+    "0062-unique-paths": {
+      "frontendId": "62",
+      "slug": "unique-paths",
+      "title": "Unique Paths",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0062-unique-paths",
+      "updatedAt": 1786887505484
     }
   }
 }
