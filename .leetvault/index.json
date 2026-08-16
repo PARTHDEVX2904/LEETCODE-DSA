@@ -1631,6 +1631,18 @@
       ],
       "folder": "4021-minimum-operations-to-make-a-rotated-palindrome-i",
       "updatedAt": 1786867036752
+    },
+    "0397-integer-replacement": {
+      "frontendId": "397",
+      "slug": "integer-replacement",
+      "title": "Integer Replacement",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0397-integer-replacement",
+      "updatedAt": 1786877104358
     }
   }
 }
