@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**133 problems solved.**
+**134 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -137,5 +137,6 @@
 | 4010 | [Maximize Pair Strength Using GCD](4010-maximize-pair-strength-using-gcd/) | Easy |  | C++ |
 | 4011 | [Count Subarrays With Even Odd Ratio I](4011-count-subarrays-with-even-odd-ratio-i/) | Medium |  | C++ |
 | 4014 | [Minimum Total Price After Applying Discounts](4014-minimum-total-price-after-applying-discounts/) | Medium |  | C++ |
+| 4024 | [Nearest Available Drone](4024-nearest-available-drone/) | Easy |  | C++ |
 | 101099 | [Aggregate Two Time Series](101099-aggregate-two-time-series/) | Medium |  | C++ |
 | 101114 | [Largest Integer With Given Digit Sum](101114-largest-integer-with-given-digit-sum/) | Easy |  | C++ |
