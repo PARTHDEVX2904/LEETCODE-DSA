@@ -1655,6 +1655,18 @@
       ],
       "folder": "0062-unique-paths",
       "updatedAt": 1786888257578
+    },
+    "0063-unique-paths-ii": {
+      "frontendId": "63",
+      "slug": "unique-paths-ii",
+      "title": "Unique Paths II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0063-unique-paths-ii",
+      "updatedAt": 1786888907067
     }
   }
 }
