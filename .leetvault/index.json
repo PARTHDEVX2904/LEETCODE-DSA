@@ -1679,6 +1679,18 @@
       ],
       "folder": "1068-product-sales-analysis-i",
       "updatedAt": 1786903934225
+    },
+    "0197-rising-temperature": {
+      "frontendId": "197",
+      "slug": "rising-temperature",
+      "title": "Rising Temperature",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "0197-rising-temperature",
+      "updatedAt": 1786904744106
     }
   }
 }
