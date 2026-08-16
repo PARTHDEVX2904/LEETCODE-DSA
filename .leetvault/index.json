@@ -1667,6 +1667,18 @@
       ],
       "folder": "0063-unique-paths-ii",
       "updatedAt": 1786889131504
+    },
+    "1068-product-sales-analysis-i": {
+      "frontendId": "1068",
+      "slug": "product-sales-analysis-i",
+      "title": "Product Sales Analysis I",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "1068-product-sales-analysis-i",
+      "updatedAt": 1786903934225
     }
   }
 }
