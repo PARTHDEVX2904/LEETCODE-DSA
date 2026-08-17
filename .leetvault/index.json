@@ -1763,6 +1763,18 @@
       ],
       "folder": "1661-average-time-of-process-per-machine",
       "updatedAt": 1786994007832
+    },
+    "0577-employee-bonus": {
+      "frontendId": "577",
+      "slug": "employee-bonus",
+      "title": "Employee Bonus",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "0577-employee-bonus",
+      "updatedAt": 1787001003206
     }
   }
 }
