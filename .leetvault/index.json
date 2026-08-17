@@ -1727,6 +1727,18 @@
       ],
       "folder": "0030-substring-with-concatenation-of-all-words",
       "updatedAt": 1786954036108
+    },
+    "0130-surrounded-regions": {
+      "frontendId": "130",
+      "slug": "surrounded-regions",
+      "title": "Surrounded Regions",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0130-surrounded-regions",
+      "updatedAt": 1786956428389
     }
   }
 }
