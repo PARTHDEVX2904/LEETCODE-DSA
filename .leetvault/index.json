@@ -1775,6 +1775,18 @@
       ],
       "folder": "0577-employee-bonus",
       "updatedAt": 1787001003206
+    },
+    "1280-students-and-examinations": {
+      "frontendId": "1280",
+      "slug": "students-and-examinations",
+      "title": "Students and Examinations",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "1280-students-and-examinations",
+      "updatedAt": 1787001691095
     }
   }
 }
