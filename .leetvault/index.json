@@ -1739,6 +1739,18 @@
       ],
       "folder": "0130-surrounded-regions",
       "updatedAt": 1786956428389
+    },
+    "1581-customer-who-visited-but-did-not-make-any-transactions": {
+      "frontendId": "1581",
+      "slug": "customer-who-visited-but-did-not-make-any-transactions",
+      "title": "Customer Who Visited but Did Not Make Any Transactions",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "1581-customer-who-visited-but-did-not-make-any-transactions",
+      "updatedAt": 1786991049564
     }
   }
 }
