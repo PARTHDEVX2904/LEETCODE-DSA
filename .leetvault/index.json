@@ -1715,6 +1715,18 @@
       ],
       "folder": "0120-triangle",
       "updatedAt": 1786952400093
+    },
+    "0030-substring-with-concatenation-of-all-words": {
+      "frontendId": "30",
+      "slug": "substring-with-concatenation-of-all-words",
+      "title": "Substring with Concatenation of All Words",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0030-substring-with-concatenation-of-all-words",
+      "updatedAt": 1786954036108
     }
   }
 }
