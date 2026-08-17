@@ -1751,6 +1751,18 @@
       ],
       "folder": "1581-customer-who-visited-but-did-not-make-any-transactions",
       "updatedAt": 1786991049564
+    },
+    "1661-average-time-of-process-per-machine": {
+      "frontendId": "1661",
+      "slug": "average-time-of-process-per-machine",
+      "title": "Average Time of Process per Machine",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "1661-average-time-of-process-per-machine",
+      "updatedAt": 1786994007832
     }
   }
 }
