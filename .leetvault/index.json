@@ -1691,6 +1691,18 @@
       ],
       "folder": "0197-rising-temperature",
       "updatedAt": 1786904744106
+    },
+    "0064-minimum-path-sum": {
+      "frontendId": "64",
+      "slug": "minimum-path-sum",
+      "title": "Minimum Path Sum",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0064-minimum-path-sum",
+      "updatedAt": 1786946660586
     }
   }
 }
