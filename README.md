@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**142 problems solved.**
+**143 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -54,6 +54,7 @@
 | 117 | [Populating Next Right Pointers in Each Node II](0117-populating-next-right-pointers-in-each-node-ii/) | Medium |  | C++ |
 | 118 | [Pascal's Triangle](0118-pascals-triangle/) | Easy |  | C++ |
 | 119 | [Pascal's Triangle II](0119-pascals-triangle-ii/) | Easy |  | C++ |
+| 120 | [Triangle](0120-triangle/) | Medium |  | C++ |
 | 121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/) | Easy |  | C++ |
 | 122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/) | Medium |  | C++ |
 | 124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/) | Hard |  | C++ |
