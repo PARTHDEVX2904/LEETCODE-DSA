@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**141 problems solved.**
+**142 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -29,6 +29,7 @@
 | 56 | [Merge Intervals](0056-merge-intervals/) | Medium |  | C++ |
 | 62 | [Unique Paths](0062-unique-paths/) | Medium |  | C++ |
 | 63 | [Unique Paths II](0063-unique-paths-ii/) | Medium |  | C++ |
+| 64 | [Minimum Path Sum](0064-minimum-path-sum/) | Medium |  | C++ |
 | 70 | [Climbing Stairs](0070-climbing-stairs/) | Easy |  | C++ |
 | 78 | [Subsets](0078-subsets/) | Medium |  | C++ |
 | 90 | [Subsets II](0090-subsets-ii/) | Medium |  | C++ |
