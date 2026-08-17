@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**145 problems solved.**
+**146 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -121,6 +121,7 @@
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium |  | C++ |
 | 1462 | [Course Schedule IV](1462-course-schedule-iv/) | Medium |  | C++ |
 | 1464 | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array/) | Easy |  | C++ |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |  | mysql |
 | 1683 | [Invalid Tweets](1683-invalid-tweets/) | Easy |  | mysql |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy |  | mysql |
 | 1922 | [Count Good Numbers](1922-count-good-numbers/) | Medium |  | C++ |
