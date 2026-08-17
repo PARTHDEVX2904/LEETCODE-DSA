@@ -1787,6 +1787,18 @@
       ],
       "folder": "1280-students-and-examinations",
       "updatedAt": 1787001691095
+    },
+    "0570-managers-with-at-least-5-direct-reports": {
+      "frontendId": "570",
+      "slug": "managers-with-at-least-5-direct-reports",
+      "title": "Managers with at Least 5 Direct Reports",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "0570-managers-with-at-least-5-direct-reports",
+      "updatedAt": 1787001944871
     }
   }
 }
