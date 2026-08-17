@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**143 problems solved.**
+**144 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -17,6 +17,7 @@
 | 19 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/) | Medium |  | C++ |
 | 22 | [Generate Parentheses](0022-generate-parentheses/) | Medium |  | C++ |
 | 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists/) | Hard |  | C++ |
+| 30 | [Substring with Concatenation of All Words](0030-substring-with-concatenation-of-all-words/) | Hard |  | C++ |
 | 32 | [Longest Valid Parentheses](0032-longest-valid-parentheses/) | Hard |  | C++ |
 | 36 | [Valid Sudoku](0036-valid-sudoku/) | Medium |  | C++ |
 | 37 | [Sudoku Solver](0037-sudoku-solver/) | Hard |  | C++ |
