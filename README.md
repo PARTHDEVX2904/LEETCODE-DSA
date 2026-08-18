@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**151 problems solved.**
+**152 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -125,6 +125,7 @@
 | 1462 | [Course Schedule IV](1462-course-schedule-iv/) | Medium |  | C++ |
 | 1464 | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array/) | Easy |  | C++ |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |  | mysql |
+| 1637 | [Widest Vertical Area Between Two Points Containing No Points](1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |  | C++ |
 | 1661 | [Average Time of Process per Machine](1661-average-time-of-process-per-machine/) | Easy |  | mysql |
 | 1683 | [Invalid Tweets](1683-invalid-tweets/) | Easy |  | mysql |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy |  | mysql |
