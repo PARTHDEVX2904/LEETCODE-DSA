@@ -1871,6 +1871,18 @@
       ],
       "folder": "3471-find-the-largest-almost-missing-integer",
       "updatedAt": 1787043528416
+    },
+    "1492-the-kth-factor-of-n": {
+      "frontendId": "1492",
+      "slug": "the-kth-factor-of-n",
+      "title": "The kth Factor of n",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1492-the-kth-factor-of-n",
+      "updatedAt": 1787052383630
     }
   }
 }
