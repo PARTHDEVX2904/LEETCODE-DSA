@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**153 problems solved.**
+**154 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -124,6 +124,7 @@
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium |  | C++ |
 | 1462 | [Course Schedule IV](1462-course-schedule-iv/) | Medium |  | C++ |
 | 1464 | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array/) | Easy |  | C++ |
+| 1561 | [Maximum Number of Coins You Can Get](1561-maximum-number-of-coins-you-can-get/) | Medium |  | C++ |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |  | mysql |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |  | C++ |
 | 1661 | [Average Time of Process per Machine](1661-average-time-of-process-per-machine/) | Easy |  | mysql |
