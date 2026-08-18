@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**157 problems solved.**
+**158 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -133,6 +133,7 @@
 | 1683 | [Invalid Tweets](1683-invalid-tweets/) | Easy |  | mysql |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy |  | mysql |
 | 1922 | [Count Good Numbers](1922-count-good-numbers/) | Medium |  | C++ |
+| 1934 | [Confirmation Rate](1934-confirmation-rate/) | Medium |  | mysql |
 | 2486 | [Append Characters to String to Make Subsequence](2486-append-characters-to-string-to-make-subsequence/) | Medium |  | C++ |
 | 2618 | [Check if Object Instance of Class](2618-check-if-object-instance-of-class/) | Medium |  | JavaScript |
 | 2620 | [Counter](2620-counter/) | Easy |  | JavaScript |
