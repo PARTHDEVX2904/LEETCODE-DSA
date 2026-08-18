@@ -1823,6 +1823,18 @@
       ],
       "folder": "1637-widest-vertical-area-between-two-points-containing-no-points",
       "updatedAt": 1787035726372
+    },
+    "2974-minimum-number-game": {
+      "frontendId": "2974",
+      "slug": "minimum-number-game",
+      "title": "Minimum Number Game",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2974-minimum-number-game",
+      "updatedAt": 1787037009906
     }
   }
 }
