@@ -1883,6 +1883,18 @@
       ],
       "folder": "1492-the-kth-factor-of-n",
       "updatedAt": 1787052383630
+    },
+    "1934-confirmation-rate": {
+      "frontendId": "1934",
+      "slug": "confirmation-rate",
+      "title": "Confirmation Rate",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "mysql"
+      ],
+      "folder": "1934-confirmation-rate",
+      "updatedAt": 1787072376981
     }
   }
 }
