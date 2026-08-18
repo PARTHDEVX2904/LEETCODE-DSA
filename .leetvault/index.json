@@ -1847,6 +1847,18 @@
       ],
       "folder": "1561-maximum-number-of-coins-you-can-get",
       "updatedAt": 1787037977662
+    },
+    "0547-number-of-provinces": {
+      "frontendId": "547",
+      "slug": "number-of-provinces",
+      "title": "Number of Provinces",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0547-number-of-provinces",
+      "updatedAt": 1787039276248
     }
   }
 }
