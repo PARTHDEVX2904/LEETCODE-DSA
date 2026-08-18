@@ -1859,6 +1859,18 @@
       ],
       "folder": "0547-number-of-provinces",
       "updatedAt": 1787039276248
+    },
+    "3471-find-the-largest-almost-missing-integer": {
+      "frontendId": "3471",
+      "slug": "find-the-largest-almost-missing-integer",
+      "title": "Find the Largest Almost Missing Integer",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3471-find-the-largest-almost-missing-integer",
+      "updatedAt": 1787043528416
     }
   }
 }
