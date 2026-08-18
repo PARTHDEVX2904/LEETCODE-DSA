@@ -1799,6 +1799,18 @@
       ],
       "folder": "0570-managers-with-at-least-5-direct-reports",
       "updatedAt": 1787001944871
+    },
+    "4007-widest-possible-fence": {
+      "frontendId": "4007",
+      "slug": "widest-possible-fence",
+      "title": "Widest Possible Fence",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4007-widest-possible-fence",
+      "updatedAt": 1787032465500
     }
   }
 }
