@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**161 problems solved.**
+**162 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -96,6 +96,7 @@
 | 450 | [Delete Node in a BST](0450-delete-node-in-a-bst/) | Medium |  | C++ |
 | 451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/) | Medium |  | C++ |
 | 523 | [Continuous Subarray Sum](0523-continuous-subarray-sum/) | Medium |  | C++ |
+| 542 | [01 Matrix](0542-01-matrix/) | Medium |  | C++ |
 | 543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/) | Easy |  | C++ |
 | 547 | [Number of Provinces](0547-number-of-provinces/) | Medium |  | C++ |
 | 570 | [Managers with at Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports/) | Medium |  | mysql |
