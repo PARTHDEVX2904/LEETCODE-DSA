@@ -1907,6 +1907,18 @@
       ],
       "folder": "1386-cinema-seat-allocation",
       "updatedAt": 1787129131768
+    },
+    "0802-find-eventual-safe-states": {
+      "frontendId": "802",
+      "slug": "find-eventual-safe-states",
+      "title": "Find Eventual Safe States",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0802-find-eventual-safe-states",
+      "updatedAt": 1787139311025
     }
   }
 }
