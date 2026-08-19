@@ -1943,6 +1943,18 @@
       ],
       "folder": "0542-01-matrix",
       "updatedAt": 1787146693879
+    },
+    "0200-number-of-islands": {
+      "frontendId": "200",
+      "slug": "number-of-islands",
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0200-number-of-islands",
+      "updatedAt": 1787154582483
     }
   }
 }
