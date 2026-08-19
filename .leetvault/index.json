@@ -1919,6 +1919,18 @@
       ],
       "folder": "0802-find-eventual-safe-states",
       "updatedAt": 1787139311025
+    },
+    "1046-last-stone-weight": {
+      "frontendId": "1046",
+      "slug": "last-stone-weight",
+      "title": "Last Stone Weight",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1046-last-stone-weight",
+      "updatedAt": 1787140074250
     }
   }
 }
