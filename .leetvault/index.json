@@ -1931,6 +1931,18 @@
       ],
       "folder": "1046-last-stone-weight",
       "updatedAt": 1787140074250
+    },
+    "0542-01-matrix": {
+      "frontendId": "542",
+      "slug": "01-matrix",
+      "title": "01 Matrix",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0542-01-matrix",
+      "updatedAt": 1787146693879
     }
   }
 }
