@@ -1895,6 +1895,18 @@
       ],
       "folder": "1934-confirmation-rate",
       "updatedAt": 1787072376981
+    },
+    "1386-cinema-seat-allocation": {
+      "frontendId": "1386",
+      "slug": "cinema-seat-allocation",
+      "title": "Cinema Seat Allocation",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1386-cinema-seat-allocation",
+      "updatedAt": 1787129131768
     }
   }
 }
