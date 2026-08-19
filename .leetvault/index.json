@@ -1955,6 +1955,18 @@
       ],
       "folder": "0200-number-of-islands",
       "updatedAt": 1787154582483
+    },
+    "2405-optimal-partition-of-string": {
+      "frontendId": "2405",
+      "slug": "optimal-partition-of-string",
+      "title": "Optimal Partition of String",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2405-optimal-partition-of-string",
+      "updatedAt": 1787164191312
     }
   }
 }
