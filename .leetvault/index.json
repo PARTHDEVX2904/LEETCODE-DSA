@@ -2027,6 +2027,18 @@
       ],
       "folder": "0238-product-of-array-except-self",
       "updatedAt": 1787246940579
+    },
+    "2839-check-if-strings-can-be-made-equal-with-operations-i": {
+      "frontendId": "2839",
+      "slug": "check-if-strings-can-be-made-equal-with-operations-i",
+      "title": "Check if Strings Can be Made Equal With Operations I",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2839-check-if-strings-can-be-made-equal-with-operations-i",
+      "updatedAt": 1787251353916
     }
   }
 }
