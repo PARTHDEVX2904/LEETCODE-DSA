@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**166 problems solved.**
+**167 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -115,6 +115,7 @@
 | 746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/) | Easy |  | C++ |
 | 802 | [Find Eventual Safe States](0802-find-eventual-safe-states/) | Medium |  | C++ |
 | 881 | [Boats to Save People](0881-boats-to-save-people/) | Medium |  | C++ |
+| 913 | [Cat and Mouse](0913-cat-and-mouse/) | Hard |  | C++ |
 | 938 | [Range Sum of BST](0938-range-sum-of-bst/) | Easy |  | C++ |
 | 973 | [K Closest Points to Origin](0973-k-closest-points-to-origin/) | Medium |  | C++ |
 | 987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/) | Hard |  | C++ |
