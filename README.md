@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**164 problems solved.**
+**165 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -149,6 +149,7 @@
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |  | C++ |
 | 3014 | [Minimum Number of Pushes to Type Word I](3014-minimum-number-of-pushes-to-type-word-i/) | Easy |  | C++ |
 | 3016 | [Minimum Number of Pushes to Type Word II](3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |  | C++ |
+| 3069 | [Distribute Elements Into Two Arrays I](3069-distribute-elements-into-two-arrays-i/) | Easy |  | C++ |
 | 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences/) | Easy |  | C++ |
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project/) | Medium |  | C++ |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i/) | Easy |  | C++ |
