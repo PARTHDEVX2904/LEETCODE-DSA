@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**169 problems solved.**
+**170 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -147,6 +147,7 @@
 | 2486 | [Append Characters to String to Make Subsequence](2486-append-characters-to-string-to-make-subsequence/) | Medium |  | C++ |
 | 2618 | [Check if Object Instance of Class](2618-check-if-object-instance-of-class/) | Medium |  | JavaScript |
 | 2620 | [Counter](2620-counter/) | Easy |  | JavaScript |
+| 2839 | [Check if Strings Can be Made Equal With Operations I](2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |  | C++ |
 | 2870 | [Minimum Number of Operations to Make Array Empty](2870-minimum-number-of-operations-to-make-array-empty/) | Medium |  | C++ |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |  | C++ |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/) | Easy |  | C++ |
