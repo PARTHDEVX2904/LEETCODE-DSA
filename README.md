@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**165 problems solved.**
+**166 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -94,6 +94,7 @@
 | 404 | [Sum of Left Leaves](0404-sum-of-left-leaves/) | Easy |  | C++ |
 | 409 | [Longest Palindrome](0409-longest-palindrome/) | Easy |  | C++ |
 | 410 | [Split Array Largest Sum](0410-split-array-largest-sum/) | Hard |  | C++ |
+| 416 | [Partition Equal Subset Sum](0416-partition-equal-subset-sum/) | Medium |  | C++ |
 | 450 | [Delete Node in a BST](0450-delete-node-in-a-bst/) | Medium |  | C++ |
 | 451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/) | Medium |  | C++ |
 | 523 | [Continuous Subarray Sum](0523-continuous-subarray-sum/) | Medium |  | C++ |
