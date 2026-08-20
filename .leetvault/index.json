@@ -1979,6 +1979,18 @@
       ],
       "folder": "3069-distribute-elements-into-two-arrays-i",
       "updatedAt": 1787193984280
+    },
+    "0416-partition-equal-subset-sum": {
+      "frontendId": "416",
+      "slug": "partition-equal-subset-sum",
+      "title": "Partition Equal Subset Sum",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0416-partition-equal-subset-sum",
+      "updatedAt": 1787201544757
     }
   }
 }
