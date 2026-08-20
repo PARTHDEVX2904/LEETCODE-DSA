@@ -1991,6 +1991,18 @@
       ],
       "folder": "0416-partition-equal-subset-sum",
       "updatedAt": 1787201544757
+    },
+    "0913-cat-and-mouse": {
+      "frontendId": "913",
+      "slug": "cat-and-mouse",
+      "title": "Cat and Mouse",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0913-cat-and-mouse",
+      "updatedAt": 1787236782799
     }
   }
 }
