@@ -1967,6 +1967,18 @@
       ],
       "folder": "2405-optimal-partition-of-string",
       "updatedAt": 1787164191312
+    },
+    "3069-distribute-elements-into-two-arrays-i": {
+      "frontendId": "3069",
+      "slug": "distribute-elements-into-two-arrays-i",
+      "title": "Distribute Elements Into Two Arrays I",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3069-distribute-elements-into-two-arrays-i",
+      "updatedAt": 1787193984280
     }
   }
 }
