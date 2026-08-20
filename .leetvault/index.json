@@ -2003,6 +2003,18 @@
       ],
       "folder": "0913-cat-and-mouse",
       "updatedAt": 1787236782799
+    },
+    "0274-h-index": {
+      "frontendId": "274",
+      "slug": "h-index",
+      "title": "H-Index",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0274-h-index",
+      "updatedAt": 1787241115997
     }
   }
 }
