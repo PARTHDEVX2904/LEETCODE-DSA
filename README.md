@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**167 problems solved.**
+**168 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -83,6 +83,7 @@
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |  | C++ |
 | 236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |  | C++ |
 | 257 | [Binary Tree Paths](0257-binary-tree-paths/) | Easy |  | C++ |
+| 274 | [H-Index](0274-h-index/) | Medium |  | C++ |
 | 275 | [H-Index II](0275-h-index-ii/) | Medium |  | C++ |
 | 295 | [Find Median from Data Stream](0295-find-median-from-data-stream/) | Hard |  | C++ |
 | 297 | [Serialize and Deserialize Binary Tree](0297-serialize-and-deserialize-binary-tree/) | Hard |  | C++ |
