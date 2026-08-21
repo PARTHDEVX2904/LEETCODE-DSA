@@ -2063,6 +2063,18 @@
       ],
       "folder": "0080-remove-duplicates-from-sorted-array-ii",
       "updatedAt": 1787288221723
+    },
+    "0735-asteroid-collision": {
+      "frontendId": "735",
+      "slug": "asteroid-collision",
+      "title": "Asteroid Collision",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0735-asteroid-collision",
+      "updatedAt": 1787293925328
     }
   }
 }
