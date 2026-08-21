@@ -2051,6 +2051,18 @@
       ],
       "folder": "3116-kth-smallest-amount-with-single-denomination-combination",
       "updatedAt": 1787287672114
+    },
+    "0080-remove-duplicates-from-sorted-array-ii": {
+      "frontendId": "80",
+      "slug": "remove-duplicates-from-sorted-array-ii",
+      "title": "Remove Duplicates from Sorted Array II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0080-remove-duplicates-from-sorted-array-ii",
+      "updatedAt": 1787288221723
     }
   }
 }
