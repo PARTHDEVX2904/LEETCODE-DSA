@@ -2087,6 +2087,18 @@
       ],
       "folder": "1209-remove-all-adjacent-duplicates-in-string-ii",
       "updatedAt": 1787297252331
+    },
+    "0853-car-fleet": {
+      "frontendId": "853",
+      "slug": "car-fleet",
+      "title": "Car Fleet",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0853-car-fleet",
+      "updatedAt": 1787300925910
     }
   }
 }
