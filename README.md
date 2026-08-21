@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**172 problems solved.**
+**173 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -114,6 +114,7 @@
 | 701 | [Insert into a Binary Search Tree](0701-insert-into-a-binary-search-tree/) | Medium |  | C++ |
 | 703 | [Kth Largest Element in a Stream](0703-kth-largest-element-in-a-stream/) | Easy |  | C++ |
 | 733 | [Flood Fill](0733-flood-fill/) | Easy |  | C++ |
+| 735 | [Asteroid Collision](0735-asteroid-collision/) | Medium |  | C++ |
 | 743 | [Network Delay Time](0743-network-delay-time/) | Medium |  | C++ |
 | 746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/) | Easy |  | C++ |
 | 802 | [Find Eventual Safe States](0802-find-eventual-safe-states/) | Medium |  | C++ |
