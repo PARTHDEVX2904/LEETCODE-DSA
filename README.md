@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**170 problems solved.**
+**171 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -156,6 +156,7 @@
 | 3016 | [Minimum Number of Pushes to Type Word II](3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |  | C++ |
 | 3069 | [Distribute Elements Into Two Arrays I](3069-distribute-elements-into-two-arrays-i/) | Easy |  | C++ |
 | 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences/) | Easy |  | C++ |
+| 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |  | C++ |
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project/) | Medium |  | C++ |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i/) | Easy |  | C++ |
 | 3471 | [Find the Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer/) | Easy |  | C++ |
