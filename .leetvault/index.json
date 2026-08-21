@@ -2075,6 +2075,18 @@
       ],
       "folder": "0735-asteroid-collision",
       "updatedAt": 1787293925328
+    },
+    "1209-remove-all-adjacent-duplicates-in-string-ii": {
+      "frontendId": "1209",
+      "slug": "remove-all-adjacent-duplicates-in-string-ii",
+      "title": "Remove All Adjacent Duplicates in String II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1209-remove-all-adjacent-duplicates-in-string-ii",
+      "updatedAt": 1787297252331
     }
   }
 }
