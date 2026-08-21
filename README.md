@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**174 problems solved.**
+**175 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -118,6 +118,7 @@
 | 743 | [Network Delay Time](0743-network-delay-time/) | Medium |  | C++ |
 | 746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/) | Easy |  | C++ |
 | 802 | [Find Eventual Safe States](0802-find-eventual-safe-states/) | Medium |  | C++ |
+| 853 | [Car Fleet](0853-car-fleet/) | Medium |  | C++ |
 | 881 | [Boats to Save People](0881-boats-to-save-people/) | Medium |  | C++ |
 | 913 | [Cat and Mouse](0913-cat-and-mouse/) | Hard |  | C++ |
 | 938 | [Range Sum of BST](0938-range-sum-of-bst/) | Easy |  | C++ |
