@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**175 problems solved.**
+**176 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -167,6 +167,7 @@
 | 3513 | [Number of Unique XOR Triplets I](3513-number-of-unique-xor-triplets-i/) | Medium |  | C++ |
 | 3517 | [Smallest Palindromic Rearrangement I](3517-smallest-palindromic-rearrangement-i/) | Medium |  | C++ |
 | 3536 | [Maximum Product of Two Digits](3536-maximum-product-of-two-digits/) | Easy |  | C++ |
+| 3622 | [Check Divisibility by Digit Sum and Product](3622-check-divisibility-by-digit-sum-and-product/) | Easy |  | C++ |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |  | C++ |
 | 3731 | [Find Missing Elements](3731-find-missing-elements/) | Easy |  | C++ |
 | 3994 | [Minimum Adjacent Swaps to Partition Array](3994-minimum-adjacent-swaps-to-partition-array/) | Medium |  | C++ |
