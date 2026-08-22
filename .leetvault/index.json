@@ -2111,6 +2111,18 @@
       ],
       "folder": "3622-check-divisibility-by-digit-sum-and-product",
       "updatedAt": 1787369974872
+    },
+    "0684-redundant-connection": {
+      "frontendId": "684",
+      "slug": "redundant-connection",
+      "title": "Redundant Connection",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0684-redundant-connection",
+      "updatedAt": 1787372925627
     }
   }
 }
