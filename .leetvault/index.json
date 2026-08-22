@@ -2099,6 +2099,18 @@
       ],
       "folder": "0853-car-fleet",
       "updatedAt": 1787300925910
+    },
+    "3622-check-divisibility-by-digit-sum-and-product": {
+      "frontendId": "3622",
+      "slug": "check-divisibility-by-digit-sum-and-product",
+      "title": "Check Divisibility by Digit Sum and Product",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3622-check-divisibility-by-digit-sum-and-product",
+      "updatedAt": 1787369974872
     }
   }
 }
