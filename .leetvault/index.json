@@ -2123,6 +2123,18 @@
       ],
       "folder": "0684-redundant-connection",
       "updatedAt": 1787373088827
+    },
+    "0695-max-area-of-island": {
+      "frontendId": "695",
+      "slug": "max-area-of-island",
+      "title": "Max Area of Island",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0695-max-area-of-island",
+      "updatedAt": 1787378185830
     }
   }
 }
