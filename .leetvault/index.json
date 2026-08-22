@@ -2135,6 +2135,18 @@
       ],
       "folder": "0695-max-area-of-island",
       "updatedAt": 1787378185830
+    },
+    "0785-is-graph-bipartite": {
+      "frontendId": "785",
+      "slug": "is-graph-bipartite",
+      "title": "Is Graph Bipartite?",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0785-is-graph-bipartite",
+      "updatedAt": 1787380937033
     }
   }
 }
