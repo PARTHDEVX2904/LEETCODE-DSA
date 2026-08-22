@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**177 problems solved.**
+**178 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -112,6 +112,7 @@
 | 624 | [Maximum Distance in Arrays](0624-maximum-distance-in-arrays/) | Medium |  | C++ |
 | 628 | [Maximum Product of Three Numbers](0628-maximum-product-of-three-numbers/) | Easy |  | C++ |
 | 684 | [Redundant Connection](0684-redundant-connection/) | Medium |  | C++ |
+| 695 | [Max Area of Island](0695-max-area-of-island/) | Medium |  | C++ |
 | 701 | [Insert into a Binary Search Tree](0701-insert-into-a-binary-search-tree/) | Medium |  | C++ |
 | 703 | [Kth Largest Element in a Stream](0703-kth-largest-element-in-a-stream/) | Easy |  | C++ |
 | 733 | [Flood Fill](0733-flood-fill/) | Easy |  | C++ |
