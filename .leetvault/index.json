@@ -2159,6 +2159,18 @@
       ],
       "folder": "1927-sum-game",
       "updatedAt": 1787457932199
+    },
+    "4030-check-ascii-palindromic": {
+      "frontendId": "4030",
+      "slug": "check-ascii-palindromic",
+      "title": "Check ASCII Palindromic",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4030-check-ascii-palindromic",
+      "updatedAt": 1787462828553
     }
   }
 }
