@@ -2147,6 +2147,18 @@
       ],
       "folder": "0785-is-graph-bipartite",
       "updatedAt": 1787380937033
+    },
+    "1927-sum-game": {
+      "frontendId": "1927",
+      "slug": "sum-game",
+      "title": "Sum Game",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1927-sum-game",
+      "updatedAt": 1787457932199
     }
   }
 }
