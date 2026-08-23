@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**182 problems solved.**
+**183 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -186,5 +186,6 @@
 | 4024 | [Nearest Available Drone](4024-nearest-available-drone/) | Easy |  | C++ |
 | 4030 | [Check ASCII Palindromic](4030-check-ascii-palindromic/) | Easy |  | C++ |
 | 4031 | [Find All Numbers Disappeared in an Array II](4031-find-all-numbers-disappeared-in-an-array-ii/) | Medium |  | C++ |
+| 4032 | [Longest Subarray With at Most K Distinct Prime Factors](4032-longest-subarray-with-at-most-k-distinct-prime-factors/) | Medium |  | C++ |
 | 101099 | [Aggregate Two Time Series](101099-aggregate-two-time-series/) | Medium |  | C++ |
 | 101114 | [Largest Integer With Given Digit Sum](101114-largest-integer-with-given-digit-sum/) | Easy |  | C++ |
