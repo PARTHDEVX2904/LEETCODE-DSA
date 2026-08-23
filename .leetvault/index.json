@@ -2183,6 +2183,18 @@
       ],
       "folder": "4031-find-all-numbers-disappeared-in-an-array-ii",
       "updatedAt": 1787467205458
+    },
+    "4032-longest-subarray-with-at-most-k-distinct-prime-factors": {
+      "frontendId": "4032",
+      "slug": "longest-subarray-with-at-most-k-distinct-prime-factors",
+      "title": "Longest Subarray With at Most K Distinct Prime Factors",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4032-longest-subarray-with-at-most-k-distinct-prime-factors",
+      "updatedAt": 1787468856719
     }
   }
 }
