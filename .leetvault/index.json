@@ -2195,6 +2195,18 @@
       ],
       "folder": "4032-longest-subarray-with-at-most-k-distinct-prime-factors",
       "updatedAt": 1787468856719
+    },
+    "0406-queue-reconstruction-by-height": {
+      "frontendId": "406",
+      "slug": "queue-reconstruction-by-height",
+      "title": "Queue Reconstruction by Height",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0406-queue-reconstruction-by-height",
+      "updatedAt": 1787546350155
     }
   }
 }
