@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**183 problems solved.**
+**184 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -95,6 +95,7 @@
 | 392 | [Is Subsequence](0392-is-subsequence/) | Easy |  | C++ |
 | 397 | [Integer Replacement](0397-integer-replacement/) | Medium |  | C++ |
 | 404 | [Sum of Left Leaves](0404-sum-of-left-leaves/) | Easy |  | C++ |
+| 406 | [Queue Reconstruction by Height](0406-queue-reconstruction-by-height/) | Medium |  | C++ |
 | 409 | [Longest Palindrome](0409-longest-palindrome/) | Easy |  | C++ |
 | 410 | [Split Array Largest Sum](0410-split-array-largest-sum/) | Hard |  | C++ |
 | 416 | [Partition Equal Subset Sum](0416-partition-equal-subset-sum/) | Medium |  | C++ |
