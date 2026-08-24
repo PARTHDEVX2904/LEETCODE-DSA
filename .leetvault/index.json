@@ -2231,6 +2231,18 @@
       ],
       "folder": "0494-target-sum",
       "updatedAt": 1787572669601
+    },
+    "0452-minimum-number-of-arrows-to-burst-balloons": {
+      "frontendId": "452",
+      "slug": "minimum-number-of-arrows-to-burst-balloons",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0452-minimum-number-of-arrows-to-burst-balloons",
+      "updatedAt": 1787577049847
     }
   }
 }
