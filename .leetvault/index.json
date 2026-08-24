@@ -2207,6 +2207,18 @@
       ],
       "folder": "0406-queue-reconstruction-by-height",
       "updatedAt": 1787546350155
+    },
+    "0455-assign-cookies": {
+      "frontendId": "455",
+      "slug": "assign-cookies",
+      "title": "Assign Cookies",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0455-assign-cookies",
+      "updatedAt": 1787568082962
     }
   }
 }
