@@ -2255,6 +2255,18 @@
       ],
       "folder": "0630-course-schedule-iii",
       "updatedAt": 1787579290258
+    },
+    "1020-number-of-enclaves": {
+      "frontendId": "1020",
+      "slug": "number-of-enclaves",
+      "title": "Number of Enclaves",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1020-number-of-enclaves",
+      "updatedAt": 1787580894684
     }
   }
 }
