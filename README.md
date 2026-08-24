@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**188 problems solved.**
+**189 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -133,6 +133,7 @@
 | 973 | [K Closest Points to Origin](0973-k-closest-points-to-origin/) | Medium |  | C++ |
 | 987 | [Vertical Order Traversal of a Binary Tree](0987-vertical-order-traversal-of-a-binary-tree/) | Hard |  | C++ |
 | 994 | [Rotting Oranges](0994-rotting-oranges/) | Medium |  | C++ |
+| 1020 | [Number of Enclaves](1020-number-of-enclaves/) | Medium |  | C++ |
 | 1046 | [Last Stone Weight](1046-last-stone-weight/) | Easy |  | C++ |
 | 1068 | [Product Sales Analysis I](1068-product-sales-analysis-i/) | Easy |  | mysql |
 | 1091 | [Shortest Path in Binary Matrix](1091-shortest-path-in-binary-matrix/) | Medium |  | C++ |
