@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**186 problems solved.**
+**187 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -101,6 +101,7 @@
 | 416 | [Partition Equal Subset Sum](0416-partition-equal-subset-sum/) | Medium |  | C++ |
 | 450 | [Delete Node in a BST](0450-delete-node-in-a-bst/) | Medium |  | C++ |
 | 451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/) | Medium |  | C++ |
+| 452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |  | C++ |
 | 455 | [Assign Cookies](0455-assign-cookies/) | Easy |  | C++ |
 | 494 | [Target Sum](0494-target-sum/) | Medium |  | C++ |
 | 523 | [Continuous Subarray Sum](0523-continuous-subarray-sum/) | Medium |  | C++ |
