@@ -2219,6 +2219,18 @@
       ],
       "folder": "0455-assign-cookies",
       "updatedAt": 1787568082962
+    },
+    "0494-target-sum": {
+      "frontendId": "494",
+      "slug": "target-sum",
+      "title": "Target Sum",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0494-target-sum",
+      "updatedAt": 1787572669601
     }
   }
 }
