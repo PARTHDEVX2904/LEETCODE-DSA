@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**184 problems solved.**
+**185 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -101,6 +101,7 @@
 | 416 | [Partition Equal Subset Sum](0416-partition-equal-subset-sum/) | Medium |  | C++ |
 | 450 | [Delete Node in a BST](0450-delete-node-in-a-bst/) | Medium |  | C++ |
 | 451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/) | Medium |  | C++ |
+| 455 | [Assign Cookies](0455-assign-cookies/) | Easy |  | C++ |
 | 523 | [Continuous Subarray Sum](0523-continuous-subarray-sum/) | Medium |  | C++ |
 | 542 | [01 Matrix](0542-01-matrix/) | Medium |  | C++ |
 | 543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/) | Easy |  | C++ |
