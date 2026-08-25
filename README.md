@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**191 problems solved.**
+**192 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -85,6 +85,7 @@
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |  | C++ |
 | 236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |  | C++ |
 | 238 | [Product of Array Except Self](0238-product-of-array-except-self/) | Medium |  | C++ |
+| 241 | [Different Ways to Add Parentheses](0241-different-ways-to-add-parentheses/) | Medium |  | C++ |
 | 257 | [Binary Tree Paths](0257-binary-tree-paths/) | Easy |  | C++ |
 | 274 | [H-Index](0274-h-index/) | Medium |  | C++ |
 | 275 | [H-Index II](0275-h-index-ii/) | Medium |  | C++ |
