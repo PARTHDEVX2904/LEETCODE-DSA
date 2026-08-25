@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**194 problems solved.**
+**195 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -15,6 +15,7 @@
 | 12 | [Integer to Roman](0012-integer-to-roman/) | Medium |  | C++ |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy |  | C++ |
 | 16 | [3Sum Closest](0016-3sum-closest/) | Medium |  | C++ |
+| 18 | [4Sum](0018-4sum/) | Medium |  | C++ |
 | 19 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/) | Medium |  | C++ |
 | 22 | [Generate Parentheses](0022-generate-parentheses/) | Medium |  | C++ |
 | 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists/) | Hard |  | C++ |
