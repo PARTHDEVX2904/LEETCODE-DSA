@@ -2279,6 +2279,18 @@
       ],
       "folder": "3718-smallest-missing-multiple-of-k",
       "updatedAt": 1787630957043
+    },
+    "0143-reorder-list": {
+      "frontendId": "143",
+      "slug": "reorder-list",
+      "title": "Reorder List",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0143-reorder-list",
+      "updatedAt": 1787635694072
     }
   }
 }
