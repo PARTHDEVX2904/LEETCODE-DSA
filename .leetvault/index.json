@@ -2327,6 +2327,18 @@
       ],
       "folder": "0016-3sum-closest",
       "updatedAt": 1787664562310
+    },
+    "0018-4sum": {
+      "frontendId": "18",
+      "slug": "4sum",
+      "title": "4Sum",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0018-4sum",
+      "updatedAt": 1787664682360
     }
   }
 }
