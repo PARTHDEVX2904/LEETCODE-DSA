@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**190 problems solved.**
+**191 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -64,6 +64,7 @@
 | 130 | [Surrounded Regions](0130-surrounded-regions/) | Medium |  | C++ |
 | 133 | [Clone Graph](0133-clone-graph/) | Medium |  | C++ |
 | 134 | [Gas Station](0134-gas-station/) | Medium |  | C++ |
+| 143 | [Reorder List](0143-reorder-list/) | Medium |  | C++ |
 | 145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/) | Easy |  | C++ |
 | 162 | [Find Peak Element](0162-find-peak-element/) | Medium |  | C++ |
 | 169 | [Majority Element](0169-majority-element/) | Easy |  | C++ |
