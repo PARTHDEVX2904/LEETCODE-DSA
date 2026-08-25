@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**192 problems solved.**
+**193 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -94,6 +94,7 @@
 | 322 | [Coin Change](0322-coin-change/) | Medium |  | C++ |
 | 337 | [House Robber III](0337-house-robber-iii/) | Medium |  | C++ |
 | 386 | [Lexicographical Numbers](0386-lexicographical-numbers/) | Medium |  | C++ |
+| 390 | [Elimination Game](0390-elimination-game/) | Medium |  | C++ |
 | 392 | [Is Subsequence](0392-is-subsequence/) | Easy |  | C++ |
 | 397 | [Integer Replacement](0397-integer-replacement/) | Medium |  | C++ |
 | 404 | [Sum of Left Leaves](0404-sum-of-left-leaves/) | Easy |  | C++ |
