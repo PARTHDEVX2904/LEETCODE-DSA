@@ -2267,6 +2267,18 @@
       ],
       "folder": "1020-number-of-enclaves",
       "updatedAt": 1787580894684
+    },
+    "3718-smallest-missing-multiple-of-k": {
+      "frontendId": "3718",
+      "slug": "smallest-missing-multiple-of-k",
+      "title": "Smallest Missing Multiple of K",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3718-smallest-missing-multiple-of-k",
+      "updatedAt": 1787630957043
     }
   }
 }
