@@ -2303,6 +2303,18 @@
       ],
       "folder": "0241-different-ways-to-add-parentheses",
       "updatedAt": 1787637573236
+    },
+    "0390-elimination-game": {
+      "frontendId": "390",
+      "slug": "elimination-game",
+      "title": "Elimination Game",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0390-elimination-game",
+      "updatedAt": 1787643440777
     }
   }
 }
