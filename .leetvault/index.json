@@ -2315,6 +2315,18 @@
       ],
       "folder": "0390-elimination-game",
       "updatedAt": 1787643440777
+    },
+    "0016-3sum-closest": {
+      "frontendId": "16",
+      "slug": "3sum-closest",
+      "title": "3Sum Closest",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0016-3sum-closest",
+      "updatedAt": 1787664562310
     }
   }
 }
