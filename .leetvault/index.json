@@ -2291,6 +2291,18 @@
       ],
       "folder": "0143-reorder-list",
       "updatedAt": 1787635694072
+    },
+    "0241-different-ways-to-add-parentheses": {
+      "frontendId": "241",
+      "slug": "different-ways-to-add-parentheses",
+      "title": "Different Ways to Add Parentheses",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0241-different-ways-to-add-parentheses",
+      "updatedAt": 1787637573236
     }
   }
 }
