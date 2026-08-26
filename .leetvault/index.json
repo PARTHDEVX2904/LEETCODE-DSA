@@ -2399,6 +2399,18 @@
       ],
       "folder": "2942-find-words-containing-character",
       "updatedAt": 1787773993656
+    },
+    "1491-average-salary-excluding-the-minimum-and-maximum-salary": {
+      "frontendId": "1491",
+      "slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+      "title": "Average Salary Excluding the Minimum and Maximum Salary",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "Python3"
+      ],
+      "folder": "1491-average-salary-excluding-the-minimum-and-maximum-salary",
+      "updatedAt": 1787774453510
     }
   }
 }
