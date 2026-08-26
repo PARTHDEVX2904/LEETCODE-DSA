@@ -2411,6 +2411,18 @@
       ],
       "folder": "1491-average-salary-excluding-the-minimum-and-maximum-salary",
       "updatedAt": 1787774453510
+    },
+    "0334-increasing-triplet-subsequence": {
+      "frontendId": "334",
+      "slug": "increasing-triplet-subsequence",
+      "title": "Increasing Triplet Subsequence",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "Python3"
+      ],
+      "folder": "0334-increasing-triplet-subsequence",
+      "updatedAt": 1787774984846
     }
   }
 }
