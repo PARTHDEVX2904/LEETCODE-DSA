@@ -2339,6 +2339,18 @@
       ],
       "folder": "0018-4sum",
       "updatedAt": 1787664682360
+    },
+    "2904-shortest-and-lexicographically-smallest-beautiful-string": {
+      "frontendId": "2904",
+      "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+      "title": "Shortest and Lexicographically Smallest Beautiful String",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "Python3"
+      ],
+      "folder": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+      "updatedAt": 1787718459343
     }
   }
 }
