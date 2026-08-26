@@ -2351,6 +2351,18 @@
       ],
       "folder": "2904-shortest-and-lexicographically-smallest-beautiful-string",
       "updatedAt": 1787718459343
+    },
+    "0473-matchsticks-to-square": {
+      "frontendId": "473",
+      "slug": "matchsticks-to-square",
+      "title": "Matchsticks to Square",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0473-matchsticks-to-square",
+      "updatedAt": 1787743697016
     }
   }
 }
