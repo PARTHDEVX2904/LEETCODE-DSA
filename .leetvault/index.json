@@ -2423,6 +2423,18 @@
       ],
       "folder": "0334-increasing-triplet-subsequence",
       "updatedAt": 1787774984846
+    },
+    "0435-non-overlapping-intervals": {
+      "frontendId": "435",
+      "slug": "non-overlapping-intervals",
+      "title": "Non-overlapping Intervals",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "Python3"
+      ],
+      "folder": "0435-non-overlapping-intervals",
+      "updatedAt": 1787775314770
     }
   }
 }
