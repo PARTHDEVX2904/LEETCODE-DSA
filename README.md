@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**197 problems solved.**
+**198 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -156,6 +156,7 @@
 | 1492 | [The kth Factor of n](1492-the-kth-factor-of-n/) | Medium |  | C++ |
 | 1561 | [Maximum Number of Coins You Can Get](1561-maximum-number-of-coins-you-can-get/) | Medium |  | C++ |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |  | mysql |
+| 1631 | [Path With Minimum Effort](1631-path-with-minimum-effort/) | Medium |  | C++ |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |  | C++ |
 | 1661 | [Average Time of Process per Machine](1661-average-time-of-process-per-machine/) | Easy |  | mysql |
 | 1683 | [Invalid Tweets](1683-invalid-tweets/) | Easy |  | mysql |
