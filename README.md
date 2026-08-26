@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**199 problems solved.**
+**200 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -172,6 +172,7 @@
 | 2839 | [Check if Strings Can be Made Equal With Operations I](2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |  | C++ |
 | 2870 | [Minimum Number of Operations to Make Array Empty](2870-minimum-number-of-operations-to-make-array-empty/) | Medium |  | C++ |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |  | Python3 |
+| 2942 | [Find Words Containing Character](2942-find-words-containing-character/) | Easy |  | Python3 |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |  | C++ |
 | 2974 | [Minimum Number Game](2974-minimum-number-game/) | Easy |  | C++ |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |  | C++ |
