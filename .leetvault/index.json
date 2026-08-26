@@ -2387,6 +2387,18 @@
       ],
       "folder": "1451-rearrange-words-in-a-sentence",
       "updatedAt": 1787769058641
+    },
+    "2942-find-words-containing-character": {
+      "frontendId": "2942",
+      "slug": "find-words-containing-character",
+      "title": "Find Words Containing Character",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "Python3"
+      ],
+      "folder": "2942-find-words-containing-character",
+      "updatedAt": 1787773993656
     }
   }
 }
