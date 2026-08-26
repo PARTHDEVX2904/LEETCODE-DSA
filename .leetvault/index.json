@@ -2375,6 +2375,18 @@
       ],
       "folder": "1631-path-with-minimum-effort",
       "updatedAt": 1787749612736
+    },
+    "1451-rearrange-words-in-a-sentence": {
+      "frontendId": "1451",
+      "slug": "rearrange-words-in-a-sentence",
+      "title": "Rearrange Words in a Sentence",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1451-rearrange-words-in-a-sentence",
+      "updatedAt": 1787769058641
     }
   }
 }
