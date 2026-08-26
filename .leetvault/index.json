@@ -2363,6 +2363,18 @@
       ],
       "folder": "0473-matchsticks-to-square",
       "updatedAt": 1787743697016
+    },
+    "1631-path-with-minimum-effort": {
+      "frontendId": "1631",
+      "slug": "path-with-minimum-effort",
+      "title": "Path With Minimum Effort",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1631-path-with-minimum-effort",
+      "updatedAt": 1787749612736
     }
   }
 }
