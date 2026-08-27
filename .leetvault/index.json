@@ -2447,6 +2447,18 @@
       ],
       "folder": "0419-battleships-in-a-board",
       "updatedAt": 1787852882118
+    },
+    "2657-find-the-prefix-common-array-of-two-arrays": {
+      "frontendId": "2657",
+      "slug": "find-the-prefix-common-array-of-two-arrays",
+      "title": "Find the Prefix Common Array of Two Arrays",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "Python3"
+      ],
+      "folder": "2657-find-the-prefix-common-array-of-two-arrays",
+      "updatedAt": 1787863434612
     }
   }
 }
