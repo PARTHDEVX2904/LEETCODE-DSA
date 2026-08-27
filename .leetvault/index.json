@@ -2435,6 +2435,18 @@
       ],
       "folder": "0435-non-overlapping-intervals",
       "updatedAt": 1787775314770
+    },
+    "0419-battleships-in-a-board": {
+      "frontendId": "419",
+      "slug": "battleships-in-a-board",
+      "title": "Battleships in a Board",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0419-battleships-in-a-board",
+      "updatedAt": 1787852882118
     }
   }
 }
