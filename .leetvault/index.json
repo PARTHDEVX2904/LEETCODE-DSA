@@ -2471,6 +2471,18 @@
       ],
       "folder": "3760-maximum-substrings-with-distinct-start",
       "updatedAt": 1787864522330
+    },
+    "0205-isomorphic-strings": {
+      "frontendId": "205",
+      "slug": "isomorphic-strings",
+      "title": "Isomorphic Strings",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "Python3"
+      ],
+      "folder": "0205-isomorphic-strings",
+      "updatedAt": 1787864993072
     }
   }
 }
