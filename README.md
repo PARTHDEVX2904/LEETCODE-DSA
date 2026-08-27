@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**206 problems solved.**
+**207 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -77,6 +77,7 @@
 | 198 | [House Robber](0198-house-robber/) | Medium |  | C++ |
 | 199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view/) | Medium |  | C++ |
 | 200 | [Number of Islands](0200-number-of-islands/) | Medium |  | C++ |
+| 205 | [Isomorphic Strings](0205-isomorphic-strings/) | Easy |  | Python3 |
 | 207 | [Course Schedule](0207-course-schedule/) | Medium |  | C++ |
 | 209 | [Minimum Size Subarray Sum](0209-minimum-size-subarray-sum/) | Medium |  | C++ |
 | 210 | [Course Schedule II](0210-course-schedule-ii/) | Medium |  | C++ |
