@@ -2459,6 +2459,18 @@
       ],
       "folder": "2657-find-the-prefix-common-array-of-two-arrays",
       "updatedAt": 1787863434612
+    },
+    "3760-maximum-substrings-with-distinct-start": {
+      "frontendId": "3760",
+      "slug": "maximum-substrings-with-distinct-start",
+      "title": "Maximum Substrings With Distinct Start",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "Python3"
+      ],
+      "folder": "3760-maximum-substrings-with-distinct-start",
+      "updatedAt": 1787864522330
     }
   }
 }
