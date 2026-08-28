@@ -2495,6 +2495,18 @@
       ],
       "folder": "3720-lexicographically-smallest-permutation-greater-than-target",
       "updatedAt": 1787920105245
+    },
+    "3734-lexicographically-smallest-palindromic-permutation-greater-than-target": {
+      "frontendId": "3734",
+      "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "updatedAt": 1787925137159
     }
   }
 }
