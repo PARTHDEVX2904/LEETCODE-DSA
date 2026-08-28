@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**208 problems solved.**
+**209 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -198,6 +198,7 @@
 | 3718 | [Smallest Missing Multiple of K](3718-smallest-missing-multiple-of-k/) | Easy |  | C++ |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |  | C++ |
 | 3731 | [Find Missing Elements](3731-find-missing-elements/) | Easy |  | C++ |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |  | C++ |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/) | Medium |  | Python3 |
 | 3994 | [Minimum Adjacent Swaps to Partition Array](3994-minimum-adjacent-swaps-to-partition-array/) | Medium |  | C++ |
 | 3996 | [Even Number of Knight Moves](3996-even-number-of-knight-moves/) | Easy |  | C++ |
