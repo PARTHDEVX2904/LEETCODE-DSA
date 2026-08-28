@@ -2483,6 +2483,18 @@
       ],
       "folder": "0205-isomorphic-strings",
       "updatedAt": 1787864993072
+    },
+    "3720-lexicographically-smallest-permutation-greater-than-target": {
+      "frontendId": "3720",
+      "slug": "lexicographically-smallest-permutation-greater-than-target",
+      "title": "Lexicographically Smallest Permutation Greater Than Target",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3720-lexicographically-smallest-permutation-greater-than-target",
+      "updatedAt": 1787920105245
     }
   }
 }
