@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**212 problems solved.**
+**213 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -214,6 +214,7 @@
 | 4030 | [Check ASCII Palindromic](4030-check-ascii-palindromic/) | Easy |  | C++ |
 | 4031 | [Find All Numbers Disappeared in an Array II](4031-find-all-numbers-disappeared-in-an-array-ii/) | Medium |  | C++ |
 | 4032 | [Longest Subarray With at Most K Distinct Prime Factors](4032-longest-subarray-with-at-most-k-distinct-prime-factors/) | Medium |  | C++ |
+| 4036 | [Lexicographically Largest String After Pair Transformations](4036-lexicographically-largest-string-after-pair-transformations/) | Medium |  | C++ |
 | 101099 | [Aggregate Two Time Series](101099-aggregate-two-time-series/) | Medium |  | C++ |
 | 101114 | [Largest Integer With Given Digit Sum](101114-largest-integer-with-given-digit-sum/) | Easy |  | C++ |
 | 101127 | [Lexicographically Largest String After Pair Transformations](101127-lexicographically-largest-string-after-pair-transformations/) | Medium |  | C++ |
