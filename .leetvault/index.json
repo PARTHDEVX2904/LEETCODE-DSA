@@ -2507,6 +2507,18 @@
       ],
       "folder": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target",
       "updatedAt": 1787925137159
+    },
+    "2948-make-lexicographically-smallest-array-by-swapping-elements": {
+      "frontendId": "2948",
+      "slug": "make-lexicographically-smallest-array-by-swapping-elements",
+      "title": "Make Lexicographically Smallest Array by Swapping Elements",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2948-make-lexicographically-smallest-array-by-swapping-elements",
+      "updatedAt": 1787975843790
     }
   }
 }
