@@ -2531,6 +2531,18 @@
       ],
       "folder": "101151-minimum-bishop-moves-to-reach-target",
       "updatedAt": 1788015488290
+    },
+    "101127-lexicographically-largest-string-after-pair-transformations": {
+      "frontendId": "101127",
+      "slug": "lexicographically-largest-string-after-pair-transformations",
+      "title": "Lexicographically Largest String After Pair Transformations",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "101127-lexicographically-largest-string-after-pair-transformations",
+      "updatedAt": 1788018037104
     }
   }
 }
