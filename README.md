@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**211 problems solved.**
+**212 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -216,4 +216,5 @@
 | 4032 | [Longest Subarray With at Most K Distinct Prime Factors](4032-longest-subarray-with-at-most-k-distinct-prime-factors/) | Medium |  | C++ |
 | 101099 | [Aggregate Two Time Series](101099-aggregate-two-time-series/) | Medium |  | C++ |
 | 101114 | [Largest Integer With Given Digit Sum](101114-largest-integer-with-given-digit-sum/) | Easy |  | C++ |
+| 101127 | [Lexicographically Largest String After Pair Transformations](101127-lexicographically-largest-string-after-pair-transformations/) | Medium |  | C++ |
 | 101151 | [Minimum Bishop Moves to Reach Target](101151-minimum-bishop-moves-to-reach-target/) | Medium |  | C++ |
