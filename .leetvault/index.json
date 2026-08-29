@@ -2543,6 +2543,18 @@
       ],
       "folder": "101127-lexicographically-largest-string-after-pair-transformations",
       "updatedAt": 1788018037104
+    },
+    "4036-lexicographically-largest-string-after-pair-transformations": {
+      "frontendId": "4036",
+      "slug": "lexicographically-largest-string-after-pair-transformations",
+      "title": "Lexicographically Largest String After Pair Transformations",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4036-lexicographically-largest-string-after-pair-transformations",
+      "updatedAt": 1788021598888
     }
   }
 }
