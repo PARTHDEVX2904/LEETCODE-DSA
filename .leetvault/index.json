@@ -2519,6 +2519,18 @@
       ],
       "folder": "2948-make-lexicographically-smallest-array-by-swapping-elements",
       "updatedAt": 1787975843790
+    },
+    "101151-minimum-bishop-moves-to-reach-target": {
+      "frontendId": "101151",
+      "slug": "minimum-bishop-moves-to-reach-target",
+      "title": "Minimum Bishop Moves to Reach Target",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "101151-minimum-bishop-moves-to-reach-target",
+      "updatedAt": 1788015488290
     }
   }
 }
