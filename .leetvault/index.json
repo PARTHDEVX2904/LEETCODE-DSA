@@ -2591,6 +2591,18 @@
       ],
       "folder": "4038-count-integers-appearing-in-a-single-block",
       "updatedAt": 1788074666985
+    },
+    "4039-sum-of-decoded-numbers": {
+      "frontendId": "4039",
+      "slug": "sum-of-decoded-numbers",
+      "title": "Sum of Decoded Numbers",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4039-sum-of-decoded-numbers",
+      "updatedAt": 1788085712616
     }
   }
 }
