@@ -2567,6 +2567,18 @@
       ],
       "folder": "3842-toggle-light-bulbs",
       "updatedAt": 1788035305350
+    },
+    "2091-removing-minimum-and-maximum-from-array": {
+      "frontendId": "2091",
+      "slug": "removing-minimum-and-maximum-from-array",
+      "title": "Removing Minimum and Maximum From Array",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2091-removing-minimum-and-maximum-from-array",
+      "updatedAt": 1788067939846
     }
   }
 }
