@@ -2579,6 +2579,18 @@
       ],
       "folder": "2091-removing-minimum-and-maximum-from-array",
       "updatedAt": 1788067939846
+    },
+    "4038-count-integers-appearing-in-a-single-block": {
+      "frontendId": "4038",
+      "slug": "count-integers-appearing-in-a-single-block",
+      "title": "Count Integers Appearing in a Single Block",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4038-count-integers-appearing-in-a-single-block",
+      "updatedAt": 1788074666985
     }
   }
 }
