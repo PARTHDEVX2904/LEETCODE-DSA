@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**217 problems solved.**
+**218 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -147,6 +147,7 @@
 | 1046 | [Last Stone Weight](1046-last-stone-weight/) | Easy |  | C++ |
 | 1068 | [Product Sales Analysis I](1068-product-sales-analysis-i/) | Easy |  | mysql |
 | 1091 | [Shortest Path in Binary Matrix](1091-shortest-path-in-binary-matrix/) | Medium |  | C++ |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/) | Medium |  | C++ |
 | 1148 | [Article Views I](1148-article-views-i/) | Easy |  | mysql |
 | 1209 | [Remove All Adjacent Duplicates in String II](1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |  | C++ |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid/) | Easy |  | C++ |
