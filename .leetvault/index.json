@@ -2603,6 +2603,18 @@
       ],
       "folder": "4039-sum-of-decoded-numbers",
       "updatedAt": 1788085712616
+    },
+    "1143-longest-common-subsequence": {
+      "frontendId": "1143",
+      "slug": "longest-common-subsequence",
+      "title": "Longest Common Subsequence",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1143-longest-common-subsequence",
+      "updatedAt": 1788196986229
     }
   }
 }
