@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**218 problems solved.**
+**219 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -171,6 +171,7 @@
 | 1922 | [Count Good Numbers](1922-count-good-numbers/) | Medium |  | C++ |
 | 1927 | [Sum Game](1927-sum-game/) | Medium |  | C++ |
 | 1934 | [Confirmation Rate](1934-confirmation-rate/) | Medium |  | mysql |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |  | C++ |
 | 2091 | [Removing Minimum and Maximum From Array](2091-removing-minimum-and-maximum-from-array/) | Medium |  | C++ |
 | 2405 | [Optimal Partition of String](2405-optimal-partition-of-string/) | Medium |  | C++ |
 | 2486 | [Append Characters to String to Make Subsequence](2486-append-characters-to-string-to-make-subsequence/) | Medium |  | C++ |
