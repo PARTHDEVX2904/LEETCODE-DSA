@@ -2627,6 +2627,18 @@
       ],
       "folder": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
       "updatedAt": 1788202541773
+    },
+    "0088-merge-sorted-array": {
+      "frontendId": "88",
+      "slug": "merge-sorted-array",
+      "title": "Merge Sorted Array",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "Python"
+      ],
+      "folder": "0088-merge-sorted-array",
+      "updatedAt": 1788222179600
     }
   }
 }
