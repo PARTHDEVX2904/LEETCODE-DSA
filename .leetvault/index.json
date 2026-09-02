@@ -2639,6 +2639,18 @@
       ],
       "folder": "0088-merge-sorted-array",
       "updatedAt": 1788222179600
+    },
+    "3875-construct-uniform-parity-array-i": {
+      "frontendId": "3875",
+      "slug": "construct-uniform-parity-array-i",
+      "title": "Construct Uniform Parity Array I",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3875-construct-uniform-parity-array-i",
+      "updatedAt": 1788321484868
     }
   }
 }
