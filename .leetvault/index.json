@@ -2663,6 +2663,18 @@
       ],
       "folder": "1037-valid-boomerang",
       "updatedAt": 1788350742751
+    },
+    "3324-find-the-sequence-of-strings-appeared-on-the-screen": {
+      "frontendId": "3324",
+      "slug": "find-the-sequence-of-strings-appeared-on-the-screen",
+      "title": "Find the Sequence of Strings Appeared on the Screen",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3324-find-the-sequence-of-strings-appeared-on-the-screen",
+      "updatedAt": 1788353405639
     }
   }
 }
