@@ -2651,6 +2651,18 @@
       ],
       "folder": "3875-construct-uniform-parity-array-i",
       "updatedAt": 1788321484868
+    },
+    "1037-valid-boomerang": {
+      "frontendId": "1037",
+      "slug": "valid-boomerang",
+      "title": "Valid Boomerang",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "Python3"
+      ],
+      "folder": "1037-valid-boomerang",
+      "updatedAt": 1788350742751
     }
   }
 }
