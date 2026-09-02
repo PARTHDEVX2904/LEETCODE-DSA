@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**222 problems solved.**
+**223 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -194,6 +194,7 @@
 | 3090 | [Maximum Length Substring With Two Occurrences](3090-maximum-length-substring-with-two-occurrences/) | Easy |  | C++ |
 | 3116 | [Kth Smallest Amount With Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |  | C++ |
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project/) | Medium |  | C++ |
+| 3324 | [Find the Sequence of Strings Appeared on the Screen](3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |  | C++ |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i/) | Easy |  | C++ |
 | 3471 | [Find the Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer/) | Easy |  | C++ |
 | 3513 | [Number of Unique XOR Triplets I](3513-number-of-unique-xor-triplets-i/) | Medium |  | C++ |
