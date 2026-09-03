@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**224 problems solved.**
+**225 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -210,6 +210,7 @@
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/) | Medium |  | Python3 |
 | 3842 | [Toggle Light Bulbs](3842-toggle-light-bulbs/) | Easy |  | C++ |
 | 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i/) | Easy |  | C++ |
+| 3876 | [Construct Uniform Parity Array II](3876-construct-uniform-parity-array-ii/) | Medium |  | C++ |
 | 3994 | [Minimum Adjacent Swaps to Partition Array](3994-minimum-adjacent-swaps-to-partition-array/) | Medium |  | C++ |
 | 3996 | [Even Number of Knight Moves](3996-even-number-of-knight-moves/) | Easy |  | C++ |
 | 4006 | [Count Valid Prefixes](4006-count-valid-prefixes/) | Easy |  | C++ |
