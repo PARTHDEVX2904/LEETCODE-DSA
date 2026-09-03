@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**225 problems solved.**
+**226 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -137,6 +137,7 @@
 | 743 | [Network Delay Time](0743-network-delay-time/) | Medium |  | C++ |
 | 746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/) | Easy |  | C++ |
 | 785 | [Is Graph Bipartite?](0785-is-graph-bipartite/) | Medium |  | C++ |
+| 787 | [Cheapest Flights Within K Stops](0787-cheapest-flights-within-k-stops/) | Medium |  | C++ |
 | 802 | [Find Eventual Safe States](0802-find-eventual-safe-states/) | Medium |  | C++ |
 | 853 | [Car Fleet](0853-car-fleet/) | Medium |  | C++ |
 | 881 | [Boats to Save People](0881-boats-to-save-people/) | Medium |  | C++ |
