@@ -2699,6 +2699,18 @@
       ],
       "folder": "3876-construct-uniform-parity-array-ii",
       "updatedAt": 1788416290315
+    },
+    "0787-cheapest-flights-within-k-stops": {
+      "frontendId": "787",
+      "slug": "cheapest-flights-within-k-stops",
+      "title": "Cheapest Flights Within K Stops",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0787-cheapest-flights-within-k-stops",
+      "updatedAt": 1788423902625
     }
   }
 }
