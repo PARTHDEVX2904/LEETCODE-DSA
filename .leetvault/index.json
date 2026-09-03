@@ -2711,6 +2711,18 @@
       ],
       "folder": "0787-cheapest-flights-within-k-stops",
       "updatedAt": 1788423902625
+    },
+    "1976-number-of-ways-to-arrive-at-destination": {
+      "frontendId": "1976",
+      "slug": "number-of-ways-to-arrive-at-destination",
+      "title": "Number of Ways to Arrive at Destination",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1976-number-of-ways-to-arrive-at-destination",
+      "updatedAt": 1788436432470
     }
   }
 }
