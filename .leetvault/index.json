@@ -2687,6 +2687,18 @@
       ],
       "folder": "0137-single-number-ii",
       "updatedAt": 1788355577879
+    },
+    "3876-construct-uniform-parity-array-ii": {
+      "frontendId": "3876",
+      "slug": "construct-uniform-parity-array-ii",
+      "title": "Construct Uniform Parity Array II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3876-construct-uniform-parity-array-ii",
+      "updatedAt": 1788416290315
     }
   }
 }
