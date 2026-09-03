@@ -2723,6 +2723,18 @@
       ],
       "folder": "1976-number-of-ways-to-arrive-at-destination",
       "updatedAt": 1788436432470
+    },
+    "0079-word-search": {
+      "frontendId": "79",
+      "slug": "word-search",
+      "title": "Word Search",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0079-word-search",
+      "updatedAt": 1788464952268
     }
   }
 }
