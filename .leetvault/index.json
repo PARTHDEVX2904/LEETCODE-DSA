@@ -2735,6 +2735,18 @@
       ],
       "folder": "0079-word-search",
       "updatedAt": 1788464952268
+    },
+    "3903-smallest-stable-index-i": {
+      "frontendId": "3903",
+      "slug": "smallest-stable-index-i",
+      "title": "Smallest Stable Index I",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3903-smallest-stable-index-i",
+      "updatedAt": 1788492275746
     }
   }
 }
