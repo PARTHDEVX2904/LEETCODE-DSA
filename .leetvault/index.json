@@ -2795,6 +2795,18 @@
       ],
       "folder": "0328-odd-even-linked-list",
       "updatedAt": 1788590359622
+    },
+    "0029-divide-two-integers": {
+      "frontendId": "29",
+      "slug": "divide-two-integers",
+      "title": "Divide Two Integers",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0029-divide-two-integers",
+      "updatedAt": 1788591135292
     }
   }
 }
