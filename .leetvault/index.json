@@ -2783,6 +2783,18 @@
       ],
       "folder": "0141-linked-list-cycle",
       "updatedAt": 1788583309149
+    },
+    "0328-odd-even-linked-list": {
+      "frontendId": "328",
+      "slug": "odd-even-linked-list",
+      "title": "Odd Even Linked List",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0328-odd-even-linked-list",
+      "updatedAt": 1788590359622
     }
   }
 }
