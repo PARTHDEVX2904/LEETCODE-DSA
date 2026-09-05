@@ -2759,6 +2759,18 @@
       ],
       "folder": "0142-linked-list-cycle-ii",
       "updatedAt": 1788549671111
+    },
+    "3904-smallest-stable-index-ii": {
+      "frontendId": "3904",
+      "slug": "smallest-stable-index-ii",
+      "title": "Smallest Stable Index II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3904-smallest-stable-index-ii",
+      "updatedAt": 1788582853340
     }
   }
 }
