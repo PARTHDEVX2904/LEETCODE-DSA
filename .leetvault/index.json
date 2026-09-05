@@ -2807,6 +2807,18 @@
       ],
       "folder": "0029-divide-two-integers",
       "updatedAt": 1788591216825
+    },
+    "0525-contiguous-array": {
+      "frontendId": "525",
+      "slug": "contiguous-array",
+      "title": "Contiguous Array",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0525-contiguous-array",
+      "updatedAt": 1788621146032
     }
   }
 }
