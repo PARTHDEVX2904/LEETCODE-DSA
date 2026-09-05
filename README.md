@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**234 problems solved.**
+**235 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -122,6 +122,7 @@
 | 473 | [Matchsticks to Square](0473-matchsticks-to-square/) | Medium |  | C++ |
 | 494 | [Target Sum](0494-target-sum/) | Medium |  | C++ |
 | 523 | [Continuous Subarray Sum](0523-continuous-subarray-sum/) | Medium |  | C++ |
+| 525 | [Contiguous Array](0525-contiguous-array/) | Medium |  | C++ |
 | 542 | [01 Matrix](0542-01-matrix/) | Medium |  | C++ |
 | 543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/) | Easy |  | C++ |
 | 547 | [Number of Provinces](0547-number-of-provinces/) | Medium |  | C++ |
