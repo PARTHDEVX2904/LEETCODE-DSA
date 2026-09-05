@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**231 problems solved.**
+**232 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -69,6 +69,7 @@
 | 133 | [Clone Graph](0133-clone-graph/) | Medium |  | C++ |
 | 134 | [Gas Station](0134-gas-station/) | Medium |  | C++ |
 | 137 | [Single Number II](0137-single-number-ii/) | Medium |  | C++ |
+| 141 | [Linked List Cycle](0141-linked-list-cycle/) | Easy |  | C++ |
 | 142 | [Linked List Cycle II](0142-linked-list-cycle-ii/) | Medium |  | C++ |
 | 143 | [Reorder List](0143-reorder-list/) | Medium |  | C++ |
 | 145 | [Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/) | Easy |  | C++ |
