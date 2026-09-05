@@ -2771,6 +2771,18 @@
       ],
       "folder": "3904-smallest-stable-index-ii",
       "updatedAt": 1788582853340
+    },
+    "0141-linked-list-cycle": {
+      "frontendId": "141",
+      "slug": "linked-list-cycle",
+      "title": "Linked List Cycle",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0141-linked-list-cycle",
+      "updatedAt": 1788583309149
     }
   }
 }
