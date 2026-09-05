@@ -30,6 +30,6 @@ public:
             n = n - (d << p);
             ans = ans + (1 << p);
         }
-        return sign * ans;
+        return (sign==1) ? ans : -ans;
     }
 };
