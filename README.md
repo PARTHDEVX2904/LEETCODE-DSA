@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**236 problems solved.**
+**237 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -242,3 +242,4 @@
 | 101127 | [Lexicographically Largest String After Pair Transformations](101127-lexicographically-largest-string-after-pair-transformations/) | Medium |  | C++ |
 | 101151 | [Minimum Bishop Moves to Reach Target](101151-minimum-bishop-moves-to-reach-target/) | Medium |  | C++ |
 | 101171 | [Count Rotations With Exactly K Equal Adjacent Pairs](101171-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy |  | C++ |
+| 101172 | [Count Good Cyclic Rotations](101172-count-good-cyclic-rotations/) | Medium |  | C++ |
