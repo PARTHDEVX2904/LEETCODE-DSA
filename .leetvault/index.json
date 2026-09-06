@@ -2819,6 +2819,18 @@
       ],
       "folder": "0525-contiguous-array",
       "updatedAt": 1788621146032
+    },
+    "101171-count-rotations-with-exactly-k-equal-adjacent-pairs": {
+      "frontendId": "101171",
+      "slug": "count-rotations-with-exactly-k-equal-adjacent-pairs",
+      "title": "Count Rotations With Exactly K Equal Adjacent Pairs",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "101171-count-rotations-with-exactly-k-equal-adjacent-pairs",
+      "updatedAt": 1788662685359
     }
   }
 }
