@@ -2831,6 +2831,18 @@
       ],
       "folder": "101171-count-rotations-with-exactly-k-equal-adjacent-pairs",
       "updatedAt": 1788662685359
+    },
+    "101172-count-good-cyclic-rotations": {
+      "frontendId": "101172",
+      "slug": "count-good-cyclic-rotations",
+      "title": "Count Good Cyclic Rotations",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "101172-count-good-cyclic-rotations",
+      "updatedAt": 1788664419339
     }
   }
 }
