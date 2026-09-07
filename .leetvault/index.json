@@ -2843,6 +2843,18 @@
       ],
       "folder": "101172-count-good-cyclic-rotations",
       "updatedAt": 1788664419339
+    },
+    "0940-distinct-subsequences-ii": {
+      "frontendId": "940",
+      "slug": "distinct-subsequences-ii",
+      "title": "Distinct Subsequences II",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0940-distinct-subsequences-ii",
+      "updatedAt": 1788776110746
     }
   }
 }
