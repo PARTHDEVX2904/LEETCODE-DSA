@@ -2855,6 +2855,18 @@
       ],
       "folder": "0940-distinct-subsequences-ii",
       "updatedAt": 1788776110746
+    },
+    "3870-count-commas-in-range": {
+      "frontendId": "3870",
+      "slug": "count-commas-in-range",
+      "title": "Count Commas in Range",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3870-count-commas-in-range",
+      "updatedAt": 1788840660027
     }
   }
 }
