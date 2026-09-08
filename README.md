@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**239 problems solved.**
+**240 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -187,6 +187,7 @@
 | 2091 | [Removing Minimum and Maximum From Array](2091-removing-minimum-and-maximum-from-array/) | Medium |  | C++ |
 | 2405 | [Optimal Partition of String](2405-optimal-partition-of-string/) | Medium |  | C++ |
 | 2486 | [Append Characters to String to Make Subsequence](2486-append-characters-to-string-to-make-subsequence/) | Medium |  | C++ |
+| 2498 | [Frog Jump II](2498-frog-jump-ii/) | Medium |  | Python3 |
 | 2618 | [Check if Object Instance of Class](2618-check-if-object-instance-of-class/) | Medium |  | JavaScript |
 | 2620 | [Counter](2620-counter/) | Easy |  | JavaScript |
 | 2657 | [Find the Prefix Common Array of Two Arrays](2657-find-the-prefix-common-array-of-two-arrays/) | Medium |  | Python3 |
