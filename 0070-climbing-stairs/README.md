@@ -12,13 +12,13 @@
 | Metric  | Value   | Beats |
 |---------|---------|-------|
 | Runtime | 0 ms | `██████████` **100.0%** |
-| Memory  | 8.6 MB | `██░░░░░░░░` **20.7%** |
+| Memory  | 8.7 MB | `██░░░░░░░░` **20.5%** |
 
 ## Complexity
 
 | | Complexity | Why |
 |---|---|---|
-| ⏱️ Time  | **O(n)** | a single pass over the input |
+| ⏱️ Time  | **O(n)** | recursive traversal, each element visited once |
 | 💾 Space | **O(n)** | stores input-dependent data in an auxiliary structure |
 
 > ⚠️ _Complexity is **estimated** by static analysis of the code (loop nesting, sorting, recursion) — verify before relying on it._
@@ -74,4 +74,4 @@ See how others approached this problem:
 </details>
 
 ---
-*Synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA) · 2026-08-03*
+*Synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA) · 2026-09-08*
