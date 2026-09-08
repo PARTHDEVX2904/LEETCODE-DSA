@@ -2867,6 +2867,18 @@
       ],
       "folder": "3870-count-commas-in-range",
       "updatedAt": 1788840660027
+    },
+    "2498-frog-jump-ii": {
+      "frontendId": "2498",
+      "slug": "frog-jump-ii",
+      "title": "Frog Jump II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "Python3"
+      ],
+      "folder": "2498-frog-jump-ii",
+      "updatedAt": 1788895241175
     }
   }
 }
