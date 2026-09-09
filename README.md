@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**240 problems solved.**
+**241 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -220,6 +220,7 @@
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/) | Medium |  | Python3 |
 | 3842 | [Toggle Light Bulbs](3842-toggle-light-bulbs/) | Easy |  | C++ |
 | 3870 | [Count Commas in Range](3870-count-commas-in-range/) | Easy |  | C++ |
+| 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium |  | C++ |
 | 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i/) | Easy |  | C++ |
 | 3876 | [Construct Uniform Parity Array II](3876-construct-uniform-parity-array-ii/) | Medium |  | C++ |
 | 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy |  | C++ |
