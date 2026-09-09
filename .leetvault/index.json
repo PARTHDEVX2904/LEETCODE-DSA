@@ -2879,6 +2879,18 @@
       ],
       "folder": "2498-frog-jump-ii",
       "updatedAt": 1788895241175
+    },
+    "3871-count-commas-in-range-ii": {
+      "frontendId": "3871",
+      "slug": "count-commas-in-range-ii",
+      "title": "Count Commas in Range II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3871-count-commas-in-range-ii",
+      "updatedAt": 1788934823297
     }
   }
 }
