@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**241 problems solved.**
+**242 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -185,6 +185,7 @@
 | 1976 | [Number of Ways to Arrive at Destination](1976-number-of-ways-to-arrive-at-destination/) | Medium |  | C++ |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |  | C++ |
 | 2091 | [Removing Minimum and Maximum From Array](2091-removing-minimum-and-maximum-from-array/) | Medium |  | C++ |
+| 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium |  | C++ |
 | 2405 | [Optimal Partition of String](2405-optimal-partition-of-string/) | Medium |  | C++ |
 | 2486 | [Append Characters to String to Make Subsequence](2486-append-characters-to-string-to-make-subsequence/) | Medium |  | C++ |
 | 2498 | [Frog Jump II](2498-frog-jump-ii/) | Medium |  | Python3 |
