@@ -2891,6 +2891,18 @@
       ],
       "folder": "3871-count-commas-in-range-ii",
       "updatedAt": 1788934823297
+    },
+    "2265-count-nodes-equal-to-average-of-subtree": {
+      "frontendId": "2265",
+      "slug": "count-nodes-equal-to-average-of-subtree",
+      "title": "Count Nodes Equal to Average of Subtree",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2265-count-nodes-equal-to-average-of-subtree",
+      "updatedAt": 1789071360632
     }
   }
 }
