@@ -12,7 +12,7 @@
 | Metric  | Value   | Beats |
 |---------|---------|-------|
 | Runtime | 0 ms | `██████████` **100.0%** |
-| Memory  | 10.7 MB | `██░░░░░░░░` **24.4%** |
+| Memory  | 10.6 MB | `█████░░░░░` **46.6%** |
 
 ## Complexity
 
@@ -75,4 +75,4 @@ See how others approached this problem:
 </details>
 
 ---
-*Synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA) · 2026-08-08*
+*Synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA) · 2026-09-10*
