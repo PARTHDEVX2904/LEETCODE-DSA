@@ -2903,6 +2903,18 @@
       ],
       "folder": "2265-count-nodes-equal-to-average-of-subtree",
       "updatedAt": 1789071360632
+    },
+    "3483-unique-3-digit-even-numbers": {
+      "frontendId": "3483",
+      "slug": "unique-3-digit-even-numbers",
+      "title": "Unique 3-Digit Even Numbers",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3483-unique-3-digit-even-numbers",
+      "updatedAt": 1789141666825
     }
   }
 }
