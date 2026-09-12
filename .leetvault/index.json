@@ -2915,6 +2915,18 @@
       ],
       "folder": "3483-unique-3-digit-even-numbers",
       "updatedAt": 1789141666825
+    },
+    "3414-maximum-score-of-non-overlapping-intervals": {
+      "frontendId": "3414",
+      "slug": "maximum-score-of-non-overlapping-intervals",
+      "title": "Maximum Score of Non-overlapping Intervals",
+      "difficulty": "Hard",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3414-maximum-score-of-non-overlapping-intervals",
+      "updatedAt": 1789213398897
     }
   }
 }
