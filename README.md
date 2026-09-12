@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**243 problems solved.**
+**244 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -208,6 +208,7 @@
 | 3310 | [Remove Methods From Project](3310-remove-methods-from-project/) | Medium |  | C++ |
 | 3324 | [Find the Sequence of Strings Appeared on the Screen](3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |  | C++ |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i/) | Easy |  | C++ |
+| 3414 | [Maximum Score of Non-overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals/) | Hard |  | C++ |
 | 3471 | [Find the Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer/) | Easy |  | C++ |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy |  | C++ |
 | 3513 | [Number of Unique XOR Triplets I](3513-number-of-unique-xor-triplets-i/) | Medium |  | C++ |
