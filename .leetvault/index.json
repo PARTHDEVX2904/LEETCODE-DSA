@@ -2927,6 +2927,18 @@
       ],
       "folder": "3414-maximum-score-of-non-overlapping-intervals",
       "updatedAt": 1789213398897
+    },
+    "3550-smallest-index-with-digit-sum-equal-to-index": {
+      "frontendId": "3550",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "updatedAt": 1790238443251
     }
   }
 }
