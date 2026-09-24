@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**244 problems solved.**
+**245 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -214,6 +214,7 @@
 | 3513 | [Number of Unique XOR Triplets I](3513-number-of-unique-xor-triplets-i/) | Medium |  | C++ |
 | 3517 | [Smallest Palindromic Rearrangement I](3517-smallest-palindromic-rearrangement-i/) | Medium |  | C++ |
 | 3536 | [Maximum Product of Two Digits](3536-maximum-product-of-two-digits/) | Easy |  | C++ |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |  | C++ |
 | 3622 | [Check Divisibility by Digit Sum and Product](3622-check-divisibility-by-digit-sum-and-product/) | Easy |  | C++ |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |  | C++ |
 | 3718 | [Smallest Missing Multiple of K](3718-smallest-missing-multiple-of-k/) | Easy |  | C++ |
