@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**245 problems solved.**
+**246 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -10,6 +10,7 @@
 | 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard |  | C++ |
 | 5 | [Longest Palindromic Substring](0005-longest-palindromic-substring/) | Medium |  | C++ |
 | 6 | [Zigzag Conversion](0006-zigzag-conversion/) | Medium |  | C++ |
+| 7 | [Reverse Integer](0007-reverse-integer/) | Medium |  | C++ |
 | 8 | [String to Integer (atoi)](0008-string-to-integer-atoi/) | Medium |  | C++ |
 | 11 | [Container With Most Water](0011-container-with-most-water/) | Medium |  | C++ |
 | 12 | [Integer to Roman](0012-integer-to-roman/) | Medium |  | C++ |
