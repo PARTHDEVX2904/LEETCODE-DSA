@@ -2939,6 +2939,18 @@
       ],
       "folder": "3550-smallest-index-with-digit-sum-equal-to-index",
       "updatedAt": 1790238443251
+    },
+    "0007-reverse-integer": {
+      "frontendId": "7",
+      "slug": "reverse-integer",
+      "title": "Reverse Integer",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0007-reverse-integer",
+      "updatedAt": 1790357225243
     }
   }
 }
