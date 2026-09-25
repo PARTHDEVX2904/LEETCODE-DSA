@@ -1,32 +1,77 @@
-<h2><a href="https://leetcode.com/problems/reverse-integer">7. Reverse Integer</a></h2><h3>Medium</h3><hr><p>Given a signed 32-bit integer <code>x</code>, return <code>x</code><em> with its digits reversed</em>. If reversing <code>x</code> causes the value to go outside the signed 32-bit integer range <code>[-2<sup>31</sup>, 2<sup>31</sup> - 1]</code>, then return <code>0</code>.</p>
+# 7. Reverse Integer
 
-<p><strong>Assume the environment does not allow you to store 64-bit integers (signed or unsigned).</strong></p>
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Time](https://img.shields.io/badge/Time-O%28n%29-blue)
+![Space](https://img.shields.io/badge/Space-O%281%29-blueviolet)
+![Language](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+[Problem on LeetCode](https://leetcode.com/problems/reverse-integer/)
 
-<pre>
-<strong>Input:</strong> x = 123
-<strong>Output:</strong> 321
-</pre>
+## Performance
 
-<p><strong class="example">Example 2:</strong></p>
+| Metric  | Value   | Beats |
+|---------|---------|-------|
+| Runtime | 0 ms | `██████████` **100.0%** |
+| Memory  | 8.6 MB | `██░░░░░░░░` **20.3%** |
 
-<pre>
-<strong>Input:</strong> x = -123
-<strong>Output:</strong> -321
-</pre>
+## Complexity
 
-<p><strong class="example">Example 3:</strong></p>
+| | Complexity | Why |
+|---|---|---|
+| ⏱️ Time  | **O(n)** | a single pass over the input |
+| 💾 Space | **O(1)** | only a constant number of variables |
 
-<pre>
-<strong>Input:</strong> x = 120
-<strong>Output:</strong> 21
-</pre>
+> ⚠️ _Complexity is **estimated** by static analysis of the code (loop nesting, sorting, recursion) — verify before relying on it._
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+<details open>
+<summary>📈 How this scales</summary>
 
-<ul>
-	<li><code>-2<sup>31</sup> &lt;= x &lt;= 2<sup>31</sup> - 1</code></li>
-</ul>
+**⏱️ Time — `O(n)`**
+
+```mermaid
+xychart-beta
+    title "Time growth — O(n)"
+    x-axis "Input size (n)" [10, 100, 500, 1000]
+    y-axis "Operations"
+    line [10, 100, 500, 1000]
+```
+
+| n | 10 | 100 | 500 | 1000 |
+|---|---|---|---|---|
+| **operations** | 10 | 100 | 500 | 1,000 |
+
+**💾 Space — `O(1)`**
+
+```mermaid
+xychart-beta
+    title "Space growth — O(1)"
+    x-axis "Input size (n)" [10, 100, 500, 1000]
+    y-axis "Auxiliary space"
+    line [1, 1, 1, 1]
+```
+
+| n | 10 | 100 | 500 | 1000 |
+|---|---|---|---|---|
+| **space units** | 1 | 1 | 1 | 1 |
+
+</details>
+
+## Constraints
+
+- `-2^31 <= x <= 2^31 - 1`
+
+## Approach
+
+_pending_
+
+<details>
+<summary>💡 Top community solutions</summary>
+
+See how others approached this problem:
+
+[Browse the highest-voted solutions on LeetCode ↗](https://leetcode.com/problems/reverse-integer/solutions/?orderBy=most_votes)
+
+</details>
+
+---
+*Synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA) · 2026-09-25*
