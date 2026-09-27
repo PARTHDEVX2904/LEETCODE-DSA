@@ -2951,6 +2951,18 @@
       ],
       "folder": "0007-reverse-integer",
       "updatedAt": 1790357225243
+    },
+    "4065-rearrange-array-by-removing-distinct-values": {
+      "frontendId": "4065",
+      "slug": "rearrange-array-by-removing-distinct-values",
+      "title": "Rearrange Array by Removing Distinct Values",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4065-rearrange-array-by-removing-distinct-values",
+      "updatedAt": 1790531266734
     }
   }
 }
