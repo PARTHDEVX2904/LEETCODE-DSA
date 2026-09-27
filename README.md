@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**246 problems solved.**
+**247 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -246,6 +246,7 @@
 | 4036 | [Lexicographically Largest String After Pair Transformations](4036-lexicographically-largest-string-after-pair-transformations/) | Medium |  | C++ |
 | 4038 | [Count Integers Appearing in a Single Block](4038-count-integers-appearing-in-a-single-block/) | Easy |  | C++ |
 | 4039 | [Sum of Decoded Numbers](4039-sum-of-decoded-numbers/) | Medium |  | C++ |
+| 4065 | [Rearrange Array by Removing Distinct Values](4065-rearrange-array-by-removing-distinct-values/) | Easy |  | C++ |
 | 101099 | [Aggregate Two Time Series](101099-aggregate-two-time-series/) | Medium |  | C++ |
 | 101114 | [Largest Integer With Given Digit Sum](101114-largest-integer-with-given-digit-sum/) | Easy |  | C++ |
 | 101127 | [Lexicographically Largest String After Pair Transformations](101127-lexicographically-largest-string-after-pair-transformations/) | Medium |  | C++ |
