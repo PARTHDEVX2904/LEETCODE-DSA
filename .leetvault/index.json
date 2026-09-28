@@ -2963,6 +2963,18 @@
       ],
       "folder": "4065-rearrange-array-by-removing-distinct-values",
       "updatedAt": 1790531266734
+    },
+    "1614-maximum-nesting-depth-of-the-parentheses": {
+      "frontendId": "1614",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1614-maximum-nesting-depth-of-the-parentheses",
+      "updatedAt": 1790611468191
     }
   }
 }
