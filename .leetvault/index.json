@@ -2975,6 +2975,18 @@
       ],
       "folder": "1614-maximum-nesting-depth-of-the-parentheses",
       "updatedAt": 1790611468191
+    },
+    "4061-minimum-queen-moves-to-reach-target": {
+      "frontendId": "4061",
+      "slug": "minimum-queen-moves-to-reach-target",
+      "title": "Minimum Queen Moves to Reach Target",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "Java"
+      ],
+      "folder": "4061-minimum-queen-moves-to-reach-target",
+      "updatedAt": 1790671868060
     }
   }
 }
