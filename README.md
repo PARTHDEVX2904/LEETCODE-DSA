@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**249 problems solved.**
+**250 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -161,6 +161,7 @@
 | 1091 | [Shortest Path in Binary Matrix](1091-shortest-path-in-binary-matrix/) | Medium |  | C++ |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/) | Medium |  | C++ |
 | 1148 | [Article Views I](1148-article-views-i/) | Easy |  | mysql |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |  | C++ |
 | 1209 | [Remove All Adjacent Duplicates in String II](1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |  | C++ |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid/) | Easy |  | C++ |
 | 1280 | [Students and Examinations](1280-students-and-examinations/) | Easy |  | mysql |
