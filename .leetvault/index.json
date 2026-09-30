@@ -2987,6 +2987,18 @@
       ],
       "folder": "4061-minimum-queen-moves-to-reach-target",
       "updatedAt": 1790671868060
+    },
+    "1190-reverse-substrings-between-each-pair-of-parentheses": {
+      "frontendId": "1190",
+      "slug": "reverse-substrings-between-each-pair-of-parentheses",
+      "title": "Reverse Substrings Between Each Pair of Parentheses",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1190-reverse-substrings-between-each-pair-of-parentheses",
+      "updatedAt": 1790775222516
     }
   }
 }
