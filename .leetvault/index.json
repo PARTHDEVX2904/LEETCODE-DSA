@@ -2983,10 +2983,11 @@
       "difficulty": "Easy",
       "topics": [],
       "langs": [
-        "Java"
+        "Java",
+        "C++"
       ],
       "folder": "4061-minimum-queen-moves-to-reach-target",
-      "updatedAt": 1790671868060
+      "updatedAt": 1790839929315
     },
     "1190-reverse-substrings-between-each-pair-of-parentheses": {
       "frontendId": "1190",
