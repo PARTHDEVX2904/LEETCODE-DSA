@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**250 problems solved.**
+**251 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -18,6 +18,7 @@
 | 16 | [3Sum Closest](0016-3sum-closest/) | Medium |  | C++ |
 | 18 | [4Sum](0018-4sum/) | Medium |  | C++ |
 | 19 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/) | Medium |  | C++ |
+| 20 | [Valid Parentheses](0020-valid-parentheses/) | Easy |  | C++ |
 | 22 | [Generate Parentheses](0022-generate-parentheses/) | Medium |  | C++ |
 | 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists/) | Hard |  | C++ |
 | 29 | [Divide Two Integers](0029-divide-two-integers/) | Medium |  | C++ |
