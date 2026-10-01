@@ -2999,6 +2999,18 @@
       ],
       "folder": "1190-reverse-substrings-between-each-pair-of-parentheses",
       "updatedAt": 1790775222516
+    },
+    "0020-valid-parentheses": {
+      "frontendId": "20",
+      "slug": "valid-parentheses",
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0020-valid-parentheses",
+      "updatedAt": 1790836335224
     }
   }
 }
