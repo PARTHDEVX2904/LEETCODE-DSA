@@ -3012,6 +3012,18 @@
       ],
       "folder": "0020-valid-parentheses",
       "updatedAt": 1790836335224
+    },
+    "4062-transform-array-using-pair-operations": {
+      "frontendId": "4062",
+      "slug": "transform-array-using-pair-operations",
+      "title": "Transform Array Using Pair Operations",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4062-transform-array-using-pair-operations",
+      "updatedAt": 1790848500949
     }
   }
 }
