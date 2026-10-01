@@ -2,8 +2,8 @@
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
 ![Time](https://img.shields.io/badge/Time-O%281%29-blue)
-![Space](https://img.shields.io/badge/Space-O%281%29-blueviolet)
-![Language](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Space](https://img.shields.io/badge/Space-O%28n%29-blueviolet)
+![Language](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 
 [Problem on LeetCode](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/)
 
@@ -11,15 +11,15 @@
 
 | Metric  | Value   | Beats |
 |---------|---------|-------|
-| Runtime | 96 ms | `░░░░░░░░░░` **0.6%** |
-| Memory  | 44.2 MB | `███░░░░░░░` **25.6%** |
+| Runtime | 0 ms | `██████████` **100.0%** |
+| Memory  | 50.3 MB | `█████░░░░░` **52.2%** |
 
 ## Complexity
 
 | | Complexity | Why |
 |---|---|---|
 | ⏱️ Time  | **O(1)** | no input-dependent iteration |
-| 💾 Space | **O(1)** | only a constant number of variables |
+| 💾 Space | **O(n)** | stores input-dependent data in an auxiliary structure |
 
 > ⚠️ _Complexity is **estimated** by static analysis of the code (loop nesting, sorting, recursion) — verify before relying on it._
 
@@ -40,19 +40,19 @@ xychart-beta
 |---|---|---|---|---|
 | **operations** | 1 | 1 | 1 | 1 |
 
-**💾 Space — `O(1)`**
+**💾 Space — `O(n)`**
 
 ```mermaid
 xychart-beta
-    title "Space growth — O(1)"
+    title "Space growth — O(n)"
     x-axis "Input size (n)" [10, 100, 500, 1000]
     y-axis "Auxiliary space"
-    line [1, 1, 1, 1]
+    line [10, 100, 500, 1000]
 ```
 
 | n | 10 | 100 | 500 | 1000 |
 |---|---|---|---|---|
-| **space units** | 1 | 1 | 1 | 1 |
+| **space units** | 10 | 100 | 500 | 1,000 |
 
 </details>
 
@@ -76,4 +76,4 @@ See how others approached this problem:
 </details>
 
 ---
-*Synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA) · 2026-09-29*
+*Synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA) · 2026-10-01*
