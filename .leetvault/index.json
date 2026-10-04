@@ -3036,6 +3036,18 @@
       ],
       "folder": "4070-minimum-rotations-to-dial-a-number-i",
       "updatedAt": 1791111340766
+    },
+    "0678-valid-parenthesis-string": {
+      "frontendId": "678",
+      "slug": "valid-parenthesis-string",
+      "title": "Valid Parenthesis String",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0678-valid-parenthesis-string",
+      "updatedAt": 1791120479263
     }
   }
 }
