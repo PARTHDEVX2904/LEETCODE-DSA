@@ -3024,6 +3024,18 @@
       ],
       "folder": "4062-transform-array-using-pair-operations",
       "updatedAt": 1790848500949
+    },
+    "4070-minimum-rotations-to-dial-a-number-i": {
+      "frontendId": "4070",
+      "slug": "minimum-rotations-to-dial-a-number-i",
+      "title": "Minimum Rotations to Dial a Number I",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4070-minimum-rotations-to-dial-a-number-i",
+      "updatedAt": 1791111340766
     }
   }
 }
