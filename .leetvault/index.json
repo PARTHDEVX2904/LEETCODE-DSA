@@ -3048,6 +3048,18 @@
       ],
       "folder": "0678-valid-parenthesis-string",
       "updatedAt": 1791120479263
+    },
+    "0856-score-of-parentheses": {
+      "frontendId": "856",
+      "slug": "score-of-parentheses",
+      "title": "Score of Parentheses",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0856-score-of-parentheses",
+      "updatedAt": 1791223936980
     }
   }
 }
