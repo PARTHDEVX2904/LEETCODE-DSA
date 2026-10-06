@@ -3060,6 +3060,18 @@
       ],
       "folder": "0856-score-of-parentheses",
       "updatedAt": 1791223936980
+    },
+    "0921-minimum-add-to-make-parentheses-valid": {
+      "frontendId": "921",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0921-minimum-add-to-make-parentheses-valid",
+      "updatedAt": 1791246591421
     }
   }
 }
