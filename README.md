@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**255 problems solved.**
+**256 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -152,6 +152,7 @@
 | 856 | [Score of Parentheses](0856-score-of-parentheses/) | Medium |  | C++ |
 | 881 | [Boats to Save People](0881-boats-to-save-people/) | Medium |  | C++ |
 | 913 | [Cat and Mouse](0913-cat-and-mouse/) | Hard |  | C++ |
+| 921 | [Minimum Add to Make Parentheses Valid](0921-minimum-add-to-make-parentheses-valid/) | Medium |  | C++ |
 | 938 | [Range Sum of BST](0938-range-sum-of-bst/) | Easy |  | C++ |
 | 940 | [Distinct Subsequences II](0940-distinct-subsequences-ii/) | Hard |  | C++ |
 | 973 | [K Closest Points to Origin](0973-k-closest-points-to-origin/) | Medium |  | C++ |
