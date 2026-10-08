@@ -3072,6 +3072,18 @@
       ],
       "folder": "0921-minimum-add-to-make-parentheses-valid",
       "updatedAt": 1791246591421
+    },
+    "1021-remove-outermost-parentheses": {
+      "frontendId": "1021",
+      "slug": "remove-outermost-parentheses",
+      "title": "Remove Outermost Parentheses",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1021-remove-outermost-parentheses",
+      "updatedAt": 1791492945897
     }
   }
 }
