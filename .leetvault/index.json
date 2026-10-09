@@ -3084,6 +3084,18 @@
       ],
       "folder": "1021-remove-outermost-parentheses",
       "updatedAt": 1791492945897
+    },
+    "1541-minimum-insertions-to-balance-a-parentheses-string": {
+      "frontendId": "1541",
+      "slug": "minimum-insertions-to-balance-a-parentheses-string",
+      "title": "Minimum Insertions to Balance a Parentheses String",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "1541-minimum-insertions-to-balance-a-parentheses-string",
+      "updatedAt": 1791530614198
     }
   }
 }
