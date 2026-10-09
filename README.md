@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**257 problems solved.**
+**258 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -179,6 +179,7 @@
 | 1464 | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array/) | Easy |  | C++ |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |  | Python3 |
 | 1492 | [The kth Factor of n](1492-the-kth-factor-of-n/) | Medium |  | C++ |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |  | C++ |
 | 1561 | [Maximum Number of Coins You Can Get](1561-maximum-number-of-coins-you-can-get/) | Medium |  | C++ |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |  | mysql |
 | 1614 | [Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/) | Easy |  | C++ |
