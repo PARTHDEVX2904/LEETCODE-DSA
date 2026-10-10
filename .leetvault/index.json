@@ -3096,6 +3096,18 @@
       ],
       "folder": "1541-minimum-insertions-to-balance-a-parentheses-string",
       "updatedAt": 1791530614198
+    },
+    "2333-minimum-sum-of-squared-difference": {
+      "frontendId": "2333",
+      "slug": "minimum-sum-of-squared-difference",
+      "title": "Minimum Sum of Squared Difference",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2333-minimum-sum-of-squared-difference",
+      "updatedAt": 1791660663368
     }
   }
 }
