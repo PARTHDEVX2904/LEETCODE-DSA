@@ -3120,6 +3120,18 @@
       ],
       "folder": "2778-sum-of-squares-of-special-elements",
       "updatedAt": 1791702855222
+    },
+    "101210-three-fibonacci-sum": {
+      "frontendId": "101210",
+      "slug": "three-fibonacci-sum",
+      "title": "Three Fibonacci Sum",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "101210-three-fibonacci-sum",
+      "updatedAt": 1791714297127
     }
   }
 }
