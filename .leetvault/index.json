@@ -3108,6 +3108,18 @@
       ],
       "folder": "2333-minimum-sum-of-squared-difference",
       "updatedAt": 1791660663368
+    },
+    "2778-sum-of-squares-of-special-elements": {
+      "frontendId": "2778",
+      "slug": "sum-of-squares-of-special-elements",
+      "title": "Sum of Squares of Special Elements ",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2778-sum-of-squares-of-special-elements",
+      "updatedAt": 1791702855222
     }
   }
 }
