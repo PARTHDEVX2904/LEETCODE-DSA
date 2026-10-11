@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**260 problems solved.**
+**261 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -266,3 +266,4 @@
 | 101151 | [Minimum Bishop Moves to Reach Target](101151-minimum-bishop-moves-to-reach-target/) | Medium |  | C++ |
 | 101171 | [Count Rotations With Exactly K Equal Adjacent Pairs](101171-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy |  | C++ |
 | 101172 | [Count Good Cyclic Rotations](101172-count-good-cyclic-rotations/) | Medium |  | C++ |
+| 101210 | [Three Fibonacci Sum](101210-three-fibonacci-sum/) | Easy |  | C++ |
