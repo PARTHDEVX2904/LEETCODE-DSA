@@ -3132,6 +3132,18 @@
       ],
       "folder": "101210-three-fibonacci-sum",
       "updatedAt": 1791714297127
+    },
+    "2913-subarrays-distinct-element-sum-of-squares-i": {
+      "frontendId": "2913",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "updatedAt": 1792092764218
     }
   }
 }
