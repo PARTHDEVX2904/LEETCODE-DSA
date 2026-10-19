@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**262 problems solved.**
+**263 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -193,6 +193,7 @@
 | 1934 | [Confirmation Rate](1934-confirmation-rate/) | Medium |  | mysql |
 | 1976 | [Number of Ways to Arrive at Destination](1976-number-of-ways-to-arrive-at-destination/) | Medium |  | C++ |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |  | C++ |
+| 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy |  | C++ |
 | 2091 | [Removing Minimum and Maximum From Array](2091-removing-minimum-and-maximum-from-array/) | Medium |  | C++ |
 | 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium |  | C++ |
 | 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium |  | C++ |
