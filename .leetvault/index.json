@@ -3144,6 +3144,18 @@
       ],
       "folder": "2913-subarrays-distinct-element-sum-of-squares-i",
       "updatedAt": 1792092764218
+    },
+    "2089-find-target-indices-after-sorting-array": {
+      "frontendId": "2089",
+      "slug": "find-target-indices-after-sorting-array",
+      "title": "Find Target Indices After Sorting Array",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2089-find-target-indices-after-sorting-array",
+      "updatedAt": 1792404672139
     }
   }
 }
