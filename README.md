@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**263 problems solved.**
+**264 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -198,6 +198,7 @@
 | 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium |  | C++ |
 | 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium |  | C++ |
 | 2405 | [Optimal Partition of String](2405-optimal-partition-of-string/) | Medium |  | C++ |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/) | Easy |  | C++ |
 | 2486 | [Append Characters to String to Make Subsequence](2486-append-characters-to-string-to-make-subsequence/) | Medium |  | C++ |
 | 2498 | [Frog Jump II](2498-frog-jump-ii/) | Medium |  | Python3 |
 | 2618 | [Check if Object Instance of Class](2618-check-if-object-instance-of-class/) | Medium |  | JavaScript |
