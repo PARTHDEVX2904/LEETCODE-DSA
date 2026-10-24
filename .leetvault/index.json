@@ -3156,6 +3156,18 @@
       ],
       "folder": "2089-find-target-indices-after-sorting-array",
       "updatedAt": 1792404672139
+    },
+    "2409-count-days-spent-together": {
+      "frontendId": "2409",
+      "slug": "count-days-spent-together",
+      "title": "Count Days Spent Together",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2409-count-days-spent-together",
+      "updatedAt": 1792820522822
     }
   }
 }
