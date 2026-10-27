@@ -3168,6 +3168,18 @@
       ],
       "folder": "2409-count-days-spent-together",
       "updatedAt": 1792820522822
+    },
+    "3963-create-grid-with-exactly-one-path": {
+      "frontendId": "3963",
+      "slug": "create-grid-with-exactly-one-path",
+      "title": "Create Grid With Exactly One Path",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3963-create-grid-with-exactly-one-path",
+      "updatedAt": 1793133543155
     }
   }
 }
