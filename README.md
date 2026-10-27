@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**264 problems solved.**
+**265 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -243,6 +243,7 @@
 | 3876 | [Construct Uniform Parity Array II](3876-construct-uniform-parity-array-ii/) | Medium |  | C++ |
 | 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy |  | C++ |
 | 3904 | [Smallest Stable Index II](3904-smallest-stable-index-ii/) | Medium |  | C++ |
+| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/) | Easy |  | C++ |
 | 3994 | [Minimum Adjacent Swaps to Partition Array](3994-minimum-adjacent-swaps-to-partition-array/) | Medium |  | C++ |
 | 3996 | [Even Number of Knight Moves](3996-even-number-of-knight-moves/) | Easy |  | C++ |
 | 4006 | [Count Valid Prefixes](4006-count-valid-prefixes/) | Easy |  | C++ |
