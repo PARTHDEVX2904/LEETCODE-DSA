@@ -3192,6 +3192,18 @@
       ],
       "folder": "0462-minimum-moves-to-equal-array-elements-ii",
       "updatedAt": 1793688386613
+    },
+    "3736-minimum-moves-to-equal-array-elements-iii": {
+      "frontendId": "3736",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "3736-minimum-moves-to-equal-array-elements-iii",
+      "updatedAt": 1793698555054
     }
   }
 }
