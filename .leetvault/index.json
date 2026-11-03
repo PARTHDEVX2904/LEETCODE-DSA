@@ -3180,6 +3180,18 @@
       ],
       "folder": "3963-create-grid-with-exactly-one-path",
       "updatedAt": 1793133543155
+    },
+    "0462-minimum-moves-to-equal-array-elements-ii": {
+      "frontendId": "462",
+      "slug": "minimum-moves-to-equal-array-elements-ii",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0462-minimum-moves-to-equal-array-elements-ii",
+      "updatedAt": 1793688386613
     }
   }
 }
