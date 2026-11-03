@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**266 problems solved.**
+**267 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -236,6 +236,7 @@
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |  | C++ |
 | 3731 | [Find Missing Elements](3731-find-missing-elements/) | Easy |  | C++ |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |  | C++ |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/) | Easy |  | C++ |
 | 3760 | [Maximum Substrings With Distinct Start](3760-maximum-substrings-with-distinct-start/) | Medium |  | Python3 |
 | 3842 | [Toggle Light Bulbs](3842-toggle-light-bulbs/) | Easy |  | C++ |
 | 3870 | [Count Commas in Range](3870-count-commas-in-range/) | Easy |  | C++ |
