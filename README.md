@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**267 problems solved.**
+**268 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -196,6 +196,7 @@
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |  | C++ |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy |  | C++ |
 | 2091 | [Removing Minimum and Maximum From Array](2091-removing-minimum-and-maximum-from-array/) | Medium |  | C++ |
+| 2243 | [Calculate Digit Sum of a String](2243-calculate-digit-sum-of-a-string/) | Easy |  | C++ |
 | 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium |  | C++ |
 | 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium |  | C++ |
 | 2405 | [Optimal Partition of String](2405-optimal-partition-of-string/) | Medium |  | C++ |
