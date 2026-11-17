@@ -1,18 +1,22 @@
 class Solution {
 public:
-    int solve(int i,vector<int> &dp){
-        if(i==0) return 1;
-        if(i==1) return 1;
+    int solve(int n, vector<int> &dp){
+        if(n<=2){
+            return n;
+        }
 
-        if(dp[i]!= -1) return dp[i];
+        if(dp[n] != -1){
+            return dp[n];
+        }
 
-        int left = solve(i-1,dp);
-        int right = solve(i-2,dp);
-
-        return dp[i]=left + right;
+        dp[n] = solve(n-1,dp) + solve(n-2,dp);
+        return dp[n];
     }
     int climbStairs(int n) {
+        if(n <= 2){
+            return n;
+        }
         vector<int> dp(n+1,-1);
-       return solve(n,dp);
+        return solve(n,dp);
     }
 };
