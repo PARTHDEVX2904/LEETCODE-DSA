@@ -3240,6 +3240,18 @@
       ],
       "folder": "4111-count-consistent-subarrays-i",
       "updatedAt": 1795001387692
+    },
+    "0283-move-zeroes": {
+      "frontendId": "283",
+      "slug": "move-zeroes",
+      "title": "Move Zeroes",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0283-move-zeroes",
+      "updatedAt": 1795005949004
     }
   }
 }
