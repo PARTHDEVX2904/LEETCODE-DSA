@@ -3252,6 +3252,18 @@
       ],
       "folder": "0283-move-zeroes",
       "updatedAt": 1795005949004
+    },
+    "0026-remove-duplicates-from-sorted-array": {
+      "frontendId": "26",
+      "slug": "remove-duplicates-from-sorted-array",
+      "title": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0026-remove-duplicates-from-sorted-array",
+      "updatedAt": 1795006049636
     }
   }
 }
