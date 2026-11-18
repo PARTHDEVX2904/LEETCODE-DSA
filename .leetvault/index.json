@@ -3228,6 +3228,18 @@
       ],
       "folder": "2914-minimum-number-of-changes-to-make-binary-string-beautiful",
       "updatedAt": 1794997145638
+    },
+    "4111-count-consistent-subarrays-i": {
+      "frontendId": "4111",
+      "slug": "count-consistent-subarrays-i",
+      "title": "Count Consistent Subarrays I",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4111-count-consistent-subarrays-i",
+      "updatedAt": 1795001387692
     }
   }
 }
