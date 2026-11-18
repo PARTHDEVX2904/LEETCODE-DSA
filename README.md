@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**271 problems solved.**
+**272 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -21,6 +21,7 @@
 | 20 | [Valid Parentheses](0020-valid-parentheses/) | Easy |  | C++ |
 | 22 | [Generate Parentheses](0022-generate-parentheses/) | Medium |  | C++ |
 | 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists/) | Hard |  | C++ |
+| 26 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/) | Easy |  | C++ |
 | 29 | [Divide Two Integers](0029-divide-two-integers/) | Medium |  | C++ |
 | 30 | [Substring with Concatenation of All Words](0030-substring-with-concatenation-of-all-words/) | Hard |  | C++ |
 | 32 | [Longest Valid Parentheses](0032-longest-valid-parentheses/) | Hard |  | C++ |
