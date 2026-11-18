@@ -3216,6 +3216,18 @@
       ],
       "folder": "2243-calculate-digit-sum-of-a-string",
       "updatedAt": 1794832614688
+    },
+    "2914-minimum-number-of-changes-to-make-binary-string-beautiful": {
+      "frontendId": "2914",
+      "slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+      "title": "Minimum Number of Changes to Make Binary String Beautiful",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2914-minimum-number-of-changes-to-make-binary-string-beautiful",
+      "updatedAt": 1794997145638
     }
   }
 }
