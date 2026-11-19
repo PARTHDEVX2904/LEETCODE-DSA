@@ -3300,6 +3300,18 @@
       ],
       "folder": "0073-set-matrix-zeroes",
       "updatedAt": 1795088214377
+    },
+    "0075-sort-colors": {
+      "frontendId": "75",
+      "slug": "sort-colors",
+      "title": "Sort Colors",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0075-sort-colors",
+      "updatedAt": 1795088863384
     }
   }
 }
