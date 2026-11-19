@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-     int n = nums.size();
+        int n = nums.size();
         sort(nums.begin(), nums.end());
         vector<vector<int>> output;
         for(int i=0; i<n-3; i++){
@@ -26,6 +26,6 @@ public:
             }
             while(i+1 < n && nums[i] == nums[i+1]) i++;
         }
-        return output;   
+        return output;
     }
 };
