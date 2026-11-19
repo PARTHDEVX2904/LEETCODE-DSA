@@ -1,21 +1,24 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int count = 0;
-        int candidate = 0;
-        
-        for (int num : nums) {
-            if (count == 0) {
-                candidate = num;
+       int candidate = 0;
+        int balance = 0;
+ 
+        // Cancel different values while preserving the strict majority.
+        for (int value : nums) {
+            // A zero balance starts a new candidate group.
+            if (balance == 0) {
+                candidate = value;
             }
-            
-            if (num == candidate) {
-                count++;
+ 
+            // Matching values add support; different values cancel support.
+            if (value == candidate) {
+                balance++;
             } else {
-                count--;
+                balance--;
             }
         }
-        
-        return candidate;
+ 
+        return candidate; 
     }
 };
