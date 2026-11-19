@@ -3264,6 +3264,18 @@
       ],
       "folder": "0026-remove-duplicates-from-sorted-array",
       "updatedAt": 1795006049636
+    },
+    "0349-intersection-of-two-arrays": {
+      "frontendId": "349",
+      "slug": "intersection-of-two-arrays",
+      "title": "Intersection of Two Arrays",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0349-intersection-of-two-arrays",
+      "updatedAt": 1795085205356
     }
   }
 }
