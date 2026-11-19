@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**275 problems solved.**
+**276 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -39,6 +39,7 @@
 | 64 | [Minimum Path Sum](0064-minimum-path-sum/) | Medium |  | C++ |
 | 70 | [Climbing Stairs](0070-climbing-stairs/) | Easy |  | C++ |
 | 73 | [Set Matrix Zeroes](0073-set-matrix-zeroes/) | Medium |  | C++ |
+| 75 | [Sort Colors](0075-sort-colors/) | Medium |  | C++ |
 | 78 | [Subsets](0078-subsets/) | Medium |  | C++ |
 | 79 | [Word Search](0079-word-search/) | Medium |  | C++ |
 | 80 | [Remove Duplicates from Sorted Array II](0080-remove-duplicates-from-sorted-array-ii/) | Medium |  | C++ |
