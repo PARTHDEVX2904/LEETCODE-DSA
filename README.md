@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**272 problems solved.**
+**273 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -108,6 +108,7 @@
 | 328 | [Odd Even Linked List](0328-odd-even-linked-list/) | Medium |  | C++ |
 | 334 | [Increasing Triplet Subsequence](0334-increasing-triplet-subsequence/) | Medium |  | Python3 |
 | 337 | [House Robber III](0337-house-robber-iii/) | Medium |  | C++ |
+| 349 | [Intersection of Two Arrays](0349-intersection-of-two-arrays/) | Easy |  | C++ |
 | 386 | [Lexicographical Numbers](0386-lexicographical-numbers/) | Medium |  | C++ |
 | 390 | [Elimination Game](0390-elimination-game/) | Medium |  | C++ |
 | 392 | [Is Subsequence](0392-is-subsequence/) | Easy |  | C++ |
