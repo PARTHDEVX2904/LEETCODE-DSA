@@ -3276,6 +3276,18 @@
       ],
       "folder": "0349-intersection-of-two-arrays",
       "updatedAt": 1795085205356
+    },
+    "2149-rearrange-array-elements-by-sign": {
+      "frontendId": "2149",
+      "slug": "rearrange-array-elements-by-sign",
+      "title": "Rearrange Array Elements by Sign",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2149-rearrange-array-elements-by-sign",
+      "updatedAt": 1795087653410
     }
   }
 }
