@@ -3312,6 +3312,18 @@
       ],
       "folder": "0075-sort-colors",
       "updatedAt": 1795088863384
+    },
+    "0031-next-permutation": {
+      "frontendId": "31",
+      "slug": "next-permutation",
+      "title": "Next Permutation",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0031-next-permutation",
+      "updatedAt": 1795094031128
     }
   }
 }
