@@ -3288,6 +3288,18 @@
       ],
       "folder": "2149-rearrange-array-elements-by-sign",
       "updatedAt": 1795087653410
+    },
+    "0073-set-matrix-zeroes": {
+      "frontendId": "73",
+      "slug": "set-matrix-zeroes",
+      "title": "Set Matrix Zeroes",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0073-set-matrix-zeroes",
+      "updatedAt": 1795088214377
     }
   }
 }
