@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**277 problems solved.**
+**278 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -96,6 +96,7 @@
 | 213 | [House Robber II](0213-house-robber-ii/) | Medium |  | C++ |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium |  | C++ |
 | 226 | [Invert Binary Tree](0226-invert-binary-tree/) | Easy |  | C++ |
+| 229 | [Majority Element II](0229-majority-element-ii/) | Medium |  | C++ |
 | 230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/) | Medium |  | C++ |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |  | C++ |
 | 236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |  | C++ |
