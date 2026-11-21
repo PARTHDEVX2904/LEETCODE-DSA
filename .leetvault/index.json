@@ -3324,6 +3324,18 @@
       ],
       "folder": "0031-next-permutation",
       "updatedAt": 1795094031128
+    },
+    "0229-majority-element-ii": {
+      "frontendId": "229",
+      "slug": "majority-element-ii",
+      "title": "Majority Element II",
+      "difficulty": "Medium",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "0229-majority-element-ii",
+      "updatedAt": 1795285690759
     }
   }
 }
