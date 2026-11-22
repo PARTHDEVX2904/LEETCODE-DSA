@@ -2,7 +2,7 @@
 
 > Accepted LeetCode solutions, auto-synced by [LeetVault](https://github.com/PARTHDEVX2904/LEETCODE-DSA).
 
-**279 problems solved.**
+**280 problems solved.**
 
 | # | Problem | Difficulty | Topics | Languages |
 |---|---------|------------|--------|-----------|
@@ -278,6 +278,7 @@
 | 4065 | [Rearrange Array by Removing Distinct Values](4065-rearrange-array-by-removing-distinct-values/) | Easy |  | C++ |
 | 4070 | [Minimum Rotations to Dial a Number I](4070-minimum-rotations-to-dial-a-number-i/) | Easy |  | C++ |
 | 4111 | [Count Consistent Subarrays I](4111-count-consistent-subarrays-i/) | Easy |  | C++ |
+| 4120 | [Count Dominant Elements](4120-count-dominant-elements/) | Easy |  | C++ |
 | 101099 | [Aggregate Two Time Series](101099-aggregate-two-time-series/) | Medium |  | C++ |
 | 101114 | [Largest Integer With Given Digit Sum](101114-largest-integer-with-given-digit-sum/) | Easy |  | C++ |
 | 101127 | [Lexicographically Largest String After Pair Transformations](101127-lexicographically-largest-string-after-pair-transformations/) | Medium |  | C++ |
