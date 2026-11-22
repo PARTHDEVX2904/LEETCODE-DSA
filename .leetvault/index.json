@@ -3348,6 +3348,18 @@
       ],
       "folder": "2124-check-if-all-as-appears-before-all-bs",
       "updatedAt": 1795325709701
+    },
+    "4120-count-dominant-elements": {
+      "frontendId": "4120",
+      "slug": "count-dominant-elements",
+      "title": "Count Dominant Elements",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "4120-count-dominant-elements",
+      "updatedAt": 1795333471296
     }
   }
 }
