@@ -3336,6 +3336,18 @@
       ],
       "folder": "0229-majority-element-ii",
       "updatedAt": 1795285690759
+    },
+    "2124-check-if-all-as-appears-before-all-bs": {
+      "frontendId": "2124",
+      "slug": "check-if-all-as-appears-before-all-bs",
+      "title": "Check if All A's Appears Before All B's",
+      "difficulty": "Easy",
+      "topics": [],
+      "langs": [
+        "C++"
+      ],
+      "folder": "2124-check-if-all-as-appears-before-all-bs",
+      "updatedAt": 1795325709701
     }
   }
 }
